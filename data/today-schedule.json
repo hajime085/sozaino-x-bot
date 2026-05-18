@@ -1,0 +1,58 @@
+[
+  {
+    "type": "material",
+    "id": 819,
+    "text": "🗓️ 5月・初夏の素材\n\n「母の日」の季節にぴったりな素材を紹介します。\n\n【赤いバラの豪華な花束イラスト】\n母の日やバレンタインデーなどの特別なイベント記事のアイキャッチとして活用。華やかなバラの花束が読者の感情に訴えかけ、クリック率向上が期待できます。に使えます。\n\n→ https://sozaino.com/download?id=819\n\n#花束 #赤い花 #イラスト #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/home_147.webp",
+    "schedule": {
+      "jstHour": 9,
+      "jstMinute": 3,
+      "utcHour": 0,
+      "utcMinute": 3,
+      "cron": "3 0 * * *",
+      "label": "09:03 JST"
+    }
+  },
+  {
+    "type": "material",
+    "id": 6,
+    "text": "📸 素材紹介\n\n森の中で輝く新緑の葉と朝日\n💡 使用例：「春の訪れを感じる新緑の季節」\n\n朝日が透過する新緑の葉が、深緑の森背景とのコントラストで立体感を生み出す。黄緑から深緑のグラデーションと、柔らかい逆光が生命力あふれる春の情景を表現。ウェルネスやリフレッシュ関連のコンテンツに適した明るく清新な雰囲気。\n\n無料でDLできます\n→ https://sozaino.com/download?id=6\n\n#森 #朝日 #自然 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/nature_002.webp",
+    "schedule": {
+      "jstHour": 13,
+      "jstMinute": 55,
+      "utcHour": 4,
+      "utcMinute": 55,
+      "cron": "55 4 * * *",
+      "label": "13:55 JST"
+    }
+  },
+  {
+    "type": "column",
+    "id": "col-005",
+    "text": "💡 デザインのヒント\n\nブログ用フリー素材の選び方。失敗しないための5つの確認ポイント\n\nブログのアイキャッチや挿入画像に使うフリー素材を選ぶときの5つの確認ポイントを解説。商用利用・画質・ファイル形式・ライセンスの読み方まで、初心者でも迷わない選び方をまとめます。\n\n→ https://sozaino.com/column/free-material-selection-guide.html",
+    "imageUrl": null,
+    "schedule": {
+      "jstHour": 17,
+      "jstMinute": 7,
+      "utcHour": 8,
+      "utcMinute": 7,
+      "cron": "7 8 * * *",
+      "label": "17:07 JST"
+    }
+  },
+  {
+    "type": "material",
+    "id": 605,
+    "text": "🗓️ 5月・初夏の素材\n\n「新緑」の季節にぴったりな素材を紹介します。\n\n【暗闇を照らすランタンの温かい光（キャンプ・No.605）】\n防災・防犯啓発動画のサムネイル。懐中電灯やランタンの重要性を視覚的に強調でき、緊急時の備えの大切さを伝わりやすくします。に使えます。\n\n→ https://sozaino.com/download?id=605\n\n#キャンプ #アウトドア #懐中電灯 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/outdoor_116.webp",
+    "schedule": {
+      "jstHour": 20,
+      "jstMinute": 24,
+      "utcHour": 11,
+      "utcMinute": 24,
+      "cron": "24 11 * * *",
+      "label": "20:24 JST"
+    }
+  }
+]
