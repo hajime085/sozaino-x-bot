@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 819,
-    "text": "🗓️ 5月・初夏の素材\n\n「母の日」の季節にぴったりな素材を紹介します。\n\n【赤いバラの豪華な花束イラスト】\n母の日やバレンタインデーなどの特別なイベント記事のアイキャッチとして活用。華やかなバラの花束が読者の感情に訴えかけ、クリック率向上が期待できます。に使えます。\n\n→ https://sozaino.com/download?id=819\n\n#花束 #赤い花 #イラスト #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/home_147.webp",
+    "id": 13,
+    "text": "📸 素材紹介\n\n春の公園でお弁当を楽しむピクニックシーン\n💡 使用例：「春の公園でのピクニックを最高に楽しむコツ」\n\n春の淡いピンク色に包まれた公園で、レジャーシートの上にお弁当が広げられたシーン。桜の花びらが舞う柔らかな光の中、ピクニックの温かみと季節感が引き立つ。温かみのある色合いで、家族や友人との時間を連想させる。\n\n無料でDLできます\n→ https://sozaino.com/download?id=13\n\n#ピクニック #春 #桜 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/nature_017.webp",
     "schedule": {
-      "jstHour": 9,
-      "jstMinute": 3,
-      "utcHour": 0,
-      "utcMinute": 3,
-      "cron": "3 0 * * *",
-      "label": "09:03 JST"
+      "jstHour": 10,
+      "jstMinute": 0,
+      "utcHour": 1,
+      "utcMinute": 0,
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 6,
-    "text": "📸 素材紹介\n\n森の中で輝く新緑の葉と朝日\n💡 使用例：「春の訪れを感じる新緑の季節」\n\n朝日が透過する新緑の葉が、深緑の森背景とのコントラストで立体感を生み出す。黄緑から深緑のグラデーションと、柔らかい逆光が生命力あふれる春の情景を表現。ウェルネスやリフレッシュ関連のコンテンツに適した明るく清新な雰囲気。\n\n無料でDLできます\n→ https://sozaino.com/download?id=6\n\n#森 #朝日 #自然 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/nature_002.webp",
+    "id": 673,
+    "text": "✨ 【無料素材】キャンプファイアで調理する黒い鍋とフライパン\n\n▸ キャンプ・アウトドアブログの記事アイキャッチに最適。焚き火の温かみと調理風景が読者の冒険心をくすぐり、キャンプ体験記事への興味を高めます。\n▸ キャンプ初心者向けYouTube動画のサムネイルや本編映像として活用可能。野外調理のハウツー動画や初心者ガイドの信頼感を演出できます。\n\n焚き火の炎を背景に、黒い調理器具が実用的で無骨な雰囲気を醸し出しています。野外での食事シーンを演出でき、アウトドア関連のブログやSNS投稿に自然な温かみをもたらします。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=673\n\n#フリー素材 #ソザイノ #キャンプ #アウトドア #キャンプ飯",
+    "imageUrl": "https://sozaino.com/webp/outdoor_103.webp",
     "schedule": {
       "jstHour": 13,
-      "jstMinute": 55,
+      "jstMinute": 0,
       "utcHour": 4,
-      "utcMinute": 55,
-      "cron": "55 4 * * *",
-      "label": "13:55 JST"
+      "utcMinute": 0,
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-005",
-    "text": "💡 デザインのヒント\n\nブログ用フリー素材の選び方。失敗しないための5つの確認ポイント\n\nブログのアイキャッチや挿入画像に使うフリー素材を選ぶときの5つの確認ポイントを解説。商用利用・画質・ファイル形式・ライセンスの読み方まで、初心者でも迷わない選び方をまとめます。\n\n→ https://sozaino.com/column/free-material-selection-guide.html",
+    "id": "col-004",
+    "text": "📝 母の日・こどもの日の季節に合わせて\n\nWebP素材がSEOに効く理由。ページ速度・Core Web Vitals・検索順位への影響を解説\n\nWebP形式の画像がSEOに与える影響を解説。ページ読み込み速度の改善からCore Web Vitalsのスコアアップ、検索順位への効果まで、ブログ運営者が知っておきたい知識をまとめます。\n\n詳しくはこちら\n→ https://sozaino.com/column/webp-seo-effect.html\n\n#デザイン #素材活用 #ソザイノ",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 17,
-      "jstMinute": 7,
-      "utcHour": 8,
-      "utcMinute": 7,
-      "cron": "7 8 * * *",
-      "label": "17:07 JST"
+      "jstHour": 19,
+      "jstMinute": 0,
+      "utcHour": 10,
+      "utcMinute": 0,
+      "cron": "0 10 * * *",
+      "label": "19:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 605,
-    "text": "🗓️ 5月・初夏の素材\n\n「新緑」の季節にぴったりな素材を紹介します。\n\n【暗闇を照らすランタンの温かい光（キャンプ・No.605）】\n防災・防犯啓発動画のサムネイル。懐中電灯やランタンの重要性を視覚的に強調でき、緊急時の備えの大切さを伝わりやすくします。に使えます。\n\n→ https://sozaino.com/download?id=605\n\n#キャンプ #アウトドア #懐中電灯 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/outdoor_116.webp",
+    "id": 674,
+    "text": "✨ 【無料素材】アウトドアクッキング用の黒いクッカーセット\n\n▸ キャンプ・登山ブログの記事アイキャッチに最適。軽量で機能的なクッカーセットの魅力を視覚的に伝え、アウトドア初心者の購買意欲を高められます。\n▸ YouTubeのキャンプ動画やサバイバル系チャンネルのサムネイルやオープニング映像に。木製テーブルの上での配置が自然で、視聴者の目を引き付けやすいです。\n\n焚き火での調理を想定した黒いクッカーセット。シンプルで落ち着いた配色が、荒野での食事風景をリアルに演出します。ハイキングやキャンプでの野外調理シーンに即戦力となるビジュアル。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=674\n\n#フリー素材 #ソザイノ #キャンプ飯 #調理器具 #アウトドア",
+    "imageUrl": "https://sozaino.com/webp/outdoor_031.webp",
     "schedule": {
       "jstHour": 20,
-      "jstMinute": 24,
+      "jstMinute": 0,
       "utcHour": 11,
-      "utcMinute": 24,
-      "cron": "24 11 * * *",
-      "label": "20:24 JST"
+      "utcMinute": 0,
+      "cron": "0 11 * * *",
+      "label": "20:00 JST"
     }
   }
 ]
