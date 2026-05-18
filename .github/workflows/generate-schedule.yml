@@ -1,0 +1,29 @@
+name: 1. Generate Daily Schedule
+
+on:
+  schedule:
+    - cron: '0 22 * * *'   # 毎日 22:00 UTC = 翌 07:00 JST
+  workflow_dispatch:         # 手動実行も可能
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate schedule
+        run: node sozaino-bot.js
+
+      - name: Commit schedule
+        run: |
+          git config user.name  "sozaino-bot"
+          git config user.email "bot@sozaino.com"
+          git add data/today-schedule.json data/posted-log.json
+          git diff --cached --quiet || git commit -m "📅 daily schedule $(date '+%Y-%m-%d')"
+          git push

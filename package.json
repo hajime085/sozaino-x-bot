@@ -1,0 +1,14 @@
+{
+  "name": "sozaino-x-bot",
+  "version": "1.0.0",
+  "description": "SOZAINO 素材を定期的に X に自動投稿するBot",
+  "type": "module",
+  "scripts": {
+    "generate": "node sozaino-bot.js",
+    "post":     "node src/execute-post.js",
+    "test":     "node test/dry-run.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

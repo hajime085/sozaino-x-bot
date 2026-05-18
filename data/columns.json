@@ -1,0 +1,58 @@
+[
+  {
+    "id": "col-001",
+    "title": "AI生成素材のブログ活用術。選び方・使い方・注意点をまとめて解説",
+    "excerpt": "AI生成画像をブログやSNSで活用するための実践的な使い方を解説。素材の選び方、アイキャッチへの組み込み方、利用時の注意点まで、ブログ運営者目線でまとめます。",
+    "url": "https://sozaino.com/column/ai-material-howto.html",
+    "category": "ai"
+  },
+  {
+    "id": "col-002",
+    "title": "フリー素材の商用利用、実は注意が必要なケースとは？確認すべき3つのポイント",
+    "excerpt": "「商用利用OK」のフリー素材でも注意が必要なケースがあります。利用規約の読み方、NGになりやすいパターン、安全に使うための確認ポイントを解説します。",
+    "url": "https://sozaino.com/column/commercial-use-guide.html",
+    "category": "license"
+  },
+  {
+    "id": "col-003",
+    "title": "SNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表",
+    "excerpt": "X・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。",
+    "url": "https://sozaino.com/column/sns-image-size-guide.html",
+    "category": "design"
+  },
+  {
+    "id": "col-004",
+    "title": "WebP素材がSEOに効く理由。ページ速度・Core Web Vitals・検索順位への影響を解説",
+    "excerpt": "WebP形式の画像がSEOに与える影響を解説。ページ読み込み速度の改善からCore Web Vitalsのスコアアップ、検索順位への効果まで、ブログ運営者が知っておきたい知識をまとめます。",
+    "url": "https://sozaino.com/column/webp-seo-effect.html",
+    "category": "seo"
+  },
+  {
+    "id": "col-005",
+    "title": "ブログ用フリー素材の選び方。失敗しないための5つの確認ポイント",
+    "excerpt": "ブログのアイキャッチや挿入画像に使うフリー素材を選ぶときの5つの確認ポイントを解説。商用利用・画質・ファイル形式・ライセンスの読み方まで、初心者でも迷わない選び方をまとめます。",
+    "url": "https://sozaino.com/column/free-material-selection-guide.html",
+    "category": "howto"
+  },
+  {
+    "id": "col-006",
+    "title": "ブログのアイキャッチ画像サイズ、正解はこれ。用途別の推奨サイズと選び方",
+    "excerpt": "WordPress・はてなブログ・noteなど主要プラットフォーム別の推奨サイズを整理。SNSシェア時に画像が切れないためのポイントも解説します。",
+    "url": "https://sozaino.com/column/eyecatch-size-guide.html",
+    "category": "design"
+  },
+  {
+    "id": "col-007",
+    "title": "AI生成画像の著作権は大丈夫？ブログで使う前に知っておきたい現在地（2026年5月時点）",
+    "excerpt": "AI生成画像の著作権で気をつけるべきポイントを、文化庁の見解をベースに「学習段階」「利用段階」の2フェーズで整理します。",
+    "url": "https://sozaino.com/column/ai-image-copyright.html",
+    "category": "ai"
+  },
+  {
+    "id": "col-008",
+    "title": "WebP形式とは？PNG・JPEGとの違いと、ブログで使う5つのメリット",
+    "excerpt": "WebPの特徴、PNG・JPEGとの違い、ブログ運営者が知っておきたい導入メリットと注意点を実例ベースで解説します。",
+    "url": "https://sozaino.com/column/webp-guide.html",
+    "category": "format"
+  }
+]
