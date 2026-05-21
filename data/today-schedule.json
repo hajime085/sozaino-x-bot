@@ -1,23 +1,23 @@
 [
   {
     "type": "material",
-    "id": 151,
-    "text": "📸 素材紹介\n\n桜の風景をスマートフォンで撮影する瞬間\n💡 使用例：「スマホで桜を美しく撮るテクニック」\n\n春の訪れを感じさせる桜を、スマートフォンのレンズを通して捉えた一瞬。淡いピンクの花びらと緑の枝葉が柔らかい自然光で照らされ、日常的な瞬間のなかに美しさを見出す情景。SNS投稿や旅行ブログのビジュアルに適した親しみやすい構図です。\n\n無料でDLできます\n→ https://sozaino.com/download?id=151\n\n#桜 #春 #スマホ #素材配布",
-    "imageUrl": "https://sozaino.com/webp/nature_018.webp",
+    "id": 646,
+    "text": "🗓️ 5月・初夏の素材\n\n「母の日」の季節にぴったりな素材を紹介します。\n\n【釣り針の種類と形状の比較図解】\n釣り動画チャンネルの釣り針選び方解説動画のサムネイルや動画内素材として活用。釣りの基本知識を分かりやすく説明できるため、視聴者の信頼度と再生時間が向上します。に使えます。\n\n→ https://sozaino.com/download?id=646\n\n#釣り #釣り道具 #アウトドア #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/outdoor_083.webp",
     "schedule": {
-      "jstHour": 8,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 23,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 23 * * *",
-      "label": "08:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 818,
-    "text": "📸 素材紹介\n\n赤いバラの豪華な花束ギフト\n💡 使用例：「花屋が秘かに教える〜花束を長く美しく保つ5つの裏技」\n\n深紅のバラが層状に重ねられた豪華な花束。高級感のあるラッピングとシンプルな背景が、ギフトとしての上品さを引き立たせます。母の日やお祝いシーンに適した、エレガントで温かみのある視覚表現。\n\n無料でDLできます\n→ https://sozaino.com/download?id=818\n\n#花束 #赤いバラ #ギフト #素材配布",
-    "imageUrl": "https://sozaino.com/webp/home_146.webp",
+    "id": 683,
+    "text": "🗓️ 5月・初夏の素材\n\n「新緑」の季節にぴったりな素材を紹介します。\n\n【キャンプ場でのコーヒータイムと朝食の準備】\nライフスタイル・ミニマリスト関連の記事や動画に適しています。シンプルで洗練されたキャンプ風景が、自然派ライフスタイルの魅力を視覚的に伝えます。に使えます。\n\n→ https://sozaino.com/download?id=683\n\n#キャンプ #コーヒー #アウトドア #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/outdoor_088.webp",
     "schedule": {
       "jstHour": 12,
       "jstMinute": 0,
@@ -29,30 +29,30 @@
   },
   {
     "type": "column",
-    "id": "col-006",
-    "text": "📖 ソザイノ コラム\n\nブログのアイキャッチ画像サイズ、正解はこれ。用途別の推奨サイズと選び方\n\nWordPress・はてなブログ・noteなど主要プラットフォーム別の推奨サイズを整理。SNSシェア時に画像が切れないためのポイントも解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/eyecatch-size-guide.html\n\n#フリー素材 #ブログ運営",
+    "id": "col-003",
+    "text": "💡 デザインのヒント\n\nSNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表\n\nX・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。\n\n→ https://sozaino.com/column/sns-image-size-guide.html",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 18,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 9,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 9 * * *",
-      "label": "18:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 18,
-    "text": "🗓️ 5月・初夏の素材\n\n「新緑」の季節にぴったりな素材を紹介します。\n\n【春の桜が満開に咲く青空の風景】\n季節の行事・イベントに使えます。\n\n→ https://sozaino.com/download?id=18\n\n#桜 #春 #満開 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/nature_038.webp",
+    "id": 595,
+    "text": "✨ 【無料素材】アウトドアキャンプの調理器具と食事セット\n\n▸ キャンプ初心者向けガイド記事のアイキャッチ。木製テーブルに整理された調理器具が、必要な準備を視覚的に分かりやすく伝え、キャンプへの興味をかき立てます。\n▸ アウトドア・キャンプYouTubeチャンネルのサムネイル。陽光が作る影が立体感を演出し、シンプルながら洗練された雰囲気で視聴者の目を引きます。\n\nキャンプサイトの調理風景を捉えた1枚。鍋やフライパン、食器が自然光の中で配置され、野営での温かい食事シーンを演出。アースカラーと金属の質感が調和し、アウトドア活動の実用性と情緒を同時に表現しています。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=595\n\n#フリー素材 #ソザイノ #キャンプ #アウトドア #野外料理",
+    "imageUrl": "https://sozaino.com/webp/outdoor_032.webp",
     "schedule": {
-      "jstHour": 21,
+      "jstHour": 20,
       "jstMinute": 0,
-      "utcHour": 12,
+      "utcHour": 11,
       "utcMinute": 0,
-      "cron": "0 12 * * *",
-      "label": "21:00 JST"
+      "cron": "0 11 * * *",
+      "label": "20:00 JST"
     }
   }
 ]
