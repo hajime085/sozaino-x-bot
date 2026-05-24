@@ -1,9 +1,9 @@
 [
   {
     "type": "material",
-    "id": 8,
-    "text": "✨ 【無料素材】春爛漫、桜満開の美しい風景イラスト\n\n▸ お花見スポット紹介\n▸ 春の旅行ガイド\n\n淡いピンク色の桜が空間を占め、晴れ渡った青空とのコントラストが際立つ春景。柔らかなアニメーション調の描写で、温かみのある季節感を表現しています。桜の開花期を象徴する穏やかで希望的な印象を与える一枚です。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=8\n\n#フリー素材 #ソザイノ #桜 #春 #風景",
-    "imageUrl": "https://sozaino.com/webp/nature_004.webp",
+    "id": 23,
+    "text": "✨ 【無料素材】桜の下で友人たちと楽しむピクニック\n\n▸ お花見スポット紹介\n▸ 春のイベント企画\n\n淡いピンク色の桜が背景に咲く春の日中。複数の人物が座って食事やくつろぎの時間を過ごしている情景です。温かみのある自然光と柔らかい色合いで、季節の喜びや友人との絆を表現しています。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=23\n\n#フリー素材 #ソザイノ #桜 #ピクニック #春",
+    "imageUrl": "https://sozaino.com/webp/person_107.webp",
     "schedule": {
       "jstHour": 8,
       "jstMinute": 0,
@@ -15,37 +15,37 @@
   },
   {
     "type": "material",
-    "id": 616,
-    "text": "🗓️ 5月・初夏の素材\n\n「母の日」の季節にぴったりな素材を紹介します。\n\n【焚き火の炎と火かき棒のダイナミックな瞬間】\nキャンプやアウトドア関連のブログ記事。焚き火の魅力や準備方法を紹介する際に、ダイナミックな炎の画像がビジュアルアピール効果を高めます。に使えます。\n\n→ https://sozaino.com/download?id=616\n\n#焚き火 #キャンプ #アウトドア #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/outdoor_107.webp",
+    "id": 134,
+    "text": "📸 素材紹介\n\n山々に囲まれた湖畔でのレモン水\n💡 使用例：「山と湖に囲まれた絶景スポットでの癒しの一杯」\n\n山々の雄大な背景とクリアなグラスが調和した、自然派ライフスタイルを連想させる構図。爽やかな黄色と透明感が初夏の屋外シーンに最適で、旅行ブログやアウトドア関連のコンテンツに重宝する一枚。\n\n無料でDLできます\n→ https://sozaino.com/download?id=134\n\n#アウトドア #素材配布",
+    "imageUrl": "https://sozaino.com/webp/food_009.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-007",
-    "text": "💡 デザインのヒント\n\nAI生成画像の著作権は大丈夫？ブログで使う前に知っておきたい現在地（2026年5月時点）\n\nAI生成画像の著作権で気をつけるべきポイントを、文化庁の見解をベースに「学習段階」「利用段階」の2フェーズで整理します。\n\n→ https://sozaino.com/column/ai-image-copyright.html",
+    "id": "col-008",
+    "text": "📝 ゴールデンウィークの季節🎏に合わせて\n\nWebP形式とは？PNG・JPEGとの違いと、ブログで使う5つのメリット\n\nWebPの特徴、PNG・JPEGとの違い、ブログ運営者が知っておきたい導入メリットと注意点を実例ベースで解説します。\n\n詳しくはこちら\n→ https://sozaino.com/column/webp-guide.html\n\n#デザイン #素材活用 #ソザイノ",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 19,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 10,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 10 * * *",
-      "label": "19:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 622,
-    "text": "📸 素材紹介\n\n川辺での釣りに必要な全道具セット\n💡 使用例：「1万円以下で始める釣りライフ｜最小限の道具で最大の釣果を得るコツ」\n\n釣り竿、クーラーボックス、タックルボックスなど実際の釣行で使用する道具が一堂に揃った構成。自然光が当たった状態で各アイテムが配置され、アウトドア活動の準備段階を視覚的に伝えます。落ち着いた色合いで信頼感と実用性を表現。\n\n無料でDLできます\n→ https://sozaino.com/download?id=622\n\n#釣り #アウトドア #キャンプ #素材配布",
-    "imageUrl": "https://sozaino.com/webp/outdoor_097.webp",
+    "id": 835,
+    "text": "✨ 【無料素材】空を彩るカラフルな鯉のぼりの風景\n\n▸ こどもの日や春の季節情報を扱うブログ記事のアイキャッチに最適。カラフルな鯉のぼりが青空に映える美しい構図で、季節感のある記事の視認性を大幅に向上させます。\n▸ 家族イベントや子育て関連の動画サムネイル素材として活用できます。目を引く色使いが視聴者の注目を集め、クリック率向上が期待できます。\n\n青空を背景に、赤・青・黄・緑など多彩な色の鯉のぼりがはためく春の情景。日本の伝統行事を象徴するダイナミックな構図で、こどもの日の季節感を強く感じさせます。祭りの活気と家族の温かみが同時に表現されています。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=835\n\n#フリー素材 #ソザイノ #鯉のぼり #こどもの日 #春",
+    "imageUrl": "https://sozaino.com/webp/home_154.webp",
     "schedule": {
       "jstHour": 20,
       "jstMinute": 0,
