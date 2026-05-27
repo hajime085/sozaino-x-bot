@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 315,
-    "text": "🗓️ 5月・初夏の素材\n\n「GW」の季節にぴったりな素材を紹介します。\n\n【夜間グランピング：照明に包まれた贅沢なテント体験】\nアウトドア旅行・キャンプ動画のサムネイルやオープニング映像として活用でき、グランピングの上質さと快適性を視覚的に伝えられます。に使えます。\n\n→ https://sozaino.com/download?id=315\n\n#キャンプ #アウトドア #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/outdoor_02.webp",
+    "id": 816,
+    "text": "🎨 ゴールデンウィークの季節🎏\n\n【赤いカーネーション花束の贈り物】\n深紅のカーネーションを束ねたイラスト。感謝と愛情の象徴とされる赤い花を、柔らかなタッチで表現しています。母の日のギフト告知や感謝メッセージのビジュアルとして、ブログの記事装飾に活用できます。\n📌 母の日や感謝を伝えるテーマのブログ記事。優雅にラッピングされた花束は感動的なストーリーを引き立て、読者の心を温かく包み込むアイキャッチとして最適です。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=816\n\n#花束 #赤い花 #イラスト #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/home_144.webp",
     "schedule": {
-      "jstHour": 8,
+      "jstHour": 9,
       "jstMinute": 0,
-      "utcHour": 23,
+      "utcHour": 0,
       "utcMinute": 0,
-      "cron": "0 23 * * *",
-      "label": "08:00 JST"
+      "cron": "0 0 * * *",
+      "label": "09:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 478,
-    "text": "📸 素材紹介\n\n高性能懐中電灯と電池のセット写真\n💡 使用例：「停電時に頼れるのはコレ。防災グッズの必須アイテム徹底比較」\n\n懐中電灯と電池を組み合わせた実用的なセット写真。機能性を重視した構成で、防災・キャンプ準備のテーマに適した落ち着いた色調。実物ベースの信頼感あるビジュアルで、アウトドア関連コンテンツや緊急対策ガイドの挿絵に活用できます。\n\n無料でDLできます\n→ https://sozaino.com/download?id=478\n\n#懐中電灯 #アウトドア #装備 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/home_065.webp",
+    "id": 150,
+    "text": "🎨 新緑が眩しい5月\n\n【夜桜ライトアップ：川沿いの満開桜並木】\n川沿いに連なる桜並木がライトアップされた夜間の風景。柔らかなピンク・白系の光に包まれた樹々が暗い夜空に浮かび上がり、水面への映り込みが奥行きを生み出す。春の風情と幻想的な夜間の美しさが融合した景観。\n📌 日本の季節イベント紹介に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=150\n\n#桜 #夜桜 #ライトアップ #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/nature_016.webp",
     "schedule": {
-      "jstHour": 12,
+      "jstHour": 13,
       "jstMinute": 0,
-      "utcHour": 3,
+      "utcHour": 4,
       "utcMinute": 0,
-      "cron": "0 3 * * *",
-      "label": "12:00 JST"
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-007",
-    "text": "💡 デザインのヒント\n\nAI生成画像の著作権は大丈夫？ブログで使う前に知っておきたい現在地（2026年5月時点）\n\nAI生成画像の著作権で気をつけるべきポイントを、文化庁の見解をベースに「学習段階」「利用段階」の2フェーズで整理します。\n\n→ https://sozaino.com/column/ai-image-copyright.html",
+    "id": "col-006",
+    "text": "📖 ソザイノ コラム\n\nブログのアイキャッチ画像サイズ、正解はこれ。用途別の推奨サイズと選び方\n\nWordPress・はてなブログ・noteなど主要プラットフォーム別の推奨サイズを整理。SNSシェア時に画像が切れないためのポイントも解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/eyecatch-size-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 17,
+      "jstHour": 19,
       "jstMinute": 0,
-      "utcHour": 8,
+      "utcHour": 10,
       "utcMinute": 0,
-      "cron": "0 8 * * *",
-      "label": "17:00 JST"
+      "cron": "0 10 * * *",
+      "label": "19:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 14,
-    "text": "📸 素材紹介\n\n満開の桜の花びら、青空に映える春景色\n💡 使用例：「今年の桜は例年より美しい！最高の見頃を迎えた開花状況」\n\n淡いピンク色の桜が濃紺の青空に映える春のショット。満開の花びらがフレーム全体に広がり、清々しさと華やかさが同時に感じられる。季節感を強調したい企画や、春の到来を視覚的に表現する場面に適しています。\n\n無料でDLできます\n→ https://sozaino.com/download?id=14\n\n#桜 #春 #花見 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/nature_033.webp",
+    "id": 174,
+    "text": "✨ 【無料素材】春の京都、桜咲く古い町並みを歩く\n\n▸ お花見スポット紹介\n▸ 京都観光ガイド\n\n京都の古い町並みに咲く桜を捉えた春景。淡いピンクと濃紺の暖簾、白壁や木造建築の深い茶色が調和し、懐古的で穏やかな雰囲気を醸し出す。季節感と地域特性を同時に表現できる一枚。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=174\n\n#フリー素材 #ソザイノ #桜 #京都 #春",
+    "imageUrl": "https://sozaino.com/webp/nature_026.webp",
     "schedule": {
-      "jstHour": 21,
+      "jstHour": 22,
       "jstMinute": 0,
-      "utcHour": 12,
+      "utcHour": 13,
       "utcMinute": 0,
-      "cron": "0 12 * * *",
-      "label": "21:00 JST"
+      "cron": "0 13 * * *",
+      "label": "22:00 JST"
     }
   }
 ]
