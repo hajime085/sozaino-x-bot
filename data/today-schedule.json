@@ -1,36 +1,36 @@
 [
   {
     "type": "material",
-    "id": 407,
-    "text": "🎨 父の日のある6月\n\n【雨の中を自転車で走る黄色いレインコートの少年】\n雨天での移動シーンを描いたアニメ調の作品。鮮やかな黄色いレインコートが暗い雨の空間で視線を集める配色設計。背景透過により、ブログのアイコンやバナー、天気予報関連の記事など多様なレイアウトへの埋め込みが容易です。活動的ながらも天候の制約を示唆する構図。\n📌 梅雨時期の生活情報発信や子ども向け教育動画のオープニング画像として使用可能。アニメ風のタッチが親しみやすく、幅広い年代の視聴者に好まれます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=407\n\n#雨 #自転車 #アニメ風 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/blog_038.webp",
+    "id": 1072,
+    "text": "📸 素材紹介\n\n青い水滴が降る雨のパターン素材\n💡 使用例：「雨の日こそ子どもとおうち時間を充実させるアイデア集」\n\n青い水滴が降るパターン素材です。背景が透過しているため、様々なデザインに重ねて使用できます。雨の日のコンテンツやウェザーテーマの記事、動画に最適な素材です。\n\n無料でDLできます\n→ https://sozaino.com/download?id=1072\n\n#水滴 #雨 #背景透過 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/blog_205.webp",
     "schedule": {
-      "jstHour": 8,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 23,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 23 * * *",
-      "label": "08:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 375,
-    "text": "🎨 梅雨の季節がやってきました☔\n\n【強い日差しで日傘を差す女性のアニメイラスト】\n夏の強い日差しの中、日傘を差す女性のアニメイラスト。明るく澄んだ色彩で、日中の防御的で活動的な雰囲気を表現。季節感のある日常シーンのため、ブログの挿絵や記事装飾に直結する素材。\n📌 天気予報や季節情報を扱うウェブサイトのバナー素材。しんとした雨の表現が視覚的に伝わりやすく、ユーザーの目を引きます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=375\n\n#アニメ #女性 #雨 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/blog_094.webp",
+    "id": 1071,
+    "text": "🗓️ 6月・梅雨の素材\n\n「紫陽花」の季節にぴったりな素材を紹介します。\n\n【降る雨のシンプルなイラストパターン】\n梅雨や雨の季節に関するブログ記事のアイキャッチ。爽やかで清潔感のあるデザインが、季節感のある記事の視認性を高め、読者の興味を引き出せます。に使えます。\n\n→ https://sozaino.com/download?id=1071\n\n#雨 #水滴 #天気 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/blog_204.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-002",
-    "text": "💡 デザインのヒント\n\nフリー素材の商用利用、実は注意が必要なケースとは？確認すべき3つのポイント\n\n「商用利用OK」のフリー素材でも注意が必要なケースがあります。利用規約の読み方、NGになりやすいパターン、安全に使うための確認ポイントを解説します。\n\n→ https://sozaino.com/column/commercial-use-guide.html",
+    "id": "col-004",
+    "text": "💡 デザインのヒント\n\nWebP素材がSEOに効く理由。ページ速度・Core Web Vitals・検索順位への影響を解説\n\nWebP形式の画像がSEOに与える影響を解説。ページ読み込み速度の改善からCore Web Vitalsのスコアアップ、検索順位への効果まで、ブログ運営者が知っておきたい知識をまとめます。\n\n→ https://sozaino.com/column/webp-seo-effect.html",
     "imageUrl": null,
     "schedule": {
       "jstHour": 19,
@@ -43,9 +43,9 @@
   },
   {
     "type": "material",
-    "id": 722,
-    "text": "🎨 梅雨の季節がやってきました☔\n\n【雨の中、傘をさすかわいいカエル】\n雨の日の情景をほのぼのと描いたイラスト。小さな傘を手にしたカエルが、雨の中で愛らしく佇む光景は、しっとりした灰色の空と緑の濃淡を組み合わせた落ち着いた色合いが特徴。親しみやすいタッチで、季節感と生き物のかわいらしさを同時に表現している。\n📌 天気予報やお天気アプリのバナー・サムネイル。優しいタッチで降雨予報を表現し、視聴者に親しみやすさを与えます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=722\n\n#カエル #雨 #傘 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/nature_048.webp",
+    "id": 739,
+    "text": "🗓️ 6月・梅雨の素材\n\n「梅雨」の季節にぴったりな素材を紹介します。\n\n【雨の夜道、車のヘッドライトが映る窓ガラス】\n梅雨時期や秋雨シーズンの天気・季節関連ブログ記事のアイキャッチ。雨の情緒的な表現が季節感を引き出し、読者の共感を得やすくなります。に使えます。\n\n→ https://sozaino.com/download?id=739\n\n#雨 #夜景 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/nature_065.webp",
     "schedule": {
       "jstHour": 20,
       "jstMinute": 0,
