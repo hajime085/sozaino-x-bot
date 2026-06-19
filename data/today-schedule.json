@@ -1,51 +1,51 @@
 [
   {
     "type": "material",
-    "id": 959,
-    "text": "📸 素材紹介\n\nひらめき・アイデア・成功のコンセプトイラスト\n💡 使用例：「あなたの次のビッグアイデアは何ですか？成功起業家5人が語る、ひらめきの瞬間」\n\n電球を中心とした明るいトーンのキャラクター表現。ひらめきの瞬間を視覚化した構成で、ビジネスシーンでのアイデア発想や成功のプロセスを表現します。背景透過形式で既存デザインへの組み込みが容易。\n\n無料でDLできます\n→ https://sozaino.com/download?id=959\n\n#ひらめき #アイデア #電球 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/character_334.webp",
+    "id": 563,
+    "text": "🗓️ 6月・梅雨の素材\n\n「紫陽花」の季節にぴったりな素材を紹介します。\n\n【一本道の先の大樹。希望への道】\n環境問題や持続可能性（SDGs）に関するブログ記事や教育動画。自然保護の大切さを象徴的に表現し、視聴者の環境意識向上を促せます。に使えます。\n\n→ https://sozaino.com/download?id=563\n\n#風景 #自然 #希望 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/blog_168.webp",
     "schedule": {
-      "jstHour": 8,
+      "jstHour": 9,
       "jstMinute": 0,
-      "utcHour": 23,
+      "utcHour": 0,
       "utcMinute": 0,
-      "cron": "0 23 * * *",
-      "label": "08:00 JST"
+      "cron": "0 0 * * *",
+      "label": "09:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 1063,
-    "text": "📸 素材紹介\n\n賛成と反対の手のジェスチャー\n💡 使用例：「YES or NO？プロが教える意思決定の秘訣と判断基準」\n\n賛成と反対の意思を表現する手のジェスチャー素材です。背景が透過されているため、ブログや動画のどのようなシーンにも合わせやすく、意見の対比や判断場面を視覚的に分かりやすく表現できます。\n\n無料でDLできます\n→ https://sozaino.com/download?id=1063\n\n#手のポーズ #ジェスチャー #Yes・No #素材配布",
-    "imageUrl": "https://sozaino.com/webp/blog_195.webp",
+    "id": 82,
+    "text": "✨ 【無料素材】白Tシャツを着た笑顔の女性が指差すポートレート\n\n▸ ライフスタイルブログ\n▸ ファッション記事\n\n白いシンプルなTシャツで清潔感を演出する女性が、親指を立てて指差すジェスチャーで前向きなメッセージを伝えます。背景透過により、ブログやLPのレイアウトに柔軟に組み込める汎用性の高い1カット。笑顔と指差しの組み合わせで信頼感と行動喚起を同時に表現。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=82\n\n#フリー素材 #ソザイノ #ポートレート #女性 #笑顔",
+    "imageUrl": "https://sozaino.com/webp/person_052.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-002",
-    "text": "📝 梅雨の季節がやってきました☔に合わせて\n\nフリー素材の商用利用、実は注意が必要なケースとは？確認すべき3つのポイント\n\n「商用利用OK」のフリー素材でも注意が必要なケースがあります。利用規約の読み方、NGになりやすいパターン、安全に使うための確認ポイントを解説します。\n\n詳しくはこちら\n→ https://sozaino.com/column/commercial-use-guide.html\n\n#デザイン #素材活用 #ソザイノ",
+    "id": "col-008",
+    "text": "📖 ソザイノ コラム\n\nWebP形式とは？PNG・JPEGとの違いと、ブログで使う5つのメリット\n\nWebPの特徴、PNG・JPEGとの違い、ブログ運営者が知っておきたい導入メリットと注意点を実例ベースで解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/webp-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 18,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 9,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 9 * * *",
-      "label": "18:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 775,
-    "text": "✨ 【無料素材】笑顔でポイント指示する女性ビジネスパーソン\n\n▸ ビジネス研修やマナー講座に関するブログ記事のアイキャッチ。明るく親しみやすい表情が、初心者向けコンテンツの親切さを視覚的に伝え、読者の学習意欲を刺激します。\n▸ 企業研修動画やオンライン講座のサムネイル。ポイント指示のジェスチャーが「重要な情報を分かりやすく説明する」というメッセージを効果的に表現できます。\n\n明るい笑顔で指差し動作をする女性キャラクター。フォーマルなビジネスウェアを身につけ、親しみやすさと信頼感を兼ね備えた表情が特徴。提案や案内が必要なシーンでの導入やポイント強調に適した構図。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=775\n\n#フリー素材 #ソザイノ #ビジネスウーマン #笑顔 #イラスト",
-    "imageUrl": "https://sozaino.com/webp/character_31.webp",
+    "id": 173,
+    "text": "✨ 【無料素材】夜の都市でスマートフォンを操作する手元\n\n▸ デジタルマーケティング・SNS関連記事\n▸ スマートフォンアプリ・技術紹介\n\n夜間の都市空間で手がスマートフォンを操作している状況を捉えた写真。背景の夜景ライトと画面の光が対比を生み出し、デジタルと現実が共存する都市生活を視覚化。ビジネスシーンやテクノロジー関連の記事に適した、洗練された雰囲気を演出できます。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=173\n\n#フリー素材 #ソザイノ #スマートフォン #都市 #夜景",
+    "imageUrl": "https://sozaino.com/webp/blog_002.webp",
     "schedule": {
       "jstHour": 22,
       "jstMinute": 0,
