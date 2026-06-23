@@ -1,23 +1,23 @@
 [
   {
     "type": "material",
-    "id": 328,
-    "text": "🗓️ 6月・梅雨の素材\n\n「父の日」の季節にぴったりな素材を紹介します。\n\n【自転車で通勤する若い男性のイラスト】\n若年層向けのライフハック記事やSNS投稿のビジュアル素材として適しており、日常生活の工夫や時間効率化に関するコンテンツとの相性が良好です。に使えます。\n\n→ https://sozaino.com/download?id=328\n\n#自転車 #通勤 #男性 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/blog_115.webp",
+    "id": 77,
+    "text": "🗓️ 6月・梅雨の素材\n\n「梅雨」の季節にぴったりな素材を紹介します。\n\n【モダンな部屋でヨガをする女性】\nヨガ・ピラティス初心者向けガイドに使えます。\n\n→ https://sozaino.com/download?id=77\n\n#ヨガ #フィットネス #ホームエクササイズ #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/person_044.webp",
     "schedule": {
-      "jstHour": 9,
+      "jstHour": 8,
       "jstMinute": 0,
-      "utcHour": 0,
+      "utcHour": 23,
       "utcMinute": 0,
-      "cron": "0 0 * * *",
-      "label": "09:00 JST"
+      "cron": "0 23 * * *",
+      "label": "08:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 359,
-    "text": "🗓️ 6月・梅雨の素材\n\n「紫陽花」の季節にぴったりな素材を紹介します。\n\n【スマートフォンを持つ笑顔の男性キャラクター】\nSNS活用術やデジタル生活に関するブログのヘッダー画像として活躍。若年層向けのテック関連コンテンツで特に高い視認性が期待できます。に使えます。\n\n→ https://sozaino.com/download?id=359\n\n#アニメ #男性キャラクター #スマートフォン #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/blog_076.webp",
+    "id": 949,
+    "text": "🗓️ 6月・梅雨の素材\n\n「梅雨」の季節にぴったりな素材を紹介します。\n\n【意見が対立する男性2人のケンカシーン】\n職場の人間関係やコミュニケーション問題に関するブログ記事のアイキャッチ。意見の相違や対立状況を視覚的に分かりやすく表現でき、読者の共感を呼び起こします。に使えます。\n\n→ https://sozaino.com/download?id=949\n\n#ケンカ #議論 #対立 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_324.webp",
     "schedule": {
       "jstHour": 13,
       "jstMinute": 0,
@@ -29,30 +29,30 @@
   },
   {
     "type": "column",
-    "id": "col-005",
-    "text": "📖 ソザイノ コラム\n\nブログ用フリー素材の選び方。失敗しないための5つの確認ポイント\n\nブログのアイキャッチや挿入画像に使うフリー素材を選ぶときの5つの確認ポイントを解説。商用利用・画質・ファイル形式・ライセンスの読み方まで、初心者でも迷わない選び方をまとめます。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/free-material-selection-guide.html\n\n#フリー素材 #ブログ運営",
+    "id": "col-006",
+    "text": "💡 デザインのヒント\n\nブログのアイキャッチ画像サイズ、正解はこれ。用途別の推奨サイズと選び方\n\nWordPress・はてなブログ・noteなど主要プラットフォーム別の推奨サイズを整理。SNSシェア時に画像が切れないためのポイントも解説します。\n\n→ https://sozaino.com/column/eyecatch-size-guide.html",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 17,
+      "jstHour": 19,
       "jstMinute": 0,
-      "utcHour": 8,
+      "utcHour": 10,
       "utcMinute": 0,
-      "cron": "0 8 * * *",
-      "label": "17:00 JST"
+      "cron": "0 10 * * *",
+      "label": "19:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 251,
-    "text": "✨ 【無料素材】焼きたてのベーグル2個重ねた状態\n\n▸ スイーツブログ・レシピ紹介\n▸ カフェ・ベーカリー紹介\n\n焼き色が香ばしいベーグル2個が重ねられた状態。表面の濃い茶色とツヤ感が食欲をそそり、焼きたての温かみのある雰囲気を演出。シンプルながら充実感のある構図は、カフェメニューやグルメブログの主役素材として機能します。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=251\n\n#フリー素材 #ソザイノ #ベーグル #食べ物 #グルメ",
-    "imageUrl": "https://sozaino.com/webp/food_105.webp",
+    "id": 1064,
+    "text": "✨ 【無料素材】ノートに書く手とコーヒーの作業風景\n\n▸ ブログ執筆やライティング関連の記事。創作活動の風景を演出でき、ライターやコンテンツ制作者向けの記事アイキャッチとして効果的です。\n▸ 自己啓発やスキルアップ記事。集中力を高める仕事環境の作り方や、朝の習慣に関する記事に最適な温かみのある雰囲気です。\n\nノートに執筆する手元とコーヒーカップが配置された作業風景です。創作活動やライティング業務の雰囲気を自然に表現しており、ブログのアイキャッチやYouTube動画のサムネイルに最適な素材です。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=1064\n\n#フリー素材 #ソザイノ #ライティング #デスク周り #コーヒー",
+    "imageUrl": "https://sozaino.com/webp/blog_196.webp",
     "schedule": {
-      "jstHour": 20,
+      "jstHour": 22,
       "jstMinute": 0,
-      "utcHour": 11,
+      "utcHour": 13,
       "utcMinute": 0,
-      "cron": "0 11 * * *",
-      "label": "20:00 JST"
+      "cron": "0 13 * * *",
+      "label": "22:00 JST"
     }
   }
 ]
