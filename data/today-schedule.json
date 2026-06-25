@@ -1,9 +1,9 @@
 [
   {
     "type": "material",
-    "id": 1038,
-    "text": "📸 素材紹介\n\nキラキラネイルを持つ手のクローズアップ\n💡 使用例：「春夏の推し色ネイルはこれで決まり！トレンドカラー&デザイン特集」\n\n輝くキラキラネイルを施した手のクローズアップ写真です。美容やコスメに関するブログ記事、SNS投稿、動画のサムネイルなど、女性向けコンテンツに最適な素材です。高級感と美しさを表現できます。\n\n無料でDLできます\n→ https://sozaino.com/download?id=1038\n\n#化粧品 #美容 #コスメ #素材配布",
-    "imageUrl": "https://sozaino.com/webp/beauty_44.webp",
+    "id": 300,
+    "text": "📸 素材紹介\n\nベーグルの積み重ねた写真\n💡 使用例：「もっちり食感が最高！自宅で作るベーグルレシピ」\n\n焼き立てのベーグルが積み重ねられた写真。濃い焦げ目と淡いクリーム色のコントラストが食欲をそそり、ベーカリーの温かみある雰囲気を演出。朝食メニューやパン関連の記事に活用できる素材。\n\n無料でDLできます\n→ https://sozaino.com/download?id=300\n\n#ベーグル #焼き菓子 #朝食 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/food_165.webp",
     "schedule": {
       "jstHour": 10,
       "jstMinute": 0,
@@ -15,9 +15,9 @@
   },
   {
     "type": "material",
-    "id": 560,
-    "text": "🗓️ 6月・梅雨の素材\n\n「父の日」の季節にぴったりな素材を紹介します。\n\n【円グラフで見る成長と資産構成】\n資産運用や国際投資についてのYouTube動画のサムネイル。シンプルで分かりやすい構成が、金融初心者向けコンテンツの信頼性を高めます。に使えます。\n\n→ https://sozaino.com/download?id=560\n\n#投資 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/blog_148.webp",
+    "id": 824,
+    "text": "🗓️ 6月・梅雨の素材\n\n「梅雨」の季節にぴったりな素材を紹介します。\n\n【ひらめきを得た女性のイラスト】\nビジネス・起業ブログのアイキャッチに最適。新しいアイデアやプロジェクトの開始、成功事例の紹介記事に用いると、読者の期待感が高まり、クリック率向上が見込めます。に使えます。\n\n→ https://sozaino.com/download?id=824\n\n#アイデア #ひらめき #電球 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_68.webp",
     "schedule": {
       "jstHour": 12,
       "jstMinute": 0,
@@ -29,23 +29,23 @@
   },
   {
     "type": "column",
-    "id": "col-003",
-    "text": "📝 梅雨の季節がやってきました☔に合わせて\n\nSNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表\n\nX・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。\n\n詳しくはこちら\n→ https://sozaino.com/column/sns-image-size-guide.html\n\n#デザイン #素材活用 #ソザイノ",
+    "id": "col-004",
+    "text": "💡 デザインのヒント\n\nWebP素材がSEOに効く理由。ページ速度・Core Web Vitals・検索順位への影響を解説\n\nWebP形式の画像がSEOに与える影響を解説。ページ読み込み速度の改善からCore Web Vitalsのスコアアップ、検索順位への効果まで、ブログ運営者が知っておきたい知識をまとめます。\n\n→ https://sozaino.com/column/webp-seo-effect.html",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 17,
+      "jstHour": 19,
       "jstMinute": 0,
-      "utcHour": 8,
+      "utcHour": 10,
       "utcMinute": 0,
-      "cron": "0 8 * * *",
-      "label": "17:00 JST"
+      "cron": "0 10 * * *",
+      "label": "19:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 327,
-    "text": "📸 素材紹介\n\n炎天下で疲弊する男性のアニメイラスト\n💡 使用例：「気温35℃超えで体が悲鳴…あなたの疲れは本当に夏バテですか？」\n\n強い日光の下で肩を落とす男性キャラを描いたアニメイラスト。赤系と黄系の配色で熱さと疲弊感を視覚化。夏の過酷さや業務過剰による心身の消耗を表現でき、疲労や過労関連の記事に適している。\n\n無料でDLできます\n→ https://sozaino.com/download?id=327\n\n#アニメ #男性キャラクター #疲労 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/blog_142.webp",
+    "id": 782,
+    "text": "📸 素材紹介\n\n教鞭を握る女性教師のイラスト\n💡 使用例：「初心者必見！分かりやすい講座を作るなら、まずはこの3つのポイントをおさえよう」\n\n教室での授業風景を描いたイラストで、教鞭を持つ女性教師が主役。落ち着いた色合いで親しみやすく、教育系ウェブサイトやテキスト、研修資料に適した安定感のあるタッチ。専門性と親切さを同時に表現している。\n\n無料でDLできます\n→ https://sozaino.com/download?id=782\n\n#女性 #イラスト #キャラクター #素材配布",
+    "imageUrl": "https://sozaino.com/webp/character_38.webp",
     "schedule": {
       "jstHour": 21,
       "jstMinute": 0,
