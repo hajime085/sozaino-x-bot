@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 302,
-    "text": "📸 素材紹介\n\nカフェでスマートフォンを操作する男性の様子\n💡 使用例：「いつでもどこでも、あなたの「やりたい」が叶う。スマート決済アプリが変える毎日」\n\nカフェの落ち着いた空間でスマートフォンを操作する男性。コーヒーカップが傍らにあり、日常的なデジタルライフを表現。暖色系の照明とカジュアルな雰囲気により、仕事・学習・休息の複数のシーンに対応できる親しみやすい表情です。\n\n無料でDLできます\n→ https://sozaino.com/download?id=302\n\n#カフェ #スマートフォン #コーヒー #素材配布",
-    "imageUrl": "https://sozaino.com/webp/person_117.webp",
+    "id": 440,
+    "text": "🗓️ 7月・夏の素材\n\n「海開き」の季節にぴったりな素材を紹介します。\n\n【公園でピクニックを楽しむ家族と子どもたち】\n子育てブログやパパママ向けメディアの記事アイキャッチとして最適。家族で楽しむ屋外活動の風景が読者の共感を呼び、クリック率向上が期待できます。に使えます。\n\n→ https://sozaino.com/download?id=440\n\n#ピクニック #家族 #子ども #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/person_125.webp",
     "schedule": {
-      "jstHour": 8,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 23,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 23 * * *",
-      "label": "08:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 872,
-    "text": "🗓️ 6月・梅雨の素材\n\n「梅雨」の季節にぴったりな素材を紹介します。\n\n【スマートフォンでSOLD表示を見せる男性】\nデジタルマーケティングやネット販売のノウハウ動画のサムネイルとして活用可能。明るく親しみやすいキャラクターが視聴者の信頼感を獲得できます。に使えます。\n\n→ https://sozaino.com/download?id=872\n\n#背景透過 #ビジネス #EC #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/character_245.webp",
+    "id": 368,
+    "text": "📸 素材紹介\n\n夏祭りで汗をかく家族と子ども\n💡 使用例：「夏祭りで家族の思い出を作ろう！子どもとの楽しみ方5選」\n\n夏祭りの活気を親子の表情と動きで表現したイラスト。汗をかきながら楽しむ家族の姿から、季節の風情と温もりが伝わる。ブログ記事で夏イベントや家族向けコンテンツのアイキャッチとして機能する温かみのある構成。\n\n無料でDLできます\n→ https://sozaino.com/download?id=368\n\n#家族 #夏祭り #子ども #素材配布",
+    "imageUrl": "https://sozaino.com/webp/blog_113.webp",
     "schedule": {
-      "jstHour": 12,
+      "jstHour": 13,
       "jstMinute": 0,
-      "utcHour": 3,
+      "utcHour": 4,
       "utcMinute": 0,
-      "cron": "0 3 * * *",
-      "label": "12:00 JST"
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-006",
-    "text": "💡 デザインのヒント\n\nブログのアイキャッチ画像サイズ、正解はこれ。用途別の推奨サイズと選び方\n\nWordPress・はてなブログ・noteなど主要プラットフォーム別の推奨サイズを整理。SNSシェア時に画像が切れないためのポイントも解説します。\n\n→ https://sozaino.com/column/eyecatch-size-guide.html",
+    "id": "col-003",
+    "text": "📖 ソザイノ コラム\n\nSNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表\n\nX・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/sns-image-size-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 17,
+      "jstHour": 19,
       "jstMinute": 0,
-      "utcHour": 8,
+      "utcHour": 10,
       "utcMinute": 0,
-      "cron": "0 8 * * *",
-      "label": "17:00 JST"
+      "cron": "0 10 * * *",
+      "label": "19:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 1057,
-    "text": "📸 素材紹介\n\nスマートフォンでSNSを閲覧する手元のクローズアップ\n💡 使用例：「SNS依存から脱却する方法│デジタルウェルネスを実現する3つのステップ」\n\nスマートフォンでSNSを閲覧する手元をクローズアップで撮影した素材です。デジタルデバイスの利用シーンをリアルに表現しており、テクノロジーやライフスタイル関連の記事に最適です。\n\n無料でDLできます\n→ https://sozaino.com/download?id=1057\n\n#スマートフォン #SNS #デジタル #素材配布",
-    "imageUrl": "https://sozaino.com/webp/blog_189.webp",
+    "id": 641,
+    "text": "🗓️ 7月・夏の素材\n\n「夏祭り」の季節にぴったりな素材を紹介します。\n\n【釣り糸・ラインの豊富な色と種類の展示イメージ】\n釣り初心者向けの選び方ガイド。様々な色や素材のラインが揃った画像は、初めてラインを選ぶ読者に選択肢の豊富さを視覚的に伝え、学習意欲を高めます。に使えます。\n\n→ https://sozaino.com/download?id=641\n\n#釣り #釣り道具 #アウトドア #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/outdoor_060.webp",
     "schedule": {
-      "jstHour": 20,
+      "jstHour": 22,
       "jstMinute": 0,
-      "utcHour": 11,
+      "utcHour": 13,
       "utcMinute": 0,
-      "cron": "0 11 * * *",
-      "label": "20:00 JST"
+      "cron": "0 13 * * *",
+      "label": "22:00 JST"
     }
   }
 ]
