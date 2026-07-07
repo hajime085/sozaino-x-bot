@@ -1,23 +1,23 @@
 [
   {
     "type": "material",
-    "id": 999,
-    "text": "🎨 夏本番の7月🌻\n\n【青いシュノーケリングセット】\n鮮やかな青を基調としたシュノーケリング用具のイラスト。マスクとシュノーベのセットが海のテーマで統一され、透き通るような涼しげな色合いが水中の雰囲気を演出。背景透過により他のデザイン要素との組み合わせが容易です。\n📌 子ども向けの水遊びやキッズスポーツ動画。カラフルなデザインが視認性高く、家族向けの海レジャー企画やプール用品紹介に適しています。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=999\n\n#シュノーケリング #スキューバダイビング #マスク #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/character374.webp",
+    "id": 405,
+    "text": "✨ 【無料素材】暑さで疲れた男性がアイスパックで冷やす\n\n▸ 夏の健康管理に関するブログ記事のアイキャッチ。熱中症予防やクーリング方法の紹介記事で、読者の注意を引き、記事の重要性を視覚的に表現できます。\n▸ 暑さ対策グッズの紹介動画やYouTube動画のサムネイル。アイスパックなどの冷却グッズの効果や使い方を解説する際に、視聴者のクリック率向上に貢献します。\n\n夏の疲労感を視覚的に表現したアニメイラスト。男性キャラクターがアイスパックで首や頭を冷やす様子を描き、暑さによる疲弊と冷感による安堵感を同時に伝える。明るい背景色と対比させた冷たい青系統で季節感を演出。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=405\n\n#フリー素材 #ソザイノ #アニメ #男性キャラクター #熱中症",
+    "imageUrl": "https://sozaino.com/webp/blog_079.webp",
     "schedule": {
-      "jstHour": 8,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 23,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 23 * * *",
-      "label": "08:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 658,
-    "text": "🗓️ 7月・夏の素材\n\n「海開き」の季節にぴったりな素材を紹介します。\n\n【釣り道具と川辺の完全準備風景】\n釣りスポット紹介記事や旅行ブログ。雄大な自然と充実した装備が組み合わさった画像は、読者の冒険心を刺激します。に使えます。\n\n→ https://sozaino.com/download?id=658\n\n#釣り #アウトドア #自然 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/outdoor_094.webp",
+    "id": 634,
+    "text": "🗓️ 7月・夏の素材\n\n「夏祭り」の季節にぴったりな素材を紹介します。\n\n【薪が積み重ねられた風景。木材のテクスチャーが引き立つ】\nサステナビリティや再生可能エネルギーに関する啓発動画。天然素材としての木材の価値を視覚的に伝え、環境配慮への意識を促進できます。に使えます。\n\n→ https://sozaino.com/download?id=634\n\n#エネルギー #アウトドア #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/outdoor_034.webp",
     "schedule": {
       "jstHour": 13,
       "jstMinute": 0,
@@ -29,23 +29,23 @@
   },
   {
     "type": "column",
-    "id": "col-003",
-    "text": "📝 海・花火・夏祭りに合わせて\n\nSNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表\n\nX・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。\n\n詳しくはこちら\n→ https://sozaino.com/column/sns-image-size-guide.html\n\n#デザイン #素材活用 #ソザイノ",
+    "id": "col-001",
+    "text": "📖 ソザイノ コラム\n\nAI生成素材のブログ活用術。選び方・使い方・注意点をまとめて解説\n\nAI生成画像をブログやSNSで活用するための実践的な使い方を解説。素材の選び方、アイキャッチへの組み込み方、利用時の注意点まで、ブログ運営者目線でまとめます。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/ai-material-howto.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 17,
+      "jstHour": 18,
       "jstMinute": 0,
-      "utcHour": 8,
+      "utcHour": 9,
       "utcMinute": 0,
-      "cron": "0 8 * * *",
-      "label": "17:00 JST"
+      "cron": "0 9 * * *",
+      "label": "18:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 630,
-    "text": "🗓️ 7月・夏の素材\n\n「夏祭り」の季節にぴったりな素材を紹介します。\n\n【ビーチで楽しむ夏のバカンス風景】\nトラベルコンテンツやSNS投稿用素材として。カラフルで見栄えの良い配置が、インスタグラムやツイッターでの高い反応率が期待できます。に使えます。\n\n→ https://sozaino.com/download?id=630\n\n#ビーチ #夏休み #海 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/outdoor_055.webp",
+    "id": 163,
+    "text": "🗓️ 7月・夏の素材\n\n「七夕」の季節にぴったりな素材を紹介します。\n\n【日差しの中で目を細める女性のポートレート】\n紫外線対策のガイド動画に使えます。\n\n→ https://sozaino.com/download?id=163\n\n#屋外 #女性 #ポートレート #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/person_113.webp",
     "schedule": {
       "jstHour": 21,
       "jstMinute": 0,
