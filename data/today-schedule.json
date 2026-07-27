@@ -1,23 +1,23 @@
 [
   {
     "type": "material",
-    "id": 607,
-    "text": "🎨 海・花火・夏祭り\n\n【炭火で焼く！バーベキューの炎と焼き網】\n赤々と燃え上がる炭火とメタリックな焼き網が主役。オレンジ〜黄色の炎が暗い背景に映え、アウトドアの醍醐味である火の活動性と熱感を直感的に伝える。BBQ企画やキャンプブログの開幕シーンに適した一枚。\n📌 キャンプ初心者向けガイドや飲食店のプロモーション素材として有効。火おこしの雰囲気や調理風景のリアルさが、説得力のあるコンテンツを演出できます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=607\n\n#BBQ #バーベキュー #アウトドア #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/outdoor_012.webp",
+    "id": 583,
+    "text": "🎨 七夕・夏祭りの季節\n\n【キャンプで調理する手作り料理のリアルな瞬間】\n野外での調理風景を捉えた実写素材。火の温かみと自然光が交差する中、手元の動作や食材の質感がリアルに描出される。アウトドアの日常感と食事の楽しさが同時に伝わり、ブログやSNSで野外活動の魅力を表現する際の説得力が高い。\n📌 キャンプ用品レビュー動画や自動炊飯器などの調理機器の紹介コンテンツ。実際の使用シーンが伝わり、商品の実用性をアピールできます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=583\n\n#キャンプ飯 #キャンプ #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/outdoor_117.webp",
     "schedule": {
-      "jstHour": 10,
+      "jstHour": 8,
       "jstMinute": 0,
-      "utcHour": 1,
+      "utcHour": 23,
       "utcMinute": 0,
-      "cron": "0 1 * * *",
-      "label": "10:00 JST"
+      "cron": "0 23 * * *",
+      "label": "08:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 648,
-    "text": "🗓️ 7月・夏の素材\n\n「夏祭り」の季節にぴったりな素材を紹介します。\n\n【釣り竿とリールの接近写真】\n釣りグッズ販売サイトの商品紹介ページ。プロフェッショナルな印象が購買欲を刺激し、高品質な釣り用品の販売ページやECサイトのプロダクト画像として活用できます。に使えます。\n\n→ https://sozaino.com/download?id=648\n\n#釣り #釣り道具 #フィッシング #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/outdoor_056.webp",
+    "id": 692,
+    "text": "🗓️ 7月・夏の素材\n\n「夏祭り」の季節にぴったりな素材を紹介します。\n\n【カラフルなルアー・ワーム釣り具セット】\n釣りの初心者向けガイド記事のアイキャッチに最適。豊富な種類のルアーが並んだ画像は、釣りの多様性と楽しさを視覚的に伝え、初心者の関心を引き付けます。に使えます。\n\n→ https://sozaino.com/download?id=692\n\n#釣り #ルアー #釣具 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/outdoor_084.webp",
     "schedule": {
       "jstHour": 13,
       "jstMinute": 0,
@@ -29,23 +29,23 @@
   },
   {
     "type": "column",
-    "id": "col-002",
-    "text": "💡 デザインのヒント\n\nフリー素材の商用利用、実は注意が必要なケースとは？確認すべき3つのポイント\n\n「商用利用OK」のフリー素材でも注意が必要なケースがあります。利用規約の読み方、NGになりやすいパターン、安全に使うための確認ポイントを解説します。\n\n→ https://sozaino.com/column/commercial-use-guide.html",
+    "id": "col-004",
+    "text": "📖 ソザイノ コラム\n\nWebP素材がSEOに効く理由。ページ速度・Core Web Vitals・検索順位への影響を解説\n\nWebP形式の画像がSEOに与える影響を解説。ページ読み込み速度の改善からCore Web Vitalsのスコアアップ、検索順位への効果まで、ブログ運営者が知っておきたい知識をまとめます。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/webp-seo-effect.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 19,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 10,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 10 * * *",
-      "label": "19:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 668,
-    "text": "📸 素材紹介\n\n庭でキャンプ火を楽しむ煙突式焚き火台\n💡 使用例：「庭で焚き火を楽しむなら煙突式焚き火台がおすすめ！選び方と使い方を徹底解説」\n\n煙突構造の焚き火台から立ち昇る炎と煙が、夜間の庭園を照らす光景。オレンジと黄色の温かみのある炎が、落ち着いた夜間の暗さと対比して、アウトドアでの温もりと非日常感を強調しています。\n\n無料でDLできます\n→ https://sozaino.com/download?id=668\n\n#焚き火 #キャンプ #BBQ #素材配布",
-    "imageUrl": "https://sozaino.com/webp/outdoor_050.webp",
+    "id": 482,
+    "text": "📸 素材紹介\n\n懐中電灯と電池のセット撮影\n💡 使用例：「いざという時に役立つ！防災セットに欠かせない懐中電灯の選び方とは」\n\n懐中電灯と電池を組み合わせた実用的な撮影。日常生活の防災グッズやアウトドア用品として機能する様子を視覚化。明暗のコントラストを生かした構図で、備えの大切さや信頼感のある雰囲気を演出。\n\n無料でDLできます\n→ https://sozaino.com/download?id=482\n\n#懐中電灯 #電池 #アウトドア #素材配布",
+    "imageUrl": "https://sozaino.com/webp/home_064.webp",
     "schedule": {
       "jstHour": 20,
       "jstMinute": 0,
