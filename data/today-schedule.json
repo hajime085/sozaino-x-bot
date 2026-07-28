@@ -1,36 +1,36 @@
 [
   {
     "type": "material",
-    "id": 583,
-    "text": "🎨 七夕・夏祭りの季節\n\n【キャンプで調理する手作り料理のリアルな瞬間】\n野外での調理風景を捉えた実写素材。火の温かみと自然光が交差する中、手元の動作や食材の質感がリアルに描出される。アウトドアの日常感と食事の楽しさが同時に伝わり、ブログやSNSで野外活動の魅力を表現する際の説得力が高い。\n📌 キャンプ用品レビュー動画や自動炊飯器などの調理機器の紹介コンテンツ。実際の使用シーンが伝わり、商品の実用性をアピールできます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=583\n\n#キャンプ飯 #キャンプ #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/outdoor_117.webp",
+    "id": 361,
+    "text": "🎨 七夕・夏祭りの季節\n\n【車のフロントガラスに取り付けたサンシェード】\n車のフロントガラスに装着したサンシェードを撮影した素材。反射素材やメタリックな質感が光に映える構図で、夏の日差し対策というビジネス文脈を視覚的に表現。背景透過により、記事内での配置自由度が高い。\n📌 カー用品の比較・レビューブログで、サンシェードの装着方法や効果を説明する記事のアイキャッチ。実際の装着状態を視覚的に示すことで、購入検討者の信頼度が高まります。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=361\n\n#車 #サンシェード #夏 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/blog_099.webp",
     "schedule": {
-      "jstHour": 8,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 23,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 23 * * *",
-      "label": "08:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 692,
-    "text": "🗓️ 7月・夏の素材\n\n「夏祭り」の季節にぴったりな素材を紹介します。\n\n【カラフルなルアー・ワーム釣り具セット】\n釣りの初心者向けガイド記事のアイキャッチに最適。豊富な種類のルアーが並んだ画像は、釣りの多様性と楽しさを視覚的に伝え、初心者の関心を引き付けます。に使えます。\n\n→ https://sozaino.com/download?id=692\n\n#釣り #ルアー #釣具 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/outdoor_084.webp",
+    "id": 142,
+    "text": "✨ 【無料素材】首掛け型ポータブル扇風機で夏を快適に\n\n▸ 夏の便利グッズ紹介\n▸ 熱中症対策・暑さ対策\n\n首に掛けるポータブル扇風機を主役にした生活シーン。屋外での使用を想定し、明るく開放的な雰囲気で夏の快適さを表現しています。白やシルバーを基調とした清涼感のある配色が、涼しさの実感性を高めています。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=142\n\n#フリー素材 #ソザイノ #屋外 #アウトドア",
+    "imageUrl": "https://sozaino.com/webp/home_016.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
     "id": "col-004",
-    "text": "📖 ソザイノ コラム\n\nWebP素材がSEOに効く理由。ページ速度・Core Web Vitals・検索順位への影響を解説\n\nWebP形式の画像がSEOに与える影響を解説。ページ読み込み速度の改善からCore Web Vitalsのスコアアップ、検索順位への効果まで、ブログ運営者が知っておきたい知識をまとめます。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/webp-seo-effect.html\n\n#フリー素材 #ブログ運営",
+    "text": "💡 デザインのヒント\n\nWebP素材がSEOに効く理由。ページ速度・Core Web Vitals・検索順位への影響を解説\n\nWebP形式の画像がSEOに与える影響を解説。ページ読み込み速度の改善からCore Web Vitalsのスコアアップ、検索順位への効果まで、ブログ運営者が知っておきたい知識をまとめます。\n\n→ https://sozaino.com/column/webp-seo-effect.html",
     "imageUrl": null,
     "schedule": {
       "jstHour": 17,
@@ -43,16 +43,16 @@
   },
   {
     "type": "material",
-    "id": 482,
-    "text": "📸 素材紹介\n\n懐中電灯と電池のセット撮影\n💡 使用例：「いざという時に役立つ！防災セットに欠かせない懐中電灯の選び方とは」\n\n懐中電灯と電池を組み合わせた実用的な撮影。日常生活の防災グッズやアウトドア用品として機能する様子を視覚化。明暗のコントラストを生かした構図で、備えの大切さや信頼感のある雰囲気を演出。\n\n無料でDLできます\n→ https://sozaino.com/download?id=482\n\n#懐中電灯 #電池 #アウトドア #素材配布",
-    "imageUrl": "https://sozaino.com/webp/home_064.webp",
+    "id": 320,
+    "text": "🗓️ 7月・夏の素材\n\n「花火」の季節にぴったりな素材を紹介します。\n\n【雨の中のカヤックアドベンチャー】\n旅行・体験系メディアの記事トップ画像に最適。水のしぶきと笑顔で、非日常の楽しさと爽快感を視覚的に伝えられます。に使えます。\n\n→ https://sozaino.com/download?id=320\n\n#アウトドア #冒険 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/outdoor_006.webp",
     "schedule": {
-      "jstHour": 20,
+      "jstHour": 21,
       "jstMinute": 0,
-      "utcHour": 11,
+      "utcHour": 12,
       "utcMinute": 0,
-      "cron": "0 11 * * *",
-      "label": "20:00 JST"
+      "cron": "0 12 * * *",
+      "label": "21:00 JST"
     }
   }
 ]
