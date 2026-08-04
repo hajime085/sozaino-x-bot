@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 425,
-    "text": "🗓️ 8月・真夏の素材\n\n「夏休み」の季節にぴったりな素材を紹介します。\n\n【炎天下で疲れ切った男性の表情】\n熱中症予防・対策ブログのアイキャッチ画像。過酷な環境での身体的疲弊を表現し、読者の危機意識を喚起できます。に使えます。\n\n→ https://sozaino.com/download?id=425\n\n#熱中症 #疲労 #男性 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/blog_141.webp",
+    "id": 730,
+    "text": "✨ 【無料素材】透き通る海と白砂ビーチ、南国リゾート\n\n▸ 海外旅行ブログのアイキャッチ画像として最適。透明度の高い海と手付かずの白砂ビーチが読者の旅心をくすぐり、記事への期待値を高めます。\n▸ 旅行系YouTubeのサムネイル・オープニング映像として活用可能。南国の非日常感が視聴者の興味を引き、動画クリック率の向上に貢献します。\n\nエメラルドグリーンに輝く透明度の高い海水と、細粒の白砂が広がる南国ビーチ。晴天時の明るく開放的な雰囲気で、リゾートウェブサイトや旅行記事の背景に適しています。波打ち際の自然なグラデーションが視覚的な深みを演出します。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=730\n\n#フリー素材 #ソザイノ #ビーチ #リゾート #海",
+    "imageUrl": "https://sozaino.com/webp/nature_056.webp",
     "schedule": {
-      "jstHour": 9,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 0,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 0 * * *",
-      "label": "09:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 585,
-    "text": "🗓️ 8月・真夏の素材\n\n「お盆」の季節にぴったりな素材を紹介します。\n\n【キャンプ用品がきれいに整理されたバックパック】\nキャンプ初心者向けの持ち物リストや準備ガイド記事のアイキャッチ。整理整頓された装備が必要性を視覚的に伝え、読者の参考意欲を高めます。に使えます。\n\n→ https://sozaino.com/download?id=585\n\n#キャンプ #アウトドア #装備 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/outdoor_029.webp",
+    "id": 1003,
+    "text": "📸 素材紹介\n\n紫と桃色の朝顔が揺れる涼しい風鈴\n💡 使用例：「夏の涼しさをお部屋に。風鈴で作る日本の夏の情緒と心地よさ」\n\n紫と桃色の朝顔が風鈴を彩る、涼やかな和風イラスト。暖色と寒色の組み合わせが夏の涼しさを表現し、揺れる動きが涼感を演出。背景透過のため、ブログや資料の背景に直接配置でき、季節コンテンツやクールな雰囲気が必要なページに即活用できます。\n\n無料でDLできます\n→ https://sozaino.com/download?id=1003\n\n#風鈴 #朝顔 #夏 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/character378.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-008",
-    "text": "📖 ソザイノ コラム\n\nWebP形式とは？PNG・JPEGとの違いと、ブログで使う5つのメリット\n\nWebPの特徴、PNG・JPEGとの違い、ブログ運営者が知っておきたい導入メリットと注意点を実例ベースで解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/webp-guide.html\n\n#フリー素材 #ブログ運営",
+    "id": "col-003",
+    "text": "📖 ソザイノ コラム\n\nSNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表\n\nX・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/sns-image-size-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 17,
+      "jstHour": 19,
       "jstMinute": 0,
-      "utcHour": 8,
+      "utcHour": 10,
       "utcMinute": 0,
-      "cron": "0 8 * * *",
-      "label": "17:00 JST"
+      "cron": "0 10 * * *",
+      "label": "19:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 681,
-    "text": "✨ 【無料素材】焚き火で調理する黒い鋳鉄鍋\n\n▸ キャンプ・アウトドアブログのアイキャッチに最適。焚き火での調理風景が雰囲気的で、読者のキャンプ欲を高め、クリック率向上が期待できます。\n▸ キャンプ初心者向けハウツー動画のサムネイル。鋳鉄鍋を使った本格的な野外料理の魅力が伝わり、視聴者の興味を引き出せます。\n\n炎の温かみが黒い鍋肌に映り込み、野営の実用性と原始的な調理の営みを同時に表現。赤・オレンジの火色が夜間や薄暗い環境での視認性を高め、キャンプサイトの中心的な存在感を演出します。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=681\n\n#フリー素材 #ソザイノ #焚き火 #キャンプ #野外料理",
-    "imageUrl": "https://sozaino.com/webp/outdoor_026.webp",
+    "id": 624,
+    "text": "📸 素材紹介\n\n森林の中で揺れるカラフルなハンモック\n💡 使用例：「森の中で見つけた至福のひととき。初心者向けハンモックキャンプのススメ」\n\n緑豊かな森林を背景に、明るい色合いのハンモックが揺れる情景。自然の中でのくつろぎや解放感を表現しており、ウェルネス関連や旅行ブログ、リトリート施設の紹介に適した一枚です。\n\n無料でDLできます\n→ https://sozaino.com/download?id=624\n\n#森 #自然 #リラックス #素材配布",
+    "imageUrl": "https://sozaino.com/webp/outdoor_039.webp",
     "schedule": {
-      "jstHour": 20,
+      "jstHour": 22,
       "jstMinute": 0,
-      "utcHour": 11,
+      "utcHour": 13,
       "utcMinute": 0,
-      "cron": "0 11 * * *",
-      "label": "20:00 JST"
+      "cron": "0 13 * * *",
+      "label": "22:00 JST"
     }
   }
 ]
