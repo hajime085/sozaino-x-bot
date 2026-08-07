@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 633,
-    "text": "📸 素材紹介\n\n炭と調理道具のセットアップ\n💡 使用例：「キャンプ初心者必見：失敗しない火起こしの準備テクニック」\n\n炭と調理器具が配置されたバーベキュー準備シーン。黒い炭の重厚感と金属製ツールの質感が対比され、野外での実用的な準備作業を写実的に表現。自然光下での温かみのある色調が、野営の臨場感を演出する。\n\n無料でDLできます\n→ https://sozaino.com/download?id=633\n\n#バーベキュー #アウトドア #グリル #素材配布",
-    "imageUrl": "https://sozaino.com/webp/outdoor_043.webp",
+    "id": 135,
+    "text": "🎨 残暑が続く季節\n\n【庭園でくつろぐ緑色のリクライニングチェア】\n緑の芝生に置かれたライムグリーンのリクライニングチェアが、庭園の自然な背景と調和している。日中の自然光が素材に当たり、くつろぎと休息の雰囲気を演出。夏の休日や屋外でのリラックスシーンに適した色合いと構図。\n📌 自宅の庭をおしゃれに演出する方法に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=135\n\n#リラックス #夏休み #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/home_011.webp",
     "schedule": {
-      "jstHour": 8,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 23,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 23 * * *",
-      "label": "08:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 640,
-    "text": "📸 素材紹介\n\nキャンプの調理風景、湯気が立つ鍋料理\n💡 使用例：「大自然でシンプル調理。キャンプの醍醐味を味わう野外食事の準備法」\n\n野外での食事シーンを捉えた一枚。鍋から立ち上る湯気が、自然の中での調理の温かみを表現しています。夜間のキャンプサイトの雰囲気か、または日中の野営地での料理風景。アウトドア活動の現場感と、グループで食事を共にする時間の大切さが伝わる構図です。\n\n無料でDLできます\n→ https://sozaino.com/download?id=640\n\n#キャンプ #キャンプ飯 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/outdoor_037.webp",
+    "id": 763,
+    "text": "✨ 【無料素材】喜びに満ちたビジネスマンの成功イラスト\n\n▸ 営業成績や業績向上に関するブログ記事のアイキャッチに最適。ポジティブな表情と仕草が読者に成功のイメージを与え、記事クリック率の向上が期待できます。\n▸ 自己啓発や仕事のモチベーション向上を扱うYouTube動画のサムネイルとして活用。明るい雰囲気が視聴者の興味を引き、再生数増加に貢献します。\n\n営業成績アップやプロジェクト完了を表現できるビジネスマンキャラクター。明るい色使いで前向きな雰囲気を演出しており、成功場面やモチベーション関連のコンテンツに適しています。ポジティブな心理状態を視覚化したイラストです。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=763\n\n#フリー素材 #ソザイノ #ビジネス #成功 #喜び",
+    "imageUrl": "https://sozaino.com/webp/character_003.webp",
     "schedule": {
-      "jstHour": 12,
+      "jstHour": 13,
       "jstMinute": 0,
-      "utcHour": 3,
+      "utcHour": 4,
       "utcMinute": 0,
-      "cron": "0 3 * * *",
-      "label": "12:00 JST"
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-003",
-    "text": "📝 真夏の8月に合わせて\n\nSNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表\n\nX・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。\n\n詳しくはこちら\n→ https://sozaino.com/column/sns-image-size-guide.html\n\n#デザイン #素材活用 #ソザイノ",
+    "id": "col-006",
+    "text": "📖 ソザイノ コラム\n\nブログのアイキャッチ画像サイズ、正解はこれ。用途別の推奨サイズと選び方\n\nWordPress・はてなブログ・noteなど主要プラットフォーム別の推奨サイズを整理。SNSシェア時に画像が切れないためのポイントも解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/eyecatch-size-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 18,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 9,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 9 * * *",
-      "label": "18:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 663,
-    "text": "🎨 残暑が続く季節\n\n【キャンプチェアの座面アップ。日光に映える生地】\nキャンプチェアの座面を接近撮影した写真。日光が生地に当たることで、素材の質感と色合いが強調されています。アウトドア活動の快適さと自然との一体感を視覚的に表現しており、キャンプ関連のブログやウェブサイトで季節感を演出できます。\n📌 キャンプ場レポートや野営体験記の記事トップに使用すると、アウトドアの快適さと自然の中でのくつろぎを効果的に表現できます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=663\n\n#キャンプ #アウトドア #野外活動 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/outdoor_077.webp",
+    "id": 686,
+    "text": "🎨 お盆の季節🏮\n\n【海辺で楽しむビーチリゾートの必需品】\nビーチでの過ごし方をテーマにした、日中の明るい光に包まれた構図。タオルやサンダル、サングラスといった海水浴の定番アイテムが配置され、開放的で気軽な夏の雰囲気を演出しています。青と白を基調とした爽やかな配色。\n📌 旅行・観光動画のサムネイルやプレビュー画像。ビーチリゾートの開放感と充実した水遊びの風景が視聴者の興味を引き、クリック率向上が期待できます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=686\n\n#ビーチ #夏休み #海水浴 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/outdoor_047.webp",
     "schedule": {
-      "jstHour": 20,
+      "jstHour": 22,
       "jstMinute": 0,
-      "utcHour": 11,
+      "utcHour": 13,
       "utcMinute": 0,
-      "cron": "0 11 * * *",
-      "label": "20:00 JST"
+      "cron": "0 13 * * *",
+      "label": "22:00 JST"
     }
   }
 ]
