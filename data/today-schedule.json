@@ -1,51 +1,51 @@
 [
   {
     "type": "material",
-    "id": 752,
-    "text": "🎨 お盆の季節🏮\n\n【寝不足で眠気に襲われる男性ののイラスト】\n長時間の仕事で疲弊した男性が、抗えない眠気に支配される瞬間を捉えたイラスト。うつむく姿勢と半閉じの眼差しで、心身の疲労感をダイレクトに表現。ビジネスシーンの説得力ある空気感が漂う一枚。\n📌 学習塾や家庭教師の広告バナー、保護者向けの子育てコンテンツに活用でき、親世代の共感と信頼感を獲得できます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=752\n\n#疲労 #男性 #イラスト #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/character_011.webp",
+    "id": 184,
+    "text": "✨ 【無料素材】ふわふわ食感の手作り食パン\n\n▸ パン・製菓レシピブログ\n▸ 朝食グルメ紹介動画\n\n焼きたての食パンの断面をクローズアップした一枚。きめ細かく層状に積み重なった気孔が光に透ける様子と、きつね色に焼き上がった表面の質感がリアルに表現されています。朝食シーンやベーカリー関連のコンテンツに活用できます。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=184\n\n#フリー素材 #ソザイノ #食パン #焼き菓子 #ベーキング",
+    "imageUrl": "https://sozaino.com/webp/food_023.webp",
     "schedule": {
-      "jstHour": 9,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 0,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 0 * * *",
-      "label": "09:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 386,
-    "text": "🎨 お盆の季節🏮\n\n【車のサンシェード装着で真夏の日差しを対策】\n夏場の車内温度上昇を防ぐサンシェード装着シーンを捉えた実用的なビジュアル。明るい日中の屋外環境で、黒系の遮光素材が光を遮る様子を表現。紫外線カットの重要性を視覚的に伝える現実的な雰囲気が特徴。\n📌 自動車メンテナンスや車の省エネ対策の動画コンテンツ。燃費向上や車内温度低下への関心層に対し、実用的なソリューションを視覚的に提示できます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=386\n\n#紫外線対策 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/blog_098.webp",
+    "id": 115,
+    "text": "🗓️ 8月・真夏の素材\n\n「花火大会」の季節にぴったりな素材を紹介します。\n\n【山々に囲まれた自然の中のミネラルウォーター（飲料・No.115）】\nアウトドア・キャンプ情報に使えます。\n\n→ https://sozaino.com/download?id=115\n\n#ミネラルウォーター #自然 #飲料 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_002.webp",
     "schedule": {
-      "jstHour": 12,
+      "jstHour": 13,
       "jstMinute": 0,
-      "utcHour": 3,
+      "utcHour": 4,
       "utcMinute": 0,
-      "cron": "0 3 * * *",
-      "label": "12:00 JST"
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-002",
-    "text": "📖 ソザイノ コラム\n\nフリー素材の商用利用、実は注意が必要なケースとは？確認すべき3つのポイント\n\n「商用利用OK」のフリー素材でも注意が必要なケースがあります。利用規約の読み方、NGになりやすいパターン、安全に使うための確認ポイントを解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/commercial-use-guide.html\n\n#フリー素材 #ブログ運営",
+    "id": "col-008",
+    "text": "💡 デザインのヒント\n\nWebP形式とは？PNG・JPEGとの違いと、ブログで使う5つのメリット\n\nWebPの特徴、PNG・JPEGとの違い、ブログ運営者が知っておきたい導入メリットと注意点を実例ベースで解説します。\n\n→ https://sozaino.com/column/webp-guide.html",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 19,
+      "jstHour": 18,
       "jstMinute": 0,
-      "utcHour": 10,
+      "utcHour": 9,
       "utcMinute": 0,
-      "cron": "0 10 * * *",
-      "label": "19:00 JST"
+      "cron": "0 9 * * *",
+      "label": "18:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 500,
-    "text": "📸 素材紹介\n\n歯磨き用品とオーラルケア製品のフラットレイ\n💡 使用例：「歯科医師推奨。あなたの歯ブラシは本当に正しく選べていますか？」\n\n歯ブラシ、歯磨き粉、マウスウォッシュなどのオーラルケア製品を白や淡色の背景に整列させたフラットレイ。清潔感と秩序立った配置が、日々のケアルーチンを視覚化。ヘルスケアテーマのブログやウェルネス関連の記事に適した構図。\n\n無料でDLできます\n→ https://sozaino.com/download?id=500\n\n#フラットレイ #ヘルスケア #素材配布",
-    "imageUrl": "https://sozaino.com/webp/home_118.webp",
+    "id": 766,
+    "text": "📸 素材紹介\n\nコーヒーを淹れる笑顔の女性イラスト\n💡 使用例：「毎朝の一杯が変わる！自宅で簡単に作れるカフェクオリティのコーヒー淹れ方」\n\n温かみのあるコーヒータイムを描いたイラスト。柔らかい線描と淡い配色で、朝のリラックスシーンやカフェの雰囲気を表現。親しみやすい笑顔の女性キャラが日常の充実感を演出し、ブログやWebサイトのライフスタイル関連コンテンツに馴染みやすい。\n\n無料でDLできます\n→ https://sozaino.com/download?id=766\n\n#コーヒー #カフェ #女性 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/character_22.webp",
     "schedule": {
       "jstHour": 20,
       "jstMinute": 0,
