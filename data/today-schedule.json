@@ -1,36 +1,36 @@
 [
   {
     "type": "material",
-    "id": 184,
-    "text": "✨ 【無料素材】ふわふわ食感の手作り食パン\n\n▸ パン・製菓レシピブログ\n▸ 朝食グルメ紹介動画\n\n焼きたての食パンの断面をクローズアップした一枚。きめ細かく層状に積み重なった気孔が光に透ける様子と、きつね色に焼き上がった表面の質感がリアルに表現されています。朝食シーンやベーカリー関連のコンテンツに活用できます。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=184\n\n#フリー素材 #ソザイノ #食パン #焼き菓子 #ベーキング",
-    "imageUrl": "https://sozaino.com/webp/food_023.webp",
+    "id": 765,
+    "text": "🎨 真夏の8月\n\n【ノートパソコンで仕事をする笑顔のビジネスマン】\nノートパソコンの画面に集中しながら、明るい笑顔を浮かべるビジネスマンのイラスト。暖色系の背景で親しみやすい雰囲気を演出し、仕事への前向きな姿勢や達成感を視覚的に表現しています。企業サイトやブログの業務紹介に最適。\n📌 スタートアップ企業やIT関連サービスの紹介ページ。若々しく前向きな雰囲気がイノベーティブなビジネスのイメージを演出します。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=765\n\n#ビジネス #男性 #パソコン #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_019.webp",
     "schedule": {
-      "jstHour": 10,
+      "jstHour": 9,
       "jstMinute": 0,
-      "utcHour": 1,
+      "utcHour": 0,
       "utcMinute": 0,
-      "cron": "0 1 * * *",
-      "label": "10:00 JST"
+      "cron": "0 0 * * *",
+      "label": "09:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 115,
-    "text": "🗓️ 8月・真夏の素材\n\n「花火大会」の季節にぴったりな素材を紹介します。\n\n【山々に囲まれた自然の中のミネラルウォーター（飲料・No.115）】\nアウトドア・キャンプ情報に使えます。\n\n→ https://sozaino.com/download?id=115\n\n#ミネラルウォーター #自然 #飲料 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/food_002.webp",
+    "id": 625,
+    "text": "🎨 真夏の8月\n\n【バランスの良い食材を使った健康的な食卓】\n野菜・たんぱく質・炭水化物がバランスよく配置された食卓風景。自然光が当たることで食材の色合いが活き、新鮮さと栄養価の充実感が伝わります。屋外での食事やキャンプ飯、アスリートの栄養管理をテーマにしたコンテンツに適しています。\n📌 栄養管理やダイエット関連のブログ記事のアイキャッチとして最適。豊富な食材の種類と色彩が健康的な食生活のイメージを強調し、読者の興味を引きます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=625\n\n#食材 #料理 #食事 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/outdoor_038.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-008",
-    "text": "💡 デザインのヒント\n\nWebP形式とは？PNG・JPEGとの違いと、ブログで使う5つのメリット\n\nWebPの特徴、PNG・JPEGとの違い、ブログ運営者が知っておきたい導入メリットと注意点を実例ベースで解説します。\n\n→ https://sozaino.com/column/webp-guide.html",
+    "id": "col-005",
+    "text": "📖 ソザイノ コラム\n\nブログ用フリー素材の選び方。失敗しないための5つの確認ポイント\n\nブログのアイキャッチや挿入画像に使うフリー素材を選ぶときの5つの確認ポイントを解説。商用利用・画質・ファイル形式・ライセンスの読み方まで、初心者でも迷わない選び方をまとめます。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/free-material-selection-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
       "jstHour": 18,
@@ -43,16 +43,16 @@
   },
   {
     "type": "material",
-    "id": 766,
-    "text": "📸 素材紹介\n\nコーヒーを淹れる笑顔の女性イラスト\n💡 使用例：「毎朝の一杯が変わる！自宅で簡単に作れるカフェクオリティのコーヒー淹れ方」\n\n温かみのあるコーヒータイムを描いたイラスト。柔らかい線描と淡い配色で、朝のリラックスシーンやカフェの雰囲気を表現。親しみやすい笑顔の女性キャラが日常の充実感を演出し、ブログやWebサイトのライフスタイル関連コンテンツに馴染みやすい。\n\n無料でDLできます\n→ https://sozaino.com/download?id=766\n\n#コーヒー #カフェ #女性 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/character_22.webp",
+    "id": 1034,
+    "text": "🎨 お盆の季節🏮\n\n【スキンケア製品と女性の手のフラットレイ】\nスキンケア製品と女性の手を白背景で撮影したフラットレイ素材です。化粧品の配置が整理されており、美容ブログや商品紹介動画に最適です。清潔感のある構図が信頼性を演出します。\n📌 美容・スキンケアのHow to記事やチュートリアル動画。製品の使い方や肌ケアルーティンの解説に最適で、清潔感のあるビジュアルが信頼感を与えます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=1034\n\n#スキンケア #化粧品 #フラットレイ #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/beauty_40.webp",
     "schedule": {
-      "jstHour": 20,
+      "jstHour": 21,
       "jstMinute": 0,
-      "utcHour": 11,
+      "utcHour": 12,
       "utcMinute": 0,
-      "cron": "0 11 * * *",
-      "label": "20:00 JST"
+      "cron": "0 12 * * *",
+      "label": "21:00 JST"
     }
   }
 ]
