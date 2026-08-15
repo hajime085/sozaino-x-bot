@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 895,
-    "text": "🗓️ 8月・真夏の素材\n\n「夏休み」の季節にぴったりな素材を紹介します。\n\n【スマートフォンを操作する手のイラスト】\nデジタルマーケティングやモバイルファーストビジネスの情報発信。現代のライフスタイルとテクノロジーの融合を表現し、トレンド記事の信頼性と視認性を高めます。に使えます。\n\n→ https://sozaino.com/download?id=895\n\n#スマートフォン #手書きイラスト #デジタルデバイス #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/character_268.webp",
+    "id": 699,
+    "text": "🗓️ 8月・真夏の素材\n\n「花火大会」の季節にぴったりな素材を紹介します。\n\n【光が差し込む和室でくつろぐ、木製テーブルのある空間】\n建築・デザイン関連メディア。和風モダンの設計思想や自然素材の活用法を紹介する記事において、説得力のあるビジュアル素材として機能します。に使えます。\n\n→ https://sozaino.com/download?id=699\n\n#和室 #ミニマリスト #自然光 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/home_127.webp",
     "schedule": {
-      "jstHour": 8,
+      "jstHour": 9,
       "jstMinute": 0,
-      "utcHour": 23,
+      "utcHour": 0,
       "utcMinute": 0,
-      "cron": "0 23 * * *",
-      "label": "08:00 JST"
+      "cron": "0 0 * * *",
+      "label": "09:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 575,
-    "text": "🗓️ 8月・真夏の素材\n\n「お盆」の季節にぴったりな素材を紹介します。\n\n【ノートパソコンで作業する女性の手元】\n起業・ビジネススキル関連の動画サムネイルやコース紹介に。プロフェッショナルな雰囲気が視聴者の信頼感を高めます。に使えます。\n\n→ https://sozaino.com/download?id=575\n\n#パソコン #タイピング #ビジネス #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/blog_005.webp",
+    "id": 116,
+    "text": "🎨 真夏の8月\n\n【自然の中で輝く天然水のボトル】\n森林や渓流などの自然環境を背景に、透明なボトルに詰まった澄んだ水が光を反射する構図。清潔感と信頼感を同時に表現し、健康志向やエコ意識の高いターゲット層に訴える爽やかな雰囲気。\n📌 健康食品・飲料レビュー記事に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=116\n\n#ミネラルウォーター #自然 #エコ #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_003.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-004",
-    "text": "📝 真夏の8月に合わせて\n\nWebP素材がSEOに効く理由。ページ速度・Core Web Vitals・検索順位への影響を解説\n\nWebP形式の画像がSEOに与える影響を解説。ページ読み込み速度の改善からCore Web Vitalsのスコアアップ、検索順位への効果まで、ブログ運営者が知っておきたい知識をまとめます。\n\n詳しくはこちら\n→ https://sozaino.com/column/webp-seo-effect.html\n\n#デザイン #素材活用 #ソザイノ",
+    "id": "col-002",
+    "text": "📝 お盆の季節🏮に合わせて\n\nフリー素材の商用利用、実は注意が必要なケースとは？確認すべき3つのポイント\n\n「商用利用OK」のフリー素材でも注意が必要なケースがあります。利用規約の読み方、NGになりやすいパターン、安全に使うための確認ポイントを解説します。\n\n詳しくはこちら\n→ https://sozaino.com/column/commercial-use-guide.html\n\n#デザイン #素材活用 #ソザイノ",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 18,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 9,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 9 * * *",
-      "label": "18:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 792,
-    "text": "🎨 真夏の8月\n\n【料理を楽しむ女性シェフのイラスト】\nエプロン姿の女性シェフが調理器具を手に、料理への向き合う姿勢を表現したキャラクターイラスト。温かみのある色使いで、プロフェッショナルかつ親しみやすい雰囲気を演出。料理ブログやレシピサイト、飲食関連コンテンツの顔となるビジュアル。\n📌 料理ブログやレシピ動画のアイキャッチに最適。明るく親しみやすい表情が読者に好印象を与え、記事へのクリック率向上が期待できます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=792\n\n#料理 #女性 #キャラクター #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/character_48.webp",
+    "id": 934,
+    "text": "🗓️ 8月・真夏の素材\n\n「花火大会」の季節にぴったりな素材を紹介します。\n\n【お金を貯める男性キャラクターのイラスト】\nマネー教育や家計簿アプリの紹介動画のサムネイル。かわいらしいイラストが視聴者の目を引き、クリック率向上が期待できます。に使えます。\n\n→ https://sozaino.com/download?id=934\n\n#貯金 #家計管理 #マネーリテラシー #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_309.webp",
     "schedule": {
-      "jstHour": 22,
+      "jstHour": 20,
       "jstMinute": 0,
-      "utcHour": 13,
+      "utcHour": 11,
       "utcMinute": 0,
-      "cron": "0 13 * * *",
-      "label": "22:00 JST"
+      "cron": "0 11 * * *",
+      "label": "20:00 JST"
     }
   }
 ]
