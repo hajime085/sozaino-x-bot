@@ -1,9 +1,9 @@
 [
   {
     "type": "material",
-    "id": 853,
-    "text": "🗓️ 8月・真夏の素材\n\n「花火大会」の季節にぴったりな素材を紹介します。\n\n【ざるそばと薬味、つゆのセット】\nそば専門店のメニュー紹介ブログやYouTube動画のサムネイルに最適。温かみのあるイラストスタイルが親しみやすく、店舗の雰囲気を効果的に伝えられます。に使えます。\n\n→ https://sozaino.com/download?id=853\n\n#ざるそば #そば #和食 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/character_a159.webp",
+    "id": 1023,
+    "text": "🎨 お盆の季節🏮\n\n【木製ボディブラシを持つ手のスキンケア画像】\n木製ボディブラシを手に持つスキンケア画像です。ナチュラルで温かみのある雰囲気が特徴で、セルフケアやウェルネス関連のコンテンツに最適です。美容ブログや動画のサムネイルとしても活用できます。\n📌 ECサイトのボディケア商品紹介ページに。実際の使用イメージが明確に伝わり、商品の購買意欲向上につながります。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=1023\n\n#ボディブラシ #スキンケア #美容 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/beauty_29.webp",
     "schedule": {
       "jstHour": 8,
       "jstMinute": 0,
@@ -15,22 +15,22 @@
   },
   {
     "type": "material",
-    "id": 457,
-    "text": "🎨 残暑が続く季節\n\n【白を基調とした洗練されたボディソープのバスルーム収納】\n白を統一した清潔感あるバスルーム空間に、ボディソープやスキンケア商品が整列した収納シーン。ミニマルで機能的な雰囲気を演出でき、ホテルライクな洗面所のビジュアルが必要なコンテンツに活用できます。\n📌 バスルーム・洗面所のインテリアや収納ブログ。ミニマルで清潔感のある棚レイアウトは、整理整頓のコツを紹介する記事や動画に最適で、読者の参考になりやすいです。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=457\n\n#バスルーム #収納 #スキンケア #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/home_107.webp",
+    "id": 99,
+    "text": "✨ 【無料素材】スマートフォンを見て驚く女性\n\n▸ スマートフォン・アプリ紹介記事\n▸ SNS・ネットニュース関連コンテンツ\n\nスマートフォンの画面を見つめ、驚きや喜びで目を大きく開いた女性の表情を捉えた素材。背景透過により、SNS関連のバナーやアプリ紹介ページ、ニュース記事など様々なWebコンテンツへの組み込みが容易。スマホユーザーのリアルな反応を表現する際に活用できます。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=99\n\n#フリー素材 #ソザイノ #スマートフォン #女性 #驚き",
+    "imageUrl": "https://sozaino.com/webp/person_076.webp",
     "schedule": {
-      "jstHour": 12,
+      "jstHour": 13,
       "jstMinute": 0,
-      "utcHour": 3,
+      "utcHour": 4,
       "utcMinute": 0,
-      "cron": "0 3 * * *",
-      "label": "12:00 JST"
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-006",
-    "text": "💡 デザインのヒント\n\nブログのアイキャッチ画像サイズ、正解はこれ。用途別の推奨サイズと選び方\n\nWordPress・はてなブログ・noteなど主要プラットフォーム別の推奨サイズを整理。SNSシェア時に画像が切れないためのポイントも解説します。\n\n→ https://sozaino.com/column/eyecatch-size-guide.html",
+    "id": "col-005",
+    "text": "📝 真夏の8月に合わせて\n\nブログ用フリー素材の選び方。失敗しないための5つの確認ポイント\n\nブログのアイキャッチや挿入画像に使うフリー素材を選ぶときの5つの確認ポイントを解説。商用利用・画質・ファイル形式・ライセンスの読み方まで、初心者でも迷わない選び方をまとめます。\n\n詳しくはこちら\n→ https://sozaino.com/column/free-material-selection-guide.html\n\n#デザイン #素材活用 #ソザイノ",
     "imageUrl": null,
     "schedule": {
       "jstHour": 18,
@@ -43,9 +43,9 @@
   },
   {
     "type": "material",
-    "id": 908,
-    "text": "🗓️ 8月・真夏の素材\n\n「夏休み」の季節にぴったりな素材を紹介します。\n\n【お金がない悩みを抱える男性のイラスト】\n家計管理やお金の悩みに関する記事のアイキャッチ。読者の共感を引き出し、解決策へのニーズを高められます。に使えます。\n\n→ https://sozaino.com/download?id=908\n\n#経済難 #貧困 #家計管理 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/character_283.webp",
+    "id": 513,
+    "text": "🗓️ 8月・真夏の素材\n\n「お盆」の季節にぴったりな素材を紹介します。\n\n【机の上の小型扇風機とディフューザーの暖かい照明】\n小型家電やコンパクト家具を扱うECサイトの商品紹介ページに活用可能。実際の使用シーンが想像しやすく、購買意欲の向上が期待できます。に使えます。\n\n→ https://sozaino.com/download?id=513\n\n#デスク #インテリア #生活家電 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/home_119.webp",
     "schedule": {
       "jstHour": 22,
       "jstMinute": 0,
