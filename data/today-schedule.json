@@ -1,23 +1,23 @@
 [
   {
     "type": "material",
-    "id": 268,
-    "text": "✨ 【無料素材】ドライフルーツ入りのパウンドケーキをカットした断面\n\n▸ お菓子・レシピブログ\n▸ カフェ・スイーツ紹介動画\n\n焼き色が均一に入ったパウンドケーキの断面。レーズンやクランベリーなどのドライフルーツが層状に散りばめられ、温かみのある茶系と鮮やかな赤系の色合いが交じり合う。手作りの素朴さと丁寧さが伝わる仕上がり。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=268\n\n#フリー素材 #ソザイノ #パウンドケーキ #ドライフルーツ #焼き菓子",
-    "imageUrl": "https://sozaino.com/webp/food_123.webp",
+    "id": 186,
+    "text": "🎨 残暑が続く季節\n\n【ふんわり食感のパウンドケーキの断面】\nバターと卵の風味が感じられるパウンドケーキの断面。きめ細かく焼き上がった生地の質感と、薄く層状に広がるクラム構造が見える。温かみのあるベージュ～琥珀色で、手作り感のあるアットホームなムードを演出します。\n📌 焼き菓子の作り方動画に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=186\n\n#パウンドケーキ #焼き菓子 #お菓子 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_027.webp",
     "schedule": {
-      "jstHour": 9,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 0,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 0 * * *",
-      "label": "09:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 140,
-    "text": "✨ 【無料素材】もやしを広げている様子\n\n▸ ファストフード店の紹介記事\n▸ 揚げ物レシピ・調理動画\n\nもやしを手で広げた生のままの状態を撮影。白と淡い緑色のコントラストが清潔感を演出し、新鮮な野菜の透明感や繊細な質感がリアルに伝わります。食材の自然な様子を表現する調理ブログやレシピサイトに最適です。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=140\n\n#フリー素材 #ソザイノ #野菜 #食べ物",
-    "imageUrl": "https://sozaino.com/webp/food_011.webp",
+    "id": 809,
+    "text": "🗓️ 8月・真夏の素材\n\n「お盆」の季節にぴったりな素材を紹介します。\n\n【困惑する女性ビジネスパーソン】\nキャリア開発やスキルアップ講座のプレゼンテーション資料。学習者の不安や疑問を表現するビジュアルとして効果的です。に使えます。\n\n→ https://sozaino.com/download?id=809\n\n#女性 #ビジネス #キャラクター #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_65.webp",
     "schedule": {
       "jstHour": 13,
       "jstMinute": 0,
@@ -29,30 +29,30 @@
   },
   {
     "type": "column",
-    "id": "col-005",
-    "text": "📝 残暑が続く季節に合わせて\n\nブログ用フリー素材の選び方。失敗しないための5つの確認ポイント\n\nブログのアイキャッチや挿入画像に使うフリー素材を選ぶときの5つの確認ポイントを解説。商用利用・画質・ファイル形式・ライセンスの読み方まで、初心者でも迷わない選び方をまとめます。\n\n詳しくはこちら\n→ https://sozaino.com/column/free-material-selection-guide.html\n\n#デザイン #素材活用 #ソザイノ",
+    "id": "col-004",
+    "text": "📖 ソザイノ コラム\n\nWebP素材がSEOに効く理由。ページ速度・Core Web Vitals・検索順位への影響を解説\n\nWebP形式の画像がSEOに与える影響を解説。ページ読み込み速度の改善からCore Web Vitalsのスコアアップ、検索順位への効果まで、ブログ運営者が知っておきたい知識をまとめます。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/webp-seo-effect.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 18,
+      "jstHour": 19,
       "jstMinute": 0,
-      "utcHour": 9,
+      "utcHour": 10,
       "utcMinute": 0,
-      "cron": "0 9 * * *",
-      "label": "18:00 JST"
+      "cron": "0 10 * * *",
+      "label": "19:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 935,
-    "text": "📸 素材紹介\n\nお金と笑顔！幸せな男性キャラクター\n💡 使用例：「給料以外の収入源を作る。月10万円稼ぐための5つの副業アイデア」\n\n紙幣とコインを手にした男性のキャラクターが、明るい表情で描かれています。背景透過なので、Webサイトやブログの各種パーツとして直接配置でき、金銭的な成功や幸福感といったポジティブなメッセージを視覚的に伝えられます。\n\n無料でDLできます\n→ https://sozaino.com/download?id=935\n\n#背景透過 #キャラクター #お金 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/character_310.webp",
+    "id": 920,
+    "text": "🎨 お盆の季節🏮\n\n【お金が降ってくる喜びを表現した男性のイラスト】\n降り注ぐ金銭に包まれた男性キャラクターが、両手を上げて喜びを表現しています。明るく楽観的な雰囲気で、金色と肌色が主調。背景透過により、ブログのヘッダーや記事のアクセント要素として自由に配置できます。成功やビジネスの達成をテーマにしたコンテンツに最適です。\n📌 給与アップ・昇進に関する記事のアイキャッチ。達成感と喜びを表現することで、読者の前向きな感情を引き出し、ブログへの滞在時間延長につながります。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=920\n\n#背景透過 #金銭 #成功 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_295.webp",
     "schedule": {
-      "jstHour": 22,
+      "jstHour": 21,
       "jstMinute": 0,
-      "utcHour": 13,
+      "utcHour": 12,
       "utcMinute": 0,
-      "cron": "0 13 * * *",
-      "label": "22:00 JST"
+      "cron": "0 12 * * *",
+      "label": "21:00 JST"
     }
   }
 ]
