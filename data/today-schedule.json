@@ -1,23 +1,23 @@
 [
   {
     "type": "material",
-    "id": 186,
-    "text": "🎨 残暑が続く季節\n\n【ふんわり食感のパウンドケーキの断面】\nバターと卵の風味が感じられるパウンドケーキの断面。きめ細かく焼き上がった生地の質感と、薄く層状に広がるクラム構造が見える。温かみのあるベージュ～琥珀色で、手作り感のあるアットホームなムードを演出します。\n📌 焼き菓子の作り方動画に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=186\n\n#パウンドケーキ #焼き菓子 #お菓子 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/food_027.webp",
+    "id": 1032,
+    "text": "📸 素材紹介\n\nコスメポーチを開けて片付けている様子\n💡 使用例：「あなたのお金は今いくら？無意識の浪費から脱却する家計診断テスト」\n\nコスメポーチを開けて整理整頓している様子を捉えた素材です。スキンケアやメイク用品が丁寧に配置されており、美容ブログや化粧品紹介動画での使用に最適です。清潔感のあるビジュアルで、視聴者の購買意欲を高められます。\n\n無料でDLできます\n→ https://sozaino.com/download?id=1032\n\n#スキンケア #コスメ #美容 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/beauty_38.webp",
     "schedule": {
-      "jstHour": 10,
+      "jstHour": 8,
       "jstMinute": 0,
-      "utcHour": 1,
+      "utcHour": 23,
       "utcMinute": 0,
-      "cron": "0 1 * * *",
-      "label": "10:00 JST"
+      "cron": "0 23 * * *",
+      "label": "08:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 809,
-    "text": "🗓️ 8月・真夏の素材\n\n「お盆」の季節にぴったりな素材を紹介します。\n\n【困惑する女性ビジネスパーソン】\nキャリア開発やスキルアップ講座のプレゼンテーション資料。学習者の不安や疑問を表現するビジュアルとして効果的です。に使えます。\n\n→ https://sozaino.com/download?id=809\n\n#女性 #ビジネス #キャラクター #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/character_65.webp",
+    "id": 385,
+    "text": "📸 素材紹介\n\n自転車で通勤する爽やかなビジネスマン\n💡 使用例：「脱・車通勤！自転車で始める健康的でエコなビジネスマンライフ」\n\n通勤の移動手段として自転車を選択するビジネスパーソンの実例。爽やかな色合いと動的な構図で、エコロジーと効率性を両立させるライフスタイルを表現。職場への移動を前向きに捉える姿勢が伝わります。\n\n無料でDLできます\n→ https://sozaino.com/download?id=385\n\n#自転車 #通勤 #ビジネスマン #素材配布",
+    "imageUrl": "https://sozaino.com/webp/blog_132.webp",
     "schedule": {
       "jstHour": 13,
       "jstMinute": 0,
@@ -29,30 +29,30 @@
   },
   {
     "type": "column",
-    "id": "col-004",
-    "text": "📖 ソザイノ コラム\n\nWebP素材がSEOに効く理由。ページ速度・Core Web Vitals・検索順位への影響を解説\n\nWebP形式の画像がSEOに与える影響を解説。ページ読み込み速度の改善からCore Web Vitalsのスコアアップ、検索順位への効果まで、ブログ運営者が知っておきたい知識をまとめます。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/webp-seo-effect.html\n\n#フリー素材 #ブログ運営",
+    "id": "col-006",
+    "text": "📖 ソザイノ コラム\n\nブログのアイキャッチ画像サイズ、正解はこれ。用途別の推奨サイズと選び方\n\nWordPress・はてなブログ・noteなど主要プラットフォーム別の推奨サイズを整理。SNSシェア時に画像が切れないためのポイントも解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/eyecatch-size-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 19,
+      "jstHour": 18,
       "jstMinute": 0,
-      "utcHour": 10,
+      "utcHour": 9,
       "utcMinute": 0,
-      "cron": "0 10 * * *",
-      "label": "19:00 JST"
+      "cron": "0 9 * * *",
+      "label": "18:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 920,
-    "text": "🎨 お盆の季節🏮\n\n【お金が降ってくる喜びを表現した男性のイラスト】\n降り注ぐ金銭に包まれた男性キャラクターが、両手を上げて喜びを表現しています。明るく楽観的な雰囲気で、金色と肌色が主調。背景透過により、ブログのヘッダーや記事のアクセント要素として自由に配置できます。成功やビジネスの達成をテーマにしたコンテンツに最適です。\n📌 給与アップ・昇進に関する記事のアイキャッチ。達成感と喜びを表現することで、読者の前向きな感情を引き出し、ブログへの滞在時間延長につながります。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=920\n\n#背景透過 #金銭 #成功 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/character_295.webp",
+    "id": 562,
+    "text": "✨ 【無料素材】日本の硬貨と紙幣で学ぶ家計管理\n\n▸ 家計管理や貯金術に関するブログ記事のアイキャッチ。現金の視覚化により、読者の金銭感覚をリアルに刺激し、貯金への動機づけが期待できます。\n▸ 金融教育や子ども向けお金の勉強動画のサムネイル。親しみやすい日本の硬貨が登場することで、実践的な学習への興味喚起につながります。\n\n日本円の硬貨と紙幣を題材にした家計管理テーマの素材。実在する通貨を使うことで、家計簿や資産管理の記事に説得力と親近感をもたらします。日本の読者にとって直感的に理解しやすい視覚構成です。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=562\n\n#フリー素材 #ソザイノ #お金 #家計管理",
+    "imageUrl": "https://sozaino.com/webp/blog_152.webp",
     "schedule": {
-      "jstHour": 21,
+      "jstHour": 22,
       "jstMinute": 0,
-      "utcHour": 12,
+      "utcHour": 13,
       "utcMinute": 0,
-      "cron": "0 12 * * *",
-      "label": "21:00 JST"
+      "cron": "0 13 * * *",
+      "label": "22:00 JST"
     }
   }
 ]
