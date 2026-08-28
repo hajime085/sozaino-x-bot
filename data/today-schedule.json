@@ -1,9 +1,9 @@
 [
   {
     "type": "material",
-    "id": 604,
-    "text": "📸 素材紹介\n\n温かい飲み物が湯気立つ緑色のマグカップ\n💡 使用例：「朝の一杯で心を整える。毎日の習慣を変える温かい飲み物の魔法」\n\n森林浴やキャンプシーンで活躍する緑色マグカップ。温かい飲み物から立ち上る湯気がリラックス感を演出し、アウトドア活動の休息時間を表現しています。自然との親和性が高い色合いで、ライフスタイルコンテンツに落ち着きをもたらします。\n\n無料でDLできます\n→ https://sozaino.com/download?id=604\n\n#ライフスタイル #素材配布",
-    "imageUrl": "https://sozaino.com/webp/outdoor_028.webp",
+    "id": 757,
+    "text": "📸 素材紹介\n\n悩む・困るビジネスマンのイラスト\n💡 使用例：「仕事の悩みを解決する3つの方法｜成功事例から学ぶ対策法」\n\n頭を抱えたり、額に手を当てたりする仕草で困惑や問題解決中の状態を表現したビジネスマンのイラスト。落ち着いた配色で描かれ、ブログの課題・トラブル・対応記事などで心理状態を視覚化する際に活用できます。\n\n無料でDLできます\n→ https://sozaino.com/download?id=757\n\n#ビジネスマン #困った #イラスト #素材配布",
+    "imageUrl": "https://sozaino.com/webp/character_009.webp",
     "schedule": {
       "jstHour": 8,
       "jstMinute": 0,
@@ -15,9 +15,9 @@
   },
   {
     "type": "material",
-    "id": 103,
-    "text": "📸 素材紹介\n\nタブレットで音声波形を表示する女性ビジネスパーソン\n💡 使用例：「デジタルツールで業務効率化！最新タブレットアプリ活用法」\n\nタブレット画面に音声波形を映す女性ビジネスパーソン。モダンで専門的な印象を与え、音声処理・オーディオ編集・音声認識などのテクノロジー関連サービスの説明材料に適した構図。背景透過で既存デザインへの組み込みが容易。\n\n無料でDLできます\n→ https://sozaino.com/download?id=103\n\n#タブレット #女性 #ビジネス #素材配布",
-    "imageUrl": "https://sozaino.com/webp/person_081.webp",
+    "id": 190,
+    "text": "🗓️ 8月・真夏の素材\n\n「お盆」の季節にぴったりな素材を紹介します。\n\n【ふわふわ食感が魅力の食パンの斜めアングル】\nカフェ・洋菓子店の紹介記事に使えます。\n\n→ https://sozaino.com/download?id=190\n\n#パン #食パン #断面 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_036.webp",
     "schedule": {
       "jstHour": 12,
       "jstMinute": 0,
@@ -29,30 +29,30 @@
   },
   {
     "type": "column",
-    "id": "col-001",
-    "text": "📝 真夏の8月に合わせて\n\nAI生成素材のブログ活用術。選び方・使い方・注意点をまとめて解説\n\nAI生成画像をブログやSNSで活用するための実践的な使い方を解説。素材の選び方、アイキャッチへの組み込み方、利用時の注意点まで、ブログ運営者目線でまとめます。\n\n詳しくはこちら\n→ https://sozaino.com/column/ai-material-howto.html\n\n#デザイン #素材活用 #ソザイノ",
+    "id": "col-007",
+    "text": "💡 デザインのヒント\n\nAI生成画像の著作権は大丈夫？ブログで使う前に知っておきたい現在地（2026年5月時点）\n\nAI生成画像の著作権で気をつけるべきポイントを、文化庁の見解をベースに「学習段階」「利用段階」の2フェーズで整理します。\n\n→ https://sozaino.com/column/ai-image-copyright.html",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 19,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 10,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 10 * * *",
-      "label": "19:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 954,
-    "text": "🗓️ 8月・真夏の素材\n\n「花火大会」の季節にぴったりな素材を紹介します。\n\n【考える男性のイラスト】\n意思決定やキャリア選択に関するブログ記事のアイキャッチに最適。読者の共感を呼び起こし、問題解決への興味を引き出します。に使えます。\n\n→ https://sozaino.com/download?id=954\n\n#迷い #悩む #考える #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/character_329.webp",
+    "id": 25,
+    "text": "🎨 真夏の8月\n\n【ストレスと疲労に悩む女性のポートレート】\n疲弊した表情と身体の緊張感が伝わるポートレート。頭部や首周辺に手を当てた仕草で、心身の不調を視覚的に表現しています。背景透過形式なため、ブログやウェブサイトのレイアウトに柔軟に配置でき、メンタルヘルスやウェルネス関連の記事に即座に活用できます。\n📌 仕事のストレス管理・職場環境改善に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=25\n\n#ストレス #疲労 #女性 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/person_109.webp",
     "schedule": {
-      "jstHour": 20,
+      "jstHour": 21,
       "jstMinute": 0,
-      "utcHour": 11,
+      "utcHour": 12,
       "utcMinute": 0,
-      "cron": "0 11 * * *",
-      "label": "20:00 JST"
+      "cron": "0 12 * * *",
+      "label": "21:00 JST"
     }
   }
 ]
