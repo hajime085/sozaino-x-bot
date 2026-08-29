@@ -1,51 +1,51 @@
 [
   {
     "type": "material",
-    "id": 757,
-    "text": "📸 素材紹介\n\n悩む・困るビジネスマンのイラスト\n💡 使用例：「仕事の悩みを解決する3つの方法｜成功事例から学ぶ対策法」\n\n頭を抱えたり、額に手を当てたりする仕草で困惑や問題解決中の状態を表現したビジネスマンのイラスト。落ち着いた配色で描かれ、ブログの課題・トラブル・対応記事などで心理状態を視覚化する際に活用できます。\n\n無料でDLできます\n→ https://sozaino.com/download?id=757\n\n#ビジネスマン #困った #イラスト #素材配布",
-    "imageUrl": "https://sozaino.com/webp/character_009.webp",
+    "id": 387,
+    "text": "🎨 残暑が続く季節\n\n【警察官と自転車の少年のやり取り】\nアニメ風のイラストで、警察官が自転車に乗った少年に声をかけるシーン。明るく親しみやすい雰囲気で、交通ルールの指導や安全啓発の記事に適した温かみのある配色。街中での実生活場面を描いており、教育的なコンテンツに活用できます。\n📌 自転車マナー改善キャンペーンの広告素材として。若い世代へのルール周知や安全教育の重要性を視覚的に伝えられます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=387\n\n#自転車 #交通安全 #街中 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/blog_020.webp",
     "schedule": {
-      "jstHour": 8,
+      "jstHour": 9,
       "jstMinute": 0,
-      "utcHour": 23,
+      "utcHour": 0,
       "utcMinute": 0,
-      "cron": "0 23 * * *",
-      "label": "08:00 JST"
+      "cron": "0 0 * * *",
+      "label": "09:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 190,
-    "text": "🗓️ 8月・真夏の素材\n\n「お盆」の季節にぴったりな素材を紹介します。\n\n【ふわふわ食感が魅力の食パンの斜めアングル】\nカフェ・洋菓子店の紹介記事に使えます。\n\n→ https://sozaino.com/download?id=190\n\n#パン #食パン #断面 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/food_036.webp",
+    "id": 275,
+    "text": "✨ 【無料素材】トレーに並ぶゴマのかかったパンのアングル\n\n▸ 和菓子・日本の伝統菓子紹介\n▸ ベーカリーやカフェのブログ\n\n焼きたてのゴマパンがトレイに整然と並ぶ俯瞰ショット。焦茶色の生地にゴマの白い粒がアクセントとなり、質感のある温かみが伝わります。手作り感と素朴さが際立ち、ベーカリーやホームメイドをテーマにしたコンテンツに適しています。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=275\n\n#フリー素材 #ソザイノ #パン #手作り #食べ物",
+    "imageUrl": "https://sozaino.com/webp/food_132.webp",
     "schedule": {
-      "jstHour": 12,
+      "jstHour": 13,
       "jstMinute": 0,
-      "utcHour": 3,
+      "utcHour": 4,
       "utcMinute": 0,
-      "cron": "0 3 * * *",
-      "label": "12:00 JST"
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-007",
-    "text": "💡 デザインのヒント\n\nAI生成画像の著作権は大丈夫？ブログで使う前に知っておきたい現在地（2026年5月時点）\n\nAI生成画像の著作権で気をつけるべきポイントを、文化庁の見解をベースに「学習段階」「利用段階」の2フェーズで整理します。\n\n→ https://sozaino.com/column/ai-image-copyright.html",
+    "id": "col-002",
+    "text": "📖 ソザイノ コラム\n\nフリー素材の商用利用、実は注意が必要なケースとは？確認すべき3つのポイント\n\n「商用利用OK」のフリー素材でも注意が必要なケースがあります。利用規約の読み方、NGになりやすいパターン、安全に使うための確認ポイントを解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/commercial-use-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 17,
+      "jstHour": 18,
       "jstMinute": 0,
-      "utcHour": 8,
+      "utcHour": 9,
       "utcMinute": 0,
-      "cron": "0 8 * * *",
-      "label": "17:00 JST"
+      "cron": "0 9 * * *",
+      "label": "18:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 25,
-    "text": "🎨 真夏の8月\n\n【ストレスと疲労に悩む女性のポートレート】\n疲弊した表情と身体の緊張感が伝わるポートレート。頭部や首周辺に手を当てた仕草で、心身の不調を視覚的に表現しています。背景透過形式なため、ブログやウェブサイトのレイアウトに柔軟に配置でき、メンタルヘルスやウェルネス関連の記事に即座に活用できます。\n📌 仕事のストレス管理・職場環境改善に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=25\n\n#ストレス #疲労 #女性 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/person_109.webp",
+    "id": 277,
+    "text": "📸 素材紹介\n\n白い器に盛られたアジア風ホットドッグの料理写真\n💡 使用例：「話題のフュージョン料理！白葱たっぷりホットドッグを食べてみた」\n\n白い磁器に盛り付けられたアジア風ホットドッグを俯瞰で捉えた一枚。薄黄色の生地に濃い茶色のソースが映え、鮮やかな野菜の色が引き立つ。レストランの一皿として通用する丁寧な盛り付けで、フードブログやメニュー紹介に即座に活用できる。\n\n無料でDLできます\n→ https://sozaino.com/download?id=277\n\n#フードフォト #グルメ #レストラン #素材配布",
+    "imageUrl": "https://sozaino.com/webp/food_134.webp",
     "schedule": {
       "jstHour": 21,
       "jstMinute": 0,
