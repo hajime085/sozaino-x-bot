@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 981,
-    "text": "✨ 【無料素材】黄色いクレーン車のイラスト\n\n▸ 建設業や重機に関する企業ブログ。製品紹介やサービス説明記事のアイキャッチとして使用でき、親しみやすいイラストタッチで読者の興味を引き出せます。\n▸ 子ども向け教育コンテンツや働く車の紹介動画。カラフルでわかりやすいデザインは幼児～小学生向けの学習教材や知育ブログに最適です。\n\n明るい黄色で塗られたクレーン車を正面から捉えたイラスト。建設現場の作業風景に活力をもたらす色合いで、親しみやすい雰囲気を演出。背景透過なので様々なレイアウトへの組み込みが容易です。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=981\n\n#フリー素材 #ソザイノ #クレーン車 #建設機械 #イラスト",
-    "imageUrl": "https://sozaino.com/webp/character356.webp",
+    "id": 54,
+    "text": "✨ 【無料素材】驚きと衝撃を表現する男性のポートレート\n\n▸ ニュース・速報記事\n▸ 商品レビュー・比較記事\n\n目を見開き、口を大きく開けた男性の表情が驚きと衝撃の瞬間を捉えている。背景透過により、ブログやLPの様々なレイアウトへの組み込みが容易。リアルな肌質と表情の緊張感が、感情的なビジュアル表現を求めるコンテンツに有効。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=54\n\n#フリー素材 #ソザイノ #驚き #びっくり #感情表現",
+    "imageUrl": "https://sozaino.com/webp/person_015.webp",
     "schedule": {
-      "jstHour": 9,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 0,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 0 * * *",
-      "label": "09:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 886,
-    "text": "✨ 【無料素材】スマートフォンを持つ驚く男性のイラスト\n\n▸ スマートフォンやアプリに関する記事のアイキャッチ。新機能の紹介やアプリ活用術など、テック関連コンテンツで読者の興味を引き付けるのに最適です。\n▸ SNS運用やデジタルマーケティングの解説記事。驚きの表情が視線を集め、新しい情報や意外な発見を暗示するため、クリック率向上が期待できます。\n\nスマートフォンの画面を見て目を見張る男性をシンプルなラインアートで表現。背景透過で様々なデザインに馴染みやすく、驚きや発見といった感情を視覚的に伝える。ニュース記事やアプリ紹介、通知関連のコンテンツに最適。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=886\n\n#フリー素材 #ソザイノ #背景透過 #驚き #スマートフォン",
-    "imageUrl": "https://sozaino.com/webp/character_259.webp",
+    "id": 293,
+    "text": "🗓️ 9月・秋の素材\n\n「稲刈り」の季節にぴったりな素材を紹介します。\n\n【焼きたてベーグルのスライス、断面の美しさ】\n食パンの選び方ガイドに使えます。\n\n→ https://sozaino.com/download?id=293\n\n#パン #ベーグル #断面 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_156.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-007",
-    "text": "📖 ソザイノ コラム\n\nAI生成画像の著作権は大丈夫？ブログで使う前に知っておきたい現在地（2026年5月時点）\n\nAI生成画像の著作権で気をつけるべきポイントを、文化庁の見解をベースに「学習段階」「利用段階」の2フェーズで整理します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/ai-image-copyright.html\n\n#フリー素材 #ブログ運営",
+    "id": "col-004",
+    "text": "📖 ソザイノ コラム\n\nWebP素材がSEOに効く理由。ページ速度・Core Web Vitals・検索順位への影響を解説\n\nWebP形式の画像がSEOに与える影響を解説。ページ読み込み速度の改善からCore Web Vitalsのスコアアップ、検索順位への効果まで、ブログ運営者が知っておきたい知識をまとめます。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/webp-seo-effect.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 18,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 9,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 9 * * *",
-      "label": "18:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 1013,
-    "text": "📸 素材紹介\n\n梱包用ガムテープ、粘着テープのイラスト\n💡 使用例：「知らないと損する粘着テープの種類と使い分け。DIYから梱包まで完全ガイド」\n\n巻かれた状態のガムテープを擬人化したキャラクターイラスト。ベージュ系の暖色で梱包業務の親しみやすさを表現。段ボール作業のシーンに配置しやすい透過背景で、物流・配送テーマのコンテンツに即活用できます。\n\n無料でDLできます\n→ https://sozaino.com/download?id=1013\n\n#ガムテープ #粘着テープ #梱包 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/character388.webp",
+    "id": 456,
+    "text": "🎨 稲刈り・収穫の季節\n\n【清潔感あふれる洗浄・掃除道具の一式セット】\nモップ・ブラシ・スポンジなど日常の清掃に必要な道具を整理して配置したセット。白や淡色系でまとめられた落ち着きのある構成で、家事記事やハウスクリーニング関連のブログに即戦力となる実用的な一枚です。\n📌 整理整頓・断捨離のハウツー動画やYouTube動画サムネイルに。実用的で信頼感のあるイメージが視聴者の関心を引きます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=456\n\n#家事 #生活用品 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/home_111.webp",
     "schedule": {
-      "jstHour": 21,
+      "jstHour": 20,
       "jstMinute": 0,
-      "utcHour": 12,
+      "utcHour": 11,
       "utcMinute": 0,
-      "cron": "0 12 * * *",
-      "label": "21:00 JST"
+      "cron": "0 11 * * *",
+      "label": "20:00 JST"
     }
   }
 ]
