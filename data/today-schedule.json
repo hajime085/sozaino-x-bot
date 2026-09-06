@@ -1,9 +1,9 @@
 [
   {
     "type": "material",
-    "id": 474,
-    "text": "📸 素材紹介\n\n白いガジェット・モバイル機器のフラットレイ写真\n💡 使用例：「旅行・出張に欠かせないコンパクトガジェット。プロが選ぶおすすめ製品とは？」\n\n複数のスマートフォンやタブレット、イヤフォンなどが白い背景に統一配置されたフラットレイ。余白を活かしたシンプルな構図で、テック関連のブログやガジェットレビュー、モダンライフスタイルの記事に合わせやすい洗練された雰囲気を演出します。\n\n無料でDLできます\n→ https://sozaino.com/download?id=474\n\n#ガジェット #フラットレイ #白背景 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/home_053.webp",
+    "id": 281,
+    "text": "🎨 稲刈り・収穫の季節\n\n【焼きたてのベーグルと白いパンの朝食風景】\n焼き色の濃淡が映えたベーグルと白いパンを主役にした朝食シーン。アーモンドのアクセントが加わり、温かみのある茶色系と清潔感のある白の対比が、目覚めたばかりのさわやかな時間帯を表現しています。カフェメニューや朝食特集に使える自然な食卓風景。\n📌 カフェ・カフェインテリア紹介に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=281\n\n#ベーグル #パン #焼き菓子 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_139.webp",
     "schedule": {
       "jstHour": 10,
       "jstMinute": 0,
@@ -15,44 +15,44 @@
   },
   {
     "type": "material",
-    "id": 243,
-    "text": "🎨 稲刈り・収穫の季節\n\n【粉砂糖がけのおいしそうなパンのポートレート】\n焼きたてのパンに白い粉砂糖がふんわりとかかった、温かみのあるポートレート。素朴で親しみやすい色合いが、手作り感を引き出す。ベーカリーやカフェのメニュー、ブログのアイキャッチとして重宝する自然な風合い。\n📌 レシピブログ・お菓子作り動画に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=243\n\n#パン #食べ物 #粉砂糖 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/food_097.webp",
+    "id": 107,
+    "text": "🎨 秋の訪れを感じる9月\n\n【タブレットを持つビジネスマンのポートレート（男性・No.107）】\nタブレットを操作する男性ビジネスマンを捉えたポートレート。背景が透過されているため、レイアウトの自由度が高く、様々なデザイン背景に合成しやすい。デジタルツール活用と現代的なビジネスシーンを演出する際に適している。\n📌 ビジネスブログ・コラム記事に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=107\n\n#ビジネス #タブレット #男性 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/person_086.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-006",
-    "text": "📖 ソザイノ コラム\n\nブログのアイキャッチ画像サイズ、正解はこれ。用途別の推奨サイズと選び方\n\nWordPress・はてなブログ・noteなど主要プラットフォーム別の推奨サイズを整理。SNSシェア時に画像が切れないためのポイントも解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/eyecatch-size-guide.html\n\n#フリー素材 #ブログ運営",
+    "id": "col-008",
+    "text": "📖 ソザイノ コラム\n\nWebP形式とは？PNG・JPEGとの違いと、ブログで使う5つのメリット\n\nWebPの特徴、PNG・JPEGとの違い、ブログ運営者が知っておきたい導入メリットと注意点を実例ベースで解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/webp-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 19,
+      "jstHour": 18,
       "jstMinute": 0,
-      "utcHour": 10,
+      "utcHour": 9,
       "utcMinute": 0,
-      "cron": "0 10 * * *",
-      "label": "19:00 JST"
+      "cron": "0 9 * * *",
+      "label": "18:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 940,
-    "text": "📸 素材紹介\n\nパソコンで作業する眼鏡の男性イラスト\n💡 使用例：「効率よく稼げる在宅ワーク。成功している人が実践する時間管理術とは？」\n\nデスク作業に集中する眼鏡姿の男性を描いたキャラクターイラスト。背景が透過されているため、ブログやWebサイトのレイアウトに直接配置しやすい。落ち着いた雰囲気で、ビジネスやIT関連の記事に適合します。\n\n無料でDLできます\n→ https://sozaino.com/download?id=940\n\n#背景透過 #男性 #パソコン #素材配布",
-    "imageUrl": "https://sozaino.com/webp/character_315.webp",
+    "id": 244,
+    "text": "🗓️ 9月・秋の素材\n\n「お月見」の季節にぴったりな素材を紹介します。\n\n【砂糖がけされた焼きたてパンが並んだ状態】\nお菓子レシピブログに使えます。\n\n→ https://sozaino.com/download?id=244\n\n#パン #食べ物 #粉砂糖 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_098.webp",
     "schedule": {
-      "jstHour": 20,
+      "jstHour": 22,
       "jstMinute": 0,
-      "utcHour": 11,
+      "utcHour": 13,
       "utcMinute": 0,
-      "cron": "0 11 * * *",
-      "label": "20:00 JST"
+      "cron": "0 13 * * *",
+      "label": "22:00 JST"
     }
   }
 ]
