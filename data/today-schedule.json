@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 187,
-    "text": "🎨 秋の訪れを感じる9月\n\n【焼きたての食パン、断面が美しい一斤】\n焼きたての食パンを横断面から捉えた写真。きつね色の焼き色と白いクラム部分の濃淡が印象的で、フレッシュな朝食シーンやベーカリーのメニュー、レシピサイトなど幅広い用途で活躍。温かみのある配色が食欲をそそります。\n📌 朝食・モーニング特集に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=187\n\n#食パン #パン #朝食 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/food_028.webp",
+    "id": 514,
+    "text": "📸 素材紹介\n\nバスルーム用品がそろった清潔感のあるシェルフ\n💡 使用例：「プロが教える！バスルームを高級ホテルのように見せる収納テクニック5選」\n\n白やベージュを基調とした統一感のあるシェルフに、ボトルやジャーがきちんと整列された様子。ラベルの統一やタオルの折り方など、細部にこだわった整理整頓の実例。ミニマリスト志向のインテリアを目指すブログに適している。\n\n無料でDLできます\n→ https://sozaino.com/download?id=514\n\n#バスルーム #収納 #ミニマリスト #素材配布",
+    "imageUrl": "https://sozaino.com/webp/home_093.webp",
     "schedule": {
-      "jstHour": 8,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 23,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 23 * * *",
-      "label": "08:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 346,
-    "text": "📸 素材紹介\n\n自転車に乗る若い男性のイラスト\n💡 使用例：「毎日のサイクリングで心身をリセット！初心者向け自転車生活のはじめ方」\n\n爽やかな色合いで描かれた、自転車通勤・移動をする若い男性のイラスト。背景透過で他の要素と組み合わせやすく、エコロジーや健康的なライフスタイル、アクティブな日常をテーマにしたコンテンツに適しています。\n\n無料でDLできます\n→ https://sozaino.com/download?id=346\n\n#自転車 #男性 #イラスト #素材配布",
-    "imageUrl": "https://sozaino.com/webp/blog_134.webp",
+    "id": 366,
+    "text": "🎨 稲刈り・収穫の季節\n\n【夜道を無灯火で走る自転車ライダーのイラスト】\n夜間の暗い街道でライダーが自転車を力強く漕ぐシーン。濃紺や黒を基調とした背景に、ロードバイクの流線的なシルエットが映える。スピード感と緊張感を同時に表現した、アクティブなイメージの一枚。\n📌 フィットネス・運動ブログの記事アイキャッチ。夜間トレーニングの実践記や自転車運動の効果について紹介する際に、読者の モチベーション向上と記事の視認性が高まります。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=366\n\n#自転車 #夜間走行 #スポーツ #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/blog_040.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-006",
-    "text": "📖 ソザイノ コラム\n\nブログのアイキャッチ画像サイズ、正解はこれ。用途別の推奨サイズと選び方\n\nWordPress・はてなブログ・noteなど主要プラットフォーム別の推奨サイズを整理。SNSシェア時に画像が切れないためのポイントも解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/eyecatch-size-guide.html\n\n#フリー素材 #ブログ運営",
+    "id": "col-003",
+    "text": "💡 デザインのヒント\n\nSNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表\n\nX・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。\n\n→ https://sozaino.com/column/sns-image-size-guide.html",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 19,
+      "jstHour": 18,
       "jstMinute": 0,
-      "utcHour": 10,
+      "utcHour": 9,
       "utcMinute": 0,
-      "cron": "0 10 * * *",
-      "label": "19:00 JST"
+      "cron": "0 9 * * *",
+      "label": "18:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 484,
-    "text": "🎨 稲刈り・収穫の季節\n\n【清潔感あふれる洗面台の掃除用品】\n洗面台周りに配置された掃除道具を捉えた一枚。白を基調とした空間に、ブラシやスポンジ、洗剤ボトルなどが整理された状態で映されており、日常の家事風景を落ち着いた雰囲気で表現しています。整頓された環境が清潔さを視覚的に伝わります。\n📌 ホームクリーニングサービスやバスルーム用品メーカーの広告。プロフェッショナルで清潔感のあるビジュアルが信頼感を醸し出し、商品やサービスの購買意欲を高めます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=484\n\n#掃除 #家事 #清潔 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/home_033.webp",
+    "id": 823,
+    "text": "✨ 【無料素材】白色エアコン室内機の製品イメージ\n\n▸ 家電購入ガイドやエアコン選びの解説ブログ。製品の実物画像として、読者の購入検討時の参考になり、信頼度の高いコンテンツを実現できます。\n▸ 夏の電気代削減テーマの動画サムネイル。涼しさをもたらす家電として視覚的にアピールし、視聴者の興味を引き出せます。\n\n清潔感のある白色で統一された室内機は、モダンインテリアに溶け込みやすい。シンプルで洗練された見た目が特徴で、リビングや寝室など多くの空間に対応。機能性と美しさを両立させた製品イメージとして活用できます。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=823\n\n#フリー素材 #ソザイノ #エアコン #空調 #家電",
+    "imageUrl": "https://sozaino.com/webp/home_151.webp",
     "schedule": {
-      "jstHour": 20,
+      "jstHour": 22,
       "jstMinute": 0,
-      "utcHour": 11,
+      "utcHour": 13,
       "utcMinute": 0,
-      "cron": "0 11 * * *",
-      "label": "20:00 JST"
+      "cron": "0 13 * * *",
+      "label": "22:00 JST"
     }
   }
 ]
