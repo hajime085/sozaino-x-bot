@@ -1,23 +1,23 @@
 [
   {
     "type": "material",
-    "id": 514,
-    "text": "📸 素材紹介\n\nバスルーム用品がそろった清潔感のあるシェルフ\n💡 使用例：「プロが教える！バスルームを高級ホテルのように見せる収納テクニック5選」\n\n白やベージュを基調とした統一感のあるシェルフに、ボトルやジャーがきちんと整列された様子。ラベルの統一やタオルの折り方など、細部にこだわった整理整頓の実例。ミニマリスト志向のインテリアを目指すブログに適している。\n\n無料でDLできます\n→ https://sozaino.com/download?id=514\n\n#バスルーム #収納 #ミニマリスト #素材配布",
-    "imageUrl": "https://sozaino.com/webp/home_093.webp",
+    "id": 214,
+    "text": "🗓️ 9月・秋の素材\n\n「お月見」の季節にぴったりな素材を紹介します。\n\n【かごに入ったパン。焼きたてのパン】\n食べ物グルメ記事に使えます。\n\n→ https://sozaino.com/download?id=214\n\n#パン #食べ物 #ベーカリー #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_068.webp",
     "schedule": {
-      "jstHour": 10,
+      "jstHour": 9,
       "jstMinute": 0,
-      "utcHour": 1,
+      "utcHour": 0,
       "utcMinute": 0,
-      "cron": "0 1 * * *",
-      "label": "10:00 JST"
+      "cron": "0 0 * * *",
+      "label": "09:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 366,
-    "text": "🎨 稲刈り・収穫の季節\n\n【夜道を無灯火で走る自転車ライダーのイラスト】\n夜間の暗い街道でライダーが自転車を力強く漕ぐシーン。濃紺や黒を基調とした背景に、ロードバイクの流線的なシルエットが映える。スピード感と緊張感を同時に表現した、アクティブなイメージの一枚。\n📌 フィットネス・運動ブログの記事アイキャッチ。夜間トレーニングの実践記や自転車運動の効果について紹介する際に、読者の モチベーション向上と記事の視認性が高まります。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=366\n\n#自転車 #夜間走行 #スポーツ #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/blog_040.webp",
+    "id": 383,
+    "text": "📸 素材紹介\n\n通勤ラッシュの街中で自転車に乗るビジネスマン\n💡 使用例：「環境も健康も手に入れる。今注目のスマート通勤スタイル」\n\n朝の都市風景の中、自転車で颯爽と移動するビジネスパーソンを描いたイラスト。背景透過なので、ブログ記事やスライドへの挿入が容易です。モダンで効率的な通勤スタイルを表現し、働き方改革やエコ通勤の話題に最適な素材です。\n\n無料でDLできます\n→ https://sozaino.com/download?id=383\n\n#自転車 #ビジネスマン #通勤 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/blog_124.webp",
     "schedule": {
       "jstHour": 12,
       "jstMinute": 0,
@@ -29,23 +29,23 @@
   },
   {
     "type": "column",
-    "id": "col-003",
-    "text": "💡 デザインのヒント\n\nSNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表\n\nX・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。\n\n→ https://sozaino.com/column/sns-image-size-guide.html",
+    "id": "col-007",
+    "text": "💡 デザインのヒント\n\nAI生成画像の著作権は大丈夫？ブログで使う前に知っておきたい現在地（2026年5月時点）\n\nAI生成画像の著作権で気をつけるべきポイントを、文化庁の見解をベースに「学習段階」「利用段階」の2フェーズで整理します。\n\n→ https://sozaino.com/column/ai-image-copyright.html",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 18,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 9,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 9 * * *",
-      "label": "18:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 823,
-    "text": "✨ 【無料素材】白色エアコン室内機の製品イメージ\n\n▸ 家電購入ガイドやエアコン選びの解説ブログ。製品の実物画像として、読者の購入検討時の参考になり、信頼度の高いコンテンツを実現できます。\n▸ 夏の電気代削減テーマの動画サムネイル。涼しさをもたらす家電として視覚的にアピールし、視聴者の興味を引き出せます。\n\n清潔感のある白色で統一された室内機は、モダンインテリアに溶け込みやすい。シンプルで洗練された見た目が特徴で、リビングや寝室など多くの空間に対応。機能性と美しさを両立させた製品イメージとして活用できます。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=823\n\n#フリー素材 #ソザイノ #エアコン #空調 #家電",
-    "imageUrl": "https://sozaino.com/webp/home_151.webp",
+    "id": 696,
+    "text": "🗓️ 9月・秋の素材\n\n「敬老の日」の季節にぴったりな素材を紹介します。\n\n【白い表面を青い布で丁寧に拭く清掃作業】\nハウスクリーニングサービスやお掃除代行業のブログ記事。プロフェッショナルな清掃風景が信頼感を生み出し、サービスの質をアピールできます。に使えます。\n\n→ https://sozaino.com/download?id=696\n\n#清掃 #家事 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/home_124.webp",
     "schedule": {
       "jstHour": 22,
       "jstMinute": 0,
