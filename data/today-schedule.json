@@ -1,9 +1,9 @@
 [
   {
     "type": "material",
-    "id": 214,
-    "text": "🗓️ 9月・秋の素材\n\n「お月見」の季節にぴったりな素材を紹介します。\n\n【かごに入ったパン。焼きたてのパン】\n食べ物グルメ記事に使えます。\n\n→ https://sozaino.com/download?id=214\n\n#パン #食べ物 #ベーカリー #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/food_068.webp",
+    "id": 799,
+    "text": "📸 素材紹介\n\nビジネスウーマンの笑顔と成功のポーズ\n💡 使用例：「毎日がやりがいに満ちた仕事を手に入れるための3ステップ」\n\n職場での達成感を表現したキャラクターイラスト。明るく親しみやすい色使いで、仕事上の成果や目標達成のシーンに活用できます。ポジティブな雰囲気で、企画資料や記事のアイキャッチとして効果的です。\n\n無料でDLできます\n→ https://sozaino.com/download?id=799\n\n#ビジネスウーマン #喜び #成功 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/character_55.webp",
     "schedule": {
       "jstHour": 9,
       "jstMinute": 0,
@@ -15,22 +15,22 @@
   },
   {
     "type": "material",
-    "id": 383,
-    "text": "📸 素材紹介\n\n通勤ラッシュの街中で自転車に乗るビジネスマン\n💡 使用例：「環境も健康も手に入れる。今注目のスマート通勤スタイル」\n\n朝の都市風景の中、自転車で颯爽と移動するビジネスパーソンを描いたイラスト。背景透過なので、ブログ記事やスライドへの挿入が容易です。モダンで効率的な通勤スタイルを表現し、働き方改革やエコ通勤の話題に最適な素材です。\n\n無料でDLできます\n→ https://sozaino.com/download?id=383\n\n#自転車 #ビジネスマン #通勤 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/blog_124.webp",
+    "id": 881,
+    "text": "🗓️ 9月・秋の素材\n\n「敬老の日」の季節にぴったりな素材を紹介します。\n\n【店員と顧客による荷物の受け取り場面】\nECサイトやオンラインショップの利用ガイド記事。配送や受け取りプロセスの説明に最適で、ユーザーが安心して購入できる環境をアピールできます。に使えます。\n\n→ https://sozaino.com/download?id=881\n\n#背景透過 #配送 #受け取り #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_254.webp",
     "schedule": {
-      "jstHour": 12,
+      "jstHour": 13,
       "jstMinute": 0,
-      "utcHour": 3,
+      "utcHour": 4,
       "utcMinute": 0,
-      "cron": "0 3 * * *",
-      "label": "12:00 JST"
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-007",
-    "text": "💡 デザインのヒント\n\nAI生成画像の著作権は大丈夫？ブログで使う前に知っておきたい現在地（2026年5月時点）\n\nAI生成画像の著作権で気をつけるべきポイントを、文化庁の見解をベースに「学習段階」「利用段階」の2フェーズで整理します。\n\n→ https://sozaino.com/column/ai-image-copyright.html",
+    "id": "col-001",
+    "text": "💡 デザインのヒント\n\nAI生成素材のブログ活用術。選び方・使い方・注意点をまとめて解説\n\nAI生成画像をブログやSNSで活用するための実践的な使い方を解説。素材の選び方、アイキャッチへの組み込み方、利用時の注意点まで、ブログ運営者目線でまとめます。\n\n→ https://sozaino.com/column/ai-material-howto.html",
     "imageUrl": null,
     "schedule": {
       "jstHour": 17,
@@ -43,16 +43,16 @@
   },
   {
     "type": "material",
-    "id": 696,
-    "text": "🗓️ 9月・秋の素材\n\n「敬老の日」の季節にぴったりな素材を紹介します。\n\n【白い表面を青い布で丁寧に拭く清掃作業】\nハウスクリーニングサービスやお掃除代行業のブログ記事。プロフェッショナルな清掃風景が信頼感を生み出し、サービスの質をアピールできます。に使えます。\n\n→ https://sozaino.com/download?id=696\n\n#清掃 #家事 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/home_124.webp",
+    "id": 1052,
+    "text": "🗓️ 9月・秋の素材\n\n「お月見」の季節にぴったりな素材を紹介します。\n\n【ノートパソコンでプロジェクト管理を行う女性】\nキャリア開発やスキルアップ講座の教材。専門的な作業に取り組む姿勢が伝わり、学習意欲を刺激します。に使えます。\n\n→ https://sozaino.com/download?id=1052\n\n#ビジネス #パソコン作業 #プロジェクト管理 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/blog_184.webp",
     "schedule": {
-      "jstHour": 22,
+      "jstHour": 21,
       "jstMinute": 0,
-      "utcHour": 13,
+      "utcHour": 12,
       "utcMinute": 0,
-      "cron": "0 13 * * *",
-      "label": "22:00 JST"
+      "cron": "0 12 * * *",
+      "label": "21:00 JST"
     }
   }
 ]
