@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 799,
-    "text": "📸 素材紹介\n\nビジネスウーマンの笑顔と成功のポーズ\n💡 使用例：「毎日がやりがいに満ちた仕事を手に入れるための3ステップ」\n\n職場での達成感を表現したキャラクターイラスト。明るく親しみやすい色使いで、仕事上の成果や目標達成のシーンに活用できます。ポジティブな雰囲気で、企画資料や記事のアイキャッチとして効果的です。\n\n無料でDLできます\n→ https://sozaino.com/download?id=799\n\n#ビジネスウーマン #喜び #成功 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/character_55.webp",
+    "id": 462,
+    "text": "✨ 【無料素材】清潔感のあるキッチンカウンター整理術\n\n▸ キッチン・バスルームの整理整頓ハウツー記事やYouTube動画のサムネイル。ナチュラルで清潔感のある空間演出が、整理収納テーマの信頼性を高めます。\n▸ ミニマリストライフスタイルやシンプルな生活提案のブログ。落ち着いた色合いと機能的な配置が、読者の暮らしの参考になる視覚的説得力を持ちます。\n\n白を基調とした統一感のあるキッチンカウンターで、必需品がシンプルに配置された状態を表現。ニュートラルな色合いと整然とした配置により、忙しい朝でも落ち着いて過ごせる空間イメージが伝わる。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=462\n\n#フリー素材 #ソザイノ #キッチン #整理整頓 #生活雑貨",
+    "imageUrl": "https://sozaino.com/webp/home_097.webp",
     "schedule": {
-      "jstHour": 9,
+      "jstHour": 8,
       "jstMinute": 0,
-      "utcHour": 0,
+      "utcHour": 23,
       "utcMinute": 0,
-      "cron": "0 0 * * *",
-      "label": "09:00 JST"
+      "cron": "0 23 * * *",
+      "label": "08:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 881,
-    "text": "🗓️ 9月・秋の素材\n\n「敬老の日」の季節にぴったりな素材を紹介します。\n\n【店員と顧客による荷物の受け取り場面】\nECサイトやオンラインショップの利用ガイド記事。配送や受け取りプロセスの説明に最適で、ユーザーが安心して購入できる環境をアピールできます。に使えます。\n\n→ https://sozaino.com/download?id=881\n\n#背景透過 #配送 #受け取り #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/character_254.webp",
+    "id": 38,
+    "text": "🗓️ 9月・秋の素材\n\n「敬老の日」の季節にぴったりな素材を紹介します。\n\n【プレゼンをオフィスでするビジネスマン】\n企業の採用・人事関連ページに使えます。\n\n→ https://sozaino.com/download?id=38\n\n#男性 #スーツ #お辞儀 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/person_013.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-001",
-    "text": "💡 デザインのヒント\n\nAI生成素材のブログ活用術。選び方・使い方・注意点をまとめて解説\n\nAI生成画像をブログやSNSで活用するための実践的な使い方を解説。素材の選び方、アイキャッチへの組み込み方、利用時の注意点まで、ブログ運営者目線でまとめます。\n\n→ https://sozaino.com/column/ai-material-howto.html",
+    "id": "col-006",
+    "text": "📖 ソザイノ コラム\n\nブログのアイキャッチ画像サイズ、正解はこれ。用途別の推奨サイズと選び方\n\nWordPress・はてなブログ・noteなど主要プラットフォーム別の推奨サイズを整理。SNSシェア時に画像が切れないためのポイントも解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/eyecatch-size-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 17,
+      "jstHour": 19,
       "jstMinute": 0,
-      "utcHour": 8,
+      "utcHour": 10,
       "utcMinute": 0,
-      "cron": "0 8 * * *",
-      "label": "17:00 JST"
+      "cron": "0 10 * * *",
+      "label": "19:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 1052,
-    "text": "🗓️ 9月・秋の素材\n\n「お月見」の季節にぴったりな素材を紹介します。\n\n【ノートパソコンでプロジェクト管理を行う女性】\nキャリア開発やスキルアップ講座の教材。専門的な作業に取り組む姿勢が伝わり、学習意欲を刺激します。に使えます。\n\n→ https://sozaino.com/download?id=1052\n\n#ビジネス #パソコン作業 #プロジェクト管理 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/blog_184.webp",
+    "id": 918,
+    "text": "📸 素材紹介\n\nスマートフォンでお金を稼ぐ男性\n💡 使用例：「スマホ一つで月10万円稼ぐ！初心者向け副業完全ガイド」\n\nスマートフォンの画面から現れるお金のイラストを見つめる男性の立ち姿。デジタル環境での収入獲得をテーマにした図解で、副業やギグワークの説明に適した構図。背景透過なので既存デザインへの組み込みが容易です。\n\n無料でDLできます\n→ https://sozaino.com/download?id=918\n\n#お金 #スマートフォン #副業 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/character_293.webp",
     "schedule": {
-      "jstHour": 21,
+      "jstHour": 22,
       "jstMinute": 0,
-      "utcHour": 12,
+      "utcHour": 13,
       "utcMinute": 0,
-      "cron": "0 12 * * *",
-      "label": "21:00 JST"
+      "cron": "0 13 * * *",
+      "label": "22:00 JST"
     }
   }
 ]
