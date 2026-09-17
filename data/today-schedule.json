@@ -1,51 +1,51 @@
 [
   {
     "type": "material",
-    "id": 947,
-    "text": "✨ 【無料素材】落ち込む男性のイラスト\n\n▸ メンタルヘルスやストレス対策に関するブログ記事のアイキャッチに最適。心の疲労や悩みを視覚的に表現し、読者の共感を引き出せます。\n▸ 心理カウンセリングや自己啓発に関する動画のサムネイルとして有効。感情的な訴求力が高く、視聴者のクリック率向上が期待できます。\n\n頭を抱える男性を描いたイラスト。落ち込みや悩みの場面で使用できます。背景が透過処理されているため、ブログ記事やWebサイトの背景に馴染ませやすく、メンタルヘルスや心理関連のコンテンツに適しています。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=947\n\n#フリー素材 #ソザイノ #背景透過 #男性 #落ち込み",
-    "imageUrl": "https://sozaino.com/webp/character_322.webp",
+    "id": 189,
+    "text": "📸 素材紹介\n\n焼きたての食パンの断面と焼き色\n💡 使用例：「焼きたての食パンの香りと美味しさ」\n\n焼きたての食パンを横方向から撮影した一枚。断面の気孔の粗密、内側のクリーム色、外側の焦茶色の焼き色がコントラストを形成。朝食シーンやベーカリー紹介、グルメブログでの使用に適した、温かみと新鮮さを同時に表現できる素材。\n\n無料でDLできます\n→ https://sozaino.com/download?id=189\n\n#食パン #焼きたて #朝食 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/food_034.webp",
     "schedule": {
-      "jstHour": 10,
+      "jstHour": 8,
       "jstMinute": 0,
-      "utcHour": 1,
+      "utcHour": 23,
       "utcMinute": 0,
-      "cron": "0 1 * * *",
-      "label": "10:00 JST"
+      "cron": "0 23 * * *",
+      "label": "08:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 319,
-    "text": "🎨 稲刈り・収穫の季節\n\n【明るい窓辺のミニマルワークスペース】\n自然光が差し込む窓側に配置された、余白を活かしたワークスペース。白を基調とした落ち着いた色合いで、モニターやデスク周辺は必要最小限の物品のみ。クリエイティブ系の職種や在宅勤務関連のコンテンツに適した、爽やかで集中力を高める環境を表現しています。\n📌 リモートワークやフリーランスのブログ記事のアイキャッチとして最適。整理されたシンプルなデスク環境は、生産性向上や効率的な働き方の記事に説得力を持たせます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=319\n\n#デスク #ワークスペース #ノートパソコン #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/home_023.webp",
+    "id": 829,
+    "text": "🎨 秋の訪れを感じる9月\n\n【パソコンで作業する在宅勤務の女性のイラスト】\nデスクに向かい集中する女性の日常を描いたイラスト。柔らかな色調でリラックスした職場環境を表現。テレワークやオフィスワークの紹介、ブログ記事のアイキャッチに適した親しみやすい雰囲気。\n📌 オンライン講座や教育サービスの紹介記事で使用すると、学習や自己啓発のポジティブなイメージを演出できます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=829\n\n#女性 #パソコン #デスク #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_73.webp",
     "schedule": {
-      "jstHour": 12,
+      "jstHour": 13,
       "jstMinute": 0,
-      "utcHour": 3,
+      "utcHour": 4,
       "utcMinute": 0,
-      "cron": "0 3 * * *",
-      "label": "12:00 JST"
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-008",
-    "text": "📝 お月見の季節🌕に合わせて\n\nWebP形式とは？PNG・JPEGとの違いと、ブログで使う5つのメリット\n\nWebPの特徴、PNG・JPEGとの違い、ブログ運営者が知っておきたい導入メリットと注意点を実例ベースで解説します。\n\n詳しくはこちら\n→ https://sozaino.com/column/webp-guide.html\n\n#デザイン #素材活用 #ソザイノ",
+    "id": "col-003",
+    "text": "📖 ソザイノ コラム\n\nSNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表\n\nX・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/sns-image-size-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 17,
+      "jstHour": 18,
       "jstMinute": 0,
-      "utcHour": 8,
+      "utcHour": 9,
       "utcMinute": 0,
-      "cron": "0 8 * * *",
-      "label": "17:00 JST"
+      "cron": "0 9 * * *",
+      "label": "18:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 297,
-    "text": "🎨 稲刈り・収穫の季節\n\n【焼きたてベーグル5個が並んだ美味しそうな画像】\n焼き色がついた5個のベーグルを横一列に配置した写真。表面の焦げめと光沢感が食欲をそそり、温かみのある色合いが朝食シーンやベーカリー関連のコンテンツに適している。ニュートラルな背景で素材そのものが引き立つ構成。\n📌 レシピ・お菓子作り記事に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=297\n\n#ベーグル #パン #食べ物 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/food_162.webp",
+    "id": 701,
+    "text": "🎨 稲刈り・収穫の季節\n\n【モダンインテリア：明るい居間とグレーソファ】\n明るい自然光が入った居間空間で、グレーのソファがニュートラルな基調を形成しています。白壁と木製フローリングにグレーファニチャーを組み合わせた構成は、余計な装飾を排除した洗練された雰囲気を演出。落ち着きと清潔感を両立させた居住空間の参考になります。\n📌 ライフスタイル系YouTuberやInstagramの投稿素材として活用可能。居心地の良い快適な生活空間のイメージを効果的に伝えられます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=701\n\n#インテリア #ミニマリスト #モダンデザイン #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/home_129.webp",
     "schedule": {
       "jstHour": 22,
       "jstMinute": 0,
