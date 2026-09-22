@@ -1,9 +1,9 @@
 [
   {
     "type": "material",
-    "id": 185,
-    "text": "📸 素材紹介\n\nふんわり食感の食パン断面\n💡 使用例：「もちもち食感がたまらない。話題の高級食パン特集」\n\n食パンを横断面から撮影した素材。きめ細かく均等に広がった気孔と、薄い黄金色のクラムが特徴。朝食シーンやベーカリーのメニュー表示、焼き菓子に関するブログ記事に使用できます。温かみのある配色が食欲をそそります。\n\n無料でDLできます\n→ https://sozaino.com/download?id=185\n\n#食パン #パン #焼き菓子 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/food_024.webp",
+    "id": 307,
+    "text": "🎨 秋の訪れを感じる9月\n\n【スマートフォンでゲームをする女性】\n夜間の室内でスマートフォンを操作する女性を捉えた素材。画面からの光が顔や周囲を照らす環境で、現代的で落ち着いた雰囲気。デジタルデバイスとの日常的な関わりや、リラックスした夜の時間を表現できます。\n📌 若年層向けのライフスタイルメディアやテック系ブログで、デジタル生活の実態を伝える記事に使用。プライベート時間の過ごし方というテーマで親近感を生みます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=307\n\n#スマートフォン #女性 #室内 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/person_122.webp",
     "schedule": {
       "jstHour": 10,
       "jstMinute": 0,
@@ -15,37 +15,37 @@
   },
   {
     "type": "material",
-    "id": 34,
-    "text": "📸 素材紹介\n\nお辞儀をするビジネスマンの姿勢\n💡 使用例：「クレーム対応の基本：心からの謝罪の表現方法」\n\n紺や黒を基調としたスーツ姿で、腰から折り曲げた礼儀正しいお辞儀の姿勢を捉えた男性のシルエット。背景が透過されているため、資料やスライドに直接配置でき、感謝や謝罪、サービス精神を表現するビジネスシーンに即座に活用できます。\n\n無料でDLできます\n→ https://sozaino.com/download?id=34\n\n#男性 #スーツ #お辞儀 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/person_092.webp",
+    "id": 33,
+    "text": "🎨 お月見の季節🌕\n\n【スーツ姿の男性がお辞儀をするポートレート】\n紺や黒を基調としたスーツ姿の男性が、腰から上半身を折り曲げて敬礼する瞬間を捉えたポートレート。背景が透過されているため、様々なレイアウトへの組み込みが容易。誠実さと丁寧さが伝わる姿勢が印象的です。\n📌 職場の人間関係トラブル解決コンテンツに最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=33\n\n#男性 #スーツ #お辞儀 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/person_091.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-004",
-    "text": "💡 デザインのヒント\n\nWebP素材がSEOに効く理由。ページ速度・Core Web Vitals・検索順位への影響を解説\n\nWebP形式の画像がSEOに与える影響を解説。ページ読み込み速度の改善からCore Web Vitalsのスコアアップ、検索順位への効果まで、ブログ運営者が知っておきたい知識をまとめます。\n\n→ https://sozaino.com/column/webp-seo-effect.html",
+    "id": "col-007",
+    "text": "💡 デザインのヒント\n\nAI生成画像の著作権は大丈夫？ブログで使う前に知っておきたい現在地（2026年5月時点）\n\nAI生成画像の著作権で気をつけるべきポイントを、文化庁の見解をベースに「学習段階」「利用段階」の2フェーズで整理します。\n\n→ https://sozaino.com/column/ai-image-copyright.html",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 19,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 10,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 10 * * *",
-      "label": "19:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 894,
-    "text": "🗓️ 9月・秋の素材\n\n「敬老の日」の季節にぴったりな素材を紹介します。\n\n【スマートフォンで文書をチェックする手元のイラスト】\nデジタル化やDX推進をテーマとしたビジネスブログの記事アイキャッチに最適。モダンで分かりやすいイラストが、テクノロジー導入記事の専門性を視覚的に強調できます。に使えます。\n\n→ https://sozaino.com/download?id=894\n\n#スマートフォン #手元 #ビジネス #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/character_267.webp",
+    "id": 882,
+    "text": "🎨 稲刈り・収穫の季節\n\n【配送業務と受け取り対応のイラスト】\n配送スタッフと荷物受け取りのシーンを描いたイラスト。背景透過で、WebサイトやアプリのUI要素として直接配置可能。配送業務の流れを視覚的に表現し、ロジスティクスやEコマースのコンテンツに即座に活用できます。\n📌 ロジスティクス企業や配送サービスの紹介記事のアイキャッチに。信頼感のある対応を視覚的に表現できます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=882\n\n#配送 #宅配便 #受け取り #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_255.webp",
     "schedule": {
       "jstHour": 22,
       "jstMinute": 0,
