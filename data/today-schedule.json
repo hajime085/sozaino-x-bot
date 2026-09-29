@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 568,
-    "text": "🎨 お月見の季節🌕\n\n【段ボール箱を開ける手元のクローズアップ（配送・No.568）】\n段ボール箱を開く瞬間の手元を捉えたクローズアップ。受け取った荷物への期待感と喜びを表現でき、ECサイトや配送サービスの紹介記事に活用できます。リアルな日常シーンで、ブログの信頼性を高めます。\n📌 ECサイトやネットショッピングの記事・動画。商品の到着から開封までのストーリーを視覚的に表現でき、購買体験の期待感を高められます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=568\n\n#配送 #梱包 #配達 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/blog_170.webp",
+    "id": 475,
+    "text": "📸 素材紹介\n\n整理整頓された食器棚の引き出し収納\n💡 使用例：「プロが教える！毎日使うキッチン引き出しを美しく保つ5つのコツ」\n\n食器や調理器具が整然と配置された引き出し内部の様子。白やアイボリー系の調度品を中心とした清潔感のある収納スペースで、カテゴリー分けされた配置が効率性と生活感を同時に表現している。キッチン空間の機能性を視覚化する良い例。\n\n無料でDLできます\n→ https://sozaino.com/download?id=475\n\n#キッチン収納 #整理整頓 #インテリア #素材配布",
+    "imageUrl": "https://sozaino.com/webp/home_073.webp",
     "schedule": {
-      "jstHour": 9,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 0,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 0 * * *",
-      "label": "09:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 459,
-    "text": "🎨 稲刈り・収穫の季節\n\n【掃除機でリビングを掃除する風景】\nリビングの日常的な家事シーン。掃除機を使う人物の動きや姿勢が自然に捉えられており、清潔さへの取り組みを表現。生活感のある空間と清掃作業の対比が、整理整頓への意識の高さを視覚的に伝える。\n📌 時短家事や整理整頓に関するライフスタイルコンテンツで使用すると、忙しい現代人向けのスマートな生活提案として機能します。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=459\n\n#掃除機 #家事 #清潔 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/home_081.webp",
+    "id": 839,
+    "text": "🎨 お月見の季節🌕\n\n【中華食堂の昔ながらの炒飯】\n懐かしい食堂の空気感を表現したイラスト。湯気が立ち上る炒飯が主役で、素朴で温かみのある色合いが特徴。背景透過なので、ブログやメニュー、レシピサイトに直接配置でき、昭和レトログルメの雰囲気が必要な場面に活躍します。\n📌 栄養管理や健康食に関するYouTube動画のサムネイルやスライドに使用すると、栄養バランスの良さが視覚的に伝わります。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=839\n\n#中華料理 #食べ物 #料理 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_a164.webp",
     "schedule": {
-      "jstHour": 12,
+      "jstHour": 13,
       "jstMinute": 0,
-      "utcHour": 3,
+      "utcHour": 4,
       "utcMinute": 0,
-      "cron": "0 3 * * *",
-      "label": "12:00 JST"
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-004",
-    "text": "💡 デザインのヒント\n\nWebP素材がSEOに効く理由。ページ速度・Core Web Vitals・検索順位への影響を解説\n\nWebP形式の画像がSEOに与える影響を解説。ページ読み込み速度の改善からCore Web Vitalsのスコアアップ、検索順位への効果まで、ブログ運営者が知っておきたい知識をまとめます。\n\n→ https://sozaino.com/column/webp-seo-effect.html",
+    "id": "col-003",
+    "text": "📖 ソザイノ コラム\n\nSNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表\n\nX・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/sns-image-size-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 18,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 9,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 9 * * *",
-      "label": "18:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 772,
-    "text": "✨ 【無料素材】コーヒーを持つ笑顔のビジネスウーマン\n\n▸ 朝の時間管理やモーニングルーティンに関するビジネスブログ。コーヒーを片手に爽やかに仕事をスタートさせる女性のイメージで、読者の生産性向上への関心を引き出せます。\n▸ カフェ経営やコーヒーショップの魅力を紹介するブログ記事。温かみのあるイラストでカフェの居心地の良さを表現でき、顧客集客効果が期待できます。\n\nカフェレスト中のビジネスウーマンを描いたイラスト。温かみのあるトーンで、忙しい仕事の合間にひと息つく瞬間を表現しており、企業研修資料やウェルネス関連のコンテンツに適しています。親しみやすい雰囲気で、働く女性をポジティブに描写。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=772\n\n#フリー素材 #ソザイノ #ビジネスウーマン #コーヒー #笑顔",
-    "imageUrl": "https://sozaino.com/webp/character_28.webp",
+    "id": 657,
+    "text": "📸 素材紹介\n\n新鮮な野菜と肉の豪華食材フラットレイ\n💡 使用例：「夏のBBQシーズンを完全攻略。肉と野菜の最強ペアリングで家族も大満足」\n\n新鮮な野菜と赤身肉を俯瞰で配置したフラットレイ。白または明るい背景に、色鮮やかな食材が対比される構図で、BBQ企画や食材紹介ページに向く。自然光による影の作り込みで素材の質感を引き出している。\n\n無料でDLできます\n→ https://sozaino.com/download?id=657\n\n#食材 #BBQ #素材配布",
+    "imageUrl": "https://sozaino.com/webp/outdoor_112.webp",
     "schedule": {
-      "jstHour": 20,
+      "jstHour": 21,
       "jstMinute": 0,
-      "utcHour": 11,
+      "utcHour": 12,
       "utcMinute": 0,
-      "cron": "0 11 * * *",
-      "label": "20:00 JST"
+      "cron": "0 12 * * *",
+      "label": "21:00 JST"
     }
   }
 ]
