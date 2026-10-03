@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 522,
-    "text": "📸 素材紹介\n\n定期配送アプリと日用品のミニマル生活\n💡 使用例：「月3000円の時間短縮。スマート配送で実現するシンプルライフ」\n\n定期配送サービスと必要最小限の生活用品を組み合わせた、すっきりした空間を表現しています。白を基調とした清潔感のある配色で、整理整頓の行き届いた日常を視覚化。モダンで落ち着いた雰囲気が、シンプルライフを実践するユーザーに訴求します。\n\n無料でDLできます\n→ https://sozaino.com/download?id=522\n\n#ミニマリスト #日用品 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/home_036.webp",
+    "id": 436,
+    "text": "🎨 収穫の秋本番\n\n【夏の日焼け対策グッズ完全セット】\nUVカット商品や日焼け止めを集めた夏場の紫外線対策セット。白やパステルブルーを基調とした清潔感のある配色で、ビーチや屋外活動の場面を想定したレイアウト。健康的で実用的なライフスタイル提案を視覚化しており、ブログの製品紹介や美容記事に即座に活用できる構成。\n📌 YouTube美容チャンネルの日焼け止めレビュー動画のサムネイル。白と自然なベージュの色調でプロフェッショナルな印象を与え、クリック率向上に効果的です。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=436\n\n#紫外線対策 #日焼け止め #ビューティー #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/beauty_011.webp",
     "schedule": {
-      "jstHour": 10,
+      "jstHour": 8,
       "jstMinute": 0,
-      "utcHour": 1,
+      "utcHour": 23,
       "utcMinute": 0,
-      "cron": "0 1 * * *",
-      "label": "10:00 JST"
+      "cron": "0 23 * * *",
+      "label": "08:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 572,
-    "text": "✨ 【無料素材】日本円硬貨が一列に並ぶ金銭管理のイメージ\n\n▸ 家計管理やお金の貯蓄に関するブログ記事のアイキャッチ。硬貨が整列している様子が節約意識の高さと計画性を視覚的に表現でき、マネー系コンテンツの説得力が高まります。\n▸ 投資や資産形成についての解説動画のサムネイル。わかりやすく「お金を増やす」というテーマが伝わり、金融リテラシー向上層の視聴クリックを期待できます。\n\n1円から100円までの硬貨が左右に整列した構成。シルバーメタリックの輝きが統一感を出しながら、額面の違いが視覚的に判別できる。家計管理や貯蓄の堅実さ、資産形成の段階的な成長を表現するのに適した実用的なビジュアル。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=572\n\n#フリー素材 #ソザイノ #お金 #金融 #家計管理",
-    "imageUrl": "https://sozaino.com/webp/blog_151.webp",
+    "id": 890,
+    "text": "🗓️ 10月・秋の素材\n\n「紅葉」の季節にぴったりな素材を紹介します。\n\n【ネットトラブルのイメージ画像（背景透過・No.890）】\nデジタルウォレットやフィンテック関連の企業ブログ。現代的な金融取引のイメージを効果的に伝え、サービス紹介ページのアイキャッチとして信頼感と親近感を演出できます。に使えます。\n\n→ https://sozaino.com/download?id=890\n\n#背景透過 #トラブル #スマートフォン #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_263.webp",
     "schedule": {
-      "jstHour": 12,
+      "jstHour": 13,
       "jstMinute": 0,
-      "utcHour": 3,
+      "utcHour": 4,
       "utcMinute": 0,
-      "cron": "0 3 * * *",
-      "label": "12:00 JST"
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-004",
-    "text": "💡 デザインのヒント\n\nWebP素材がSEOに効く理由。ページ速度・Core Web Vitals・検索順位への影響を解説\n\nWebP形式の画像がSEOに与える影響を解説。ページ読み込み速度の改善からCore Web Vitalsのスコアアップ、検索順位への効果まで、ブログ運営者が知っておきたい知識をまとめます。\n\n→ https://sozaino.com/column/webp-seo-effect.html",
+    "id": "col-003",
+    "text": "📖 ソザイノ コラム\n\nSNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表\n\nX・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/sns-image-size-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 18,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 9,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 9 * * *",
-      "label": "18:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 410,
-    "text": "🎨 ハロウィンの10月🎃\n\n【冷たいアイスパックで顔をクールダウン】\n冷感ケアの爽快感を視覚化した一枚。クール系スキンケア関連の記事に適した構成で、冷たさを連想させる青系やホワイトの配色が、夏場の美容トピックやリフレッシュ感が必要なコンテンツに活躍します。肌への優しさと即効性を同時に伝えられる雰囲気。\n📌 美容系YouTubeの動画サムネイル。夏の肌ケアや日焼け後のクールダウン方法を紹介する動画で、視認性の高い画像として活用できます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=410\n\n#スキンケア #美容 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/blog_075.webp",
+    "id": 423,
+    "text": "🎨 収穫の秋本番\n\n【ロードバイクで疾走するサイクリスト】\nスポーツの躍動感を伝えるロードバイク乗車シーン。前傾姿勢でペダルを漕ぐサイクリストの動きや、速度感のある背景が活力と行動力を視覚化。フィットネス・健康ブログや自転車関連のコンテンツに映える構図です。\n📌 自転車用品やスポーツウェアのECサイト、広告バナー。プロフェッショナルな雰囲気が製品の高品質イメージを効果的に演出します。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=423\n\n#サイクリング #ロードバイク #自転車 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/blog_048.webp",
     "schedule": {
-      "jstHour": 20,
+      "jstHour": 22,
       "jstMinute": 0,
-      "utcHour": 11,
+      "utcHour": 13,
       "utcMinute": 0,
-      "cron": "0 11 * * *",
-      "label": "20:00 JST"
+      "cron": "0 13 * * *",
+      "label": "22:00 JST"
     }
   }
 ]
