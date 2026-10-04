@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 436,
-    "text": "🎨 収穫の秋本番\n\n【夏の日焼け対策グッズ完全セット】\nUVカット商品や日焼け止めを集めた夏場の紫外線対策セット。白やパステルブルーを基調とした清潔感のある配色で、ビーチや屋外活動の場面を想定したレイアウト。健康的で実用的なライフスタイル提案を視覚化しており、ブログの製品紹介や美容記事に即座に活用できる構成。\n📌 YouTube美容チャンネルの日焼け止めレビュー動画のサムネイル。白と自然なベージュの色調でプロフェッショナルな印象を与え、クリック率向上に効果的です。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=436\n\n#紫外線対策 #日焼け止め #ビューティー #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/beauty_011.webp",
+    "id": 1070,
+    "text": "📸 素材紹介\n\n赤い太陽のシンプルアイコン\n💡 使用例：「天気予報より正確！明日の天気を99%当てる方法」\n\n鮮やかな赤色で表現された太陽のシンプルアイコンです。背景が透過されており、ブログ記事や動画のサムネイル、天気予報コンテンツなど様々なデザインに柔軟に組み込めます。\n\n無料でDLできます\n→ https://sozaino.com/download?id=1070\n\n#太陽 #アイコン #赤色 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/blog_203.webp",
     "schedule": {
-      "jstHour": 8,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 23,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 23 * * *",
-      "label": "08:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 890,
-    "text": "🗓️ 10月・秋の素材\n\n「紅葉」の季節にぴったりな素材を紹介します。\n\n【ネットトラブルのイメージ画像（背景透過・No.890）】\nデジタルウォレットやフィンテック関連の企業ブログ。現代的な金融取引のイメージを効果的に伝え、サービス紹介ページのアイキャッチとして信頼感と親近感を演出できます。に使えます。\n\n→ https://sozaino.com/download?id=890\n\n#背景透過 #トラブル #スマートフォン #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/character_263.webp",
+    "id": 851,
+    "text": "🗓️ 10月・秋の素材\n\n「紅葉」の季節にぴったりな素材を紹介します。\n\n【おにぎりと漬物の和食イラスト】\n日本文化や郷土料理を紹介する記事・動画コンテンツに効果的。白米と海苔、漬物という基本的な要素が日本の食卓を象徴し、読者の共感を呼びやすいです。に使えます。\n\n→ https://sozaino.com/download?id=851\n\n#おにぎり #和食 #食べ物イラスト #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_a157.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-003",
-    "text": "📖 ソザイノ コラム\n\nSNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表\n\nX・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/sns-image-size-guide.html\n\n#フリー素材 #ブログ運営",
+    "id": "col-006",
+    "text": "📖 ソザイノ コラム\n\nブログのアイキャッチ画像サイズ、正解はこれ。用途別の推奨サイズと選び方\n\nWordPress・はてなブログ・noteなど主要プラットフォーム別の推奨サイズを整理。SNSシェア時に画像が切れないためのポイントも解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/eyecatch-size-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 17,
+      "jstHour": 19,
       "jstMinute": 0,
-      "utcHour": 8,
+      "utcHour": 10,
       "utcMinute": 0,
-      "cron": "0 8 * * *",
-      "label": "17:00 JST"
+      "cron": "0 10 * * *",
+      "label": "19:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 423,
-    "text": "🎨 収穫の秋本番\n\n【ロードバイクで疾走するサイクリスト】\nスポーツの躍動感を伝えるロードバイク乗車シーン。前傾姿勢でペダルを漕ぐサイクリストの動きや、速度感のある背景が活力と行動力を視覚化。フィットネス・健康ブログや自転車関連のコンテンツに映える構図です。\n📌 自転車用品やスポーツウェアのECサイト、広告バナー。プロフェッショナルな雰囲気が製品の高品質イメージを効果的に演出します。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=423\n\n#サイクリング #ロードバイク #自転車 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/blog_048.webp",
+    "id": 118,
+    "text": "🎨 ハロウィンの10月🎃\n\n【段ボール箱に詰められたミネラルウォーターのボトル】\n段ボール箱に整然と詰められたミネラルウォーターのボトルは、配送・物流・消費財の販売イメージを強調します。茶色い箱と透明なボトルの対比が、商品の清潔感と流通の信頼性を視覚的に表現しており、ECサイト・通販関連のコンテンツに適しています。\n📌 オフィス配備サービス紹介に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=118\n\n#ミネラルウォーター #飲料 #段ボール箱 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_006.webp",
     "schedule": {
-      "jstHour": 22,
+      "jstHour": 21,
       "jstMinute": 0,
-      "utcHour": 13,
+      "utcHour": 12,
       "utcMinute": 0,
-      "cron": "0 13 * * *",
-      "label": "22:00 JST"
+      "cron": "0 12 * * *",
+      "label": "21:00 JST"
     }
   }
 ]
