@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 974,
-    "text": "✨ 【無料素材】路線バスのイラスト\n\n▸ 公共交通や地域の移動手段について解説するブログ記事やYouTube動画のアイキャッチ。親しみやすいイラストタッチで、交通情報や地域紹介コンテンツの視認性を高めます。\n▸ 子ども向けの教育コンテンツやキッズチャンネルのサムネイル。カラフルで明るいデザインが、幼児や小学生の注目を集めやすく、交通安全教育の動画に最適です。\n\n標準的な路線バスを描いたイラスト。シンプルな形状と明るい配色で、公共交通をわかりやすく表現しています。背景透過なので、Webサイトや教育教材、交通関連のデザインに直接配置できます。親しみやすい雰囲気が特徴です。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=974\n\n#フリー素材 #ソザイノ #バス #乗り物 #イラスト",
-    "imageUrl": "https://sozaino.com/webp/character349.webp",
+    "id": 1031,
+    "text": "🗓️ 10月・秋の素材\n\n「収穫の秋」の季節にぴったりな素材を紹介します。\n\n【コスメポーチを広げて取り出している様子】\n金融リテラシーや貯金の重要性を扱う動画の冒頭画像として活用でき、視聴者の注目を集めるインパクトがあります。に使えます。\n\n→ https://sozaino.com/download?id=1031\n\n#スキンケア #コスメ #美容 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/beauty_37.webp",
     "schedule": {
-      "jstHour": 8,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 23,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 23 * * *",
-      "label": "08:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 409,
-    "text": "🗓️ 10月・秋の素材\n\n「ハロウィン」の季節にぴったりな素材を紹介します。\n\n【警察官に職務質問される自転車の男性】\n交通ルール啓発ブログやYouTube動画のサムネイル。自転車の違反や注意喚起コンテンツで、視聴者の注目を集めるのに効果的です。に使えます。\n\n→ https://sozaino.com/download?id=409\n\n#警察 #自転車 #日常 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/blog_022.webp",
+    "id": 504,
+    "text": "📸 素材紹介\n\n3種類の除湿機の製品比較イメージ\n💡 使用例：「除湿機選びで失敗しない！コンパクト・標準・高機能の三者三様を解説」\n\n3台の除湿機を横並びで配置した比較シーン。異なるサイズ・カラー・デザインの製品が一目で判別でき、スペック検討時の視覚的な参考になります。リビングや寝室など実空間への配置をイメージしやすい構成。\n\n無料でDLできます\n→ https://sozaino.com/download?id=504\n\n#除湿機 #生活用品 #製品比較 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/home_030.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-007",
-    "text": "💡 デザインのヒント\n\nAI生成画像の著作権は大丈夫？ブログで使う前に知っておきたい現在地（2026年5月時点）\n\nAI生成画像の著作権で気をつけるべきポイントを、文化庁の見解をベースに「学習段階」「利用段階」の2フェーズで整理します。\n\n→ https://sozaino.com/column/ai-image-copyright.html",
+    "id": "col-008",
+    "text": "📖 ソザイノ コラム\n\nWebP形式とは？PNG・JPEGとの違いと、ブログで使う5つのメリット\n\nWebPの特徴、PNG・JPEGとの違い、ブログ運営者が知っておきたい導入メリットと注意点を実例ベースで解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/webp-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 18,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 9,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 9 * * *",
-      "label": "18:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 417,
-    "text": "🗓️ 10月・秋の素材\n\n「収穫の秋」の季節にぴったりな素材を紹介します。\n\n【都市を疾走する少年、自転車で挑む街中の冒険】\n自転車趣味や街乗りガイドの記事。都市部での移動手段としての自転車の魅力を視覚的に伝え、関連動画への流入増加が見込めます。に使えます。\n\n→ https://sozaino.com/download?id=417\n\n#自転車 #少年 #アニメ #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/blog_052.webp",
+    "id": 324,
+    "text": "🎨 収穫の秋本番\n\n【キッチンに並ぶ食材保存容器のスタイリング】\n透明な保存容器が整然と並べられたキッチンシーン。シンプルで機能的な収納の美しさを表現しており、モダンで清潔感のある生活空間を演出。整理整頓の実例として、ホームオーガナイズやライフスタイルブログに活用できる。\n📌 食材保存・キッチン収納術のブログ記事やYouTube動画で、実践的で美しい収納テクニックを紹介する際のアイキャッチ画像として活用できます。モダンで清潔感のあるキッチン風景が、読者の参考欲求を高めます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=324\n\n#キッチン収納 #食卓 #ライフスタイル #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_169.webp",
     "schedule": {
-      "jstHour": 20,
+      "jstHour": 22,
       "jstMinute": 0,
-      "utcHour": 11,
+      "utcHour": 13,
       "utcMinute": 0,
-      "cron": "0 11 * * *",
-      "label": "20:00 JST"
+      "cron": "0 13 * * *",
+      "label": "22:00 JST"
     }
   }
 ]
