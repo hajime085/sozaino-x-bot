@@ -1,9 +1,9 @@
 [
   {
     "type": "material",
-    "id": 104,
-    "text": "📸 素材紹介\n\nタブレットでデータ分析を説明するビジネスウーマン\n💡 使用例：「タブレットを活用した営業プレゼンのコツ」\n\nタブレット画面のグラフを指差しながら説明するビジネスウーマンを描いた背景透過素材。プロフェッショナルな雰囲気で、データ分析や業務説明のシーンに適しており、企画提案資料やウェブサイトのコンテンツに直接配置できます。\n\n無料でDLできます\n→ https://sozaino.com/download?id=104\n\n#ビジネス #データ分析 #タブレット #素材配布",
-    "imageUrl": "https://sozaino.com/webp/person_083.webp",
+    "id": 37,
+    "text": "✨ 【無料素材】オフィスでプレゼンテーションをする男性ビジネスマン\n\n▸ ビジネススキル解説記事\n▸ 営業・マーケティング実践ガイド\n\nスーツ姿の男性がプレゼンテーション中に深くお辞儀をしている場面です。背景が透過されているため、ブログやWebサイトの様々なレイアウトに重ねやすく、プレゼン資料やビジネス関連の記事に即座に活用できます。感謝や謝罪、礼儀を示す動作として汎用性が高い。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=37\n\n#フリー素材 #ソザイノ #男性 #スーツ #お辞儀",
+    "imageUrl": "https://sozaino.com/webp/person_001.webp",
     "schedule": {
       "jstHour": 10,
       "jstMinute": 0,
@@ -15,22 +15,22 @@
   },
   {
     "type": "material",
-    "id": 1037,
-    "text": "🗓️ 10月・秋の素材\n\n「収穫の秋」の季節にぴったりな素材を紹介します。\n\n【化粧品ボトルを持つ手のイメージ画像】\n美容・コスメ関連のYouTube動画のサムネイル。洗練された雰囲気が視聴者の目を引き、クリック率向上に効果的です。に使えます。\n\n→ https://sozaino.com/download?id=1037\n\n#化粧品 #ビューティー #ラグジュアリー #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/beauty_43.webp",
+    "id": 260,
+    "text": "🗓️ 10月・秋の素材\n\n「紅葉」の季節にぴったりな素材を紹介します。\n\n【ドライフルーツ入りの焼きたてフランスパン】\nグルメ・食べ物ブログに使えます。\n\n→ https://sozaino.com/download?id=260\n\n#パン #ベーカリー #ドライフルーツ #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_114.webp",
     "schedule": {
-      "jstHour": 12,
+      "jstHour": 13,
       "jstMinute": 0,
-      "utcHour": 3,
+      "utcHour": 4,
       "utcMinute": 0,
-      "cron": "0 3 * * *",
-      "label": "12:00 JST"
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-005",
-    "text": "📝 ハロウィンの10月🎃に合わせて\n\nブログ用フリー素材の選び方。失敗しないための5つの確認ポイント\n\nブログのアイキャッチや挿入画像に使うフリー素材を選ぶときの5つの確認ポイントを解説。商用利用・画質・ファイル形式・ライセンスの読み方まで、初心者でも迷わない選び方をまとめます。\n\n詳しくはこちら\n→ https://sozaino.com/column/free-material-selection-guide.html\n\n#デザイン #素材活用 #ソザイノ",
+    "id": "col-006",
+    "text": "📝 ハロウィンの10月🎃に合わせて\n\nブログのアイキャッチ画像サイズ、正解はこれ。用途別の推奨サイズと選び方\n\nWordPress・はてなブログ・noteなど主要プラットフォーム別の推奨サイズを整理。SNSシェア時に画像が切れないためのポイントも解説します。\n\n詳しくはこちら\n→ https://sozaino.com/column/eyecatch-size-guide.html\n\n#デザイン #素材活用 #ソザイノ",
     "imageUrl": null,
     "schedule": {
       "jstHour": 17,
@@ -43,16 +43,16 @@
   },
   {
     "type": "material",
-    "id": 138,
-    "text": "🗓️ 10月・秋の素材\n\n「紅葉」の季節にぴったりな素材を紹介します。\n\n【モダンな木目調キッチンの全体像】\nキッチンリフォーム・インテリア記事に使えます。\n\n→ https://sozaino.com/download?id=138\n\n#キッチン #インテリア #モダンデザイン #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/home_014.webp",
+    "id": 726,
+    "text": "📸 素材紹介\n\n大規模駐車場に並ぶ数百台の中古車\n💡 使用例：「新車と中古車どちらがお得？大手ディーラーの在庫規模から考える購入戦略」\n\n広大な敷地に整然と配置された中古車両の俯瞰風景。グレーのアスファルトと多彩な車体色がコントラストを形成し、規模感と秩序を同時に表現。ビジネスやオートモーティブ関連のコンテンツに適した、リアルで迫力のある遠景。\n\n無料でDLできます\n→ https://sozaino.com/download?id=726\n\n#ビジネス #素材配布",
+    "imageUrl": "https://sozaino.com/webp/nature_052.webp",
     "schedule": {
-      "jstHour": 22,
+      "jstHour": 21,
       "jstMinute": 0,
-      "utcHour": 13,
+      "utcHour": 12,
       "utcMinute": 0,
-      "cron": "0 13 * * *",
-      "label": "22:00 JST"
+      "cron": "0 12 * * *",
+      "label": "21:00 JST"
     }
   }
 ]
