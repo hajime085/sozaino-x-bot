@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 158,
-    "text": "✨ 【無料素材】清潔感あふれるピュアウォーターボトル\n\n▸ 健康・ウェルネス情報サイト\n▸ 水分補給・ダイエット関連ブログ\n\n透明感を強調した水のボトル。クリアな液体と白・シルバーを基調とした落ち着いた配色で、清潔で健康的なイメージを演出します。日常的な飲料シーンから衛生管理・ウェルネス訴求まで幅広く活用できる素材です。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=158\n\n#フリー素材 #ソザイノ #ペットボトル #水 #飲料",
-    "imageUrl": "https://sozaino.com/webp/food_018.webp",
+    "id": 69,
+    "text": "📸 素材紹介\n\nパソコンで作業する手元のビジネスイメージ\n💡 使用例：「効率的なデスクワークの秘訣とは」\n\nデスクに置かれたノートパソコンを操作する手元をクローズアップしたショット。実務的な作業風景を切り取ることで、信頼感と行動力のあるビジネスシーンを表現。落ち着いた色調で、企業ブログやセミナー告知に適した雰囲気。\n\n無料でDLできます\n→ https://sozaino.com/download?id=69\n\n#ノートパソコン #ビジネス #仕事 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/blog_006.webp",
     "schedule": {
-      "jstHour": 9,
+      "jstHour": 8,
       "jstMinute": 0,
-      "utcHour": 0,
+      "utcHour": 23,
       "utcMinute": 0,
-      "cron": "0 0 * * *",
-      "label": "09:00 JST"
+      "cron": "0 23 * * *",
+      "label": "08:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 770,
-    "text": "📸 素材紹介\n\n建設現場の作業員 安全ヘルメット姿の男性イラスト\n💡 使用例：「建設現場の安全管理は基本から！ヘルメット装着で事故を防ぐポイント5つ」\n\n安全ヘルメットを装着した男性作業員のイラスト。信頼感と安全意識の高さを視覚的に表現しており、工事関連のコンテンツや安全啓発ポスター、労働安全関連の資料に直結。シンプルで汎用性の高い人物表現。\n\n無料でDLできます\n→ https://sozaino.com/download?id=770\n\n#作業員 #キャラクターイラスト #素材配布",
-    "imageUrl": "https://sozaino.com/webp/character_26.webp",
+    "id": 363,
+    "text": "🗓️ 10月・秋の素材\n\n「紅葉」の季節にぴったりな素材を紹介します。\n\n【都会を颯爽と自転車で移動するビジネスマン】\nサステナビリティや環境問題に関するブログ記事のアイキャッチ。自動車から自転車への転換を提唱する記事で、読者の環境への意識変化を促進できます。に使えます。\n\n→ https://sozaino.com/download?id=363\n\n#自転車 #ビジネスマン #通勤 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/blog_125.webp",
     "schedule": {
-      "jstHour": 12,
+      "jstHour": 13,
       "jstMinute": 0,
-      "utcHour": 3,
+      "utcHour": 4,
       "utcMinute": 0,
-      "cron": "0 3 * * *",
-      "label": "12:00 JST"
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-007",
-    "text": "📖 ソザイノ コラム\n\nAI生成画像の著作権は大丈夫？ブログで使う前に知っておきたい現在地（2026年5月時点）\n\nAI生成画像の著作権で気をつけるべきポイントを、文化庁の見解をベースに「学習段階」「利用段階」の2フェーズで整理します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/ai-image-copyright.html\n\n#フリー素材 #ブログ運営",
+    "id": "col-008",
+    "text": "📝 収穫の秋本番に合わせて\n\nWebP形式とは？PNG・JPEGとの違いと、ブログで使う5つのメリット\n\nWebPの特徴、PNG・JPEGとの違い、ブログ運営者が知っておきたい導入メリットと注意点を実例ベースで解説します。\n\n詳しくはこちら\n→ https://sozaino.com/column/webp-guide.html\n\n#デザイン #素材活用 #ソザイノ",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 19,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 10,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 10 * * *",
-      "label": "19:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 167,
-    "text": "✨ 【無料素材】白い物干しスタンドに干した洗濯物\n\n▸ 洗濯・クリーニング方法の解説動画\n▸ 部屋干しのコツ・時短テクニック記事\n\n白い物干しスタンドに色とりどりの洗濯物が干された日常風景。清潔感のある明るい配色で、生活感と整理整頓された空間を同時に表現します。家事関連のコンテンツやライフスタイル記事の補足ビジュアルに適しています。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=167\n\n#フリー素材 #ソザイノ #洗濯 #生活用品 #インテリア",
-    "imageUrl": "https://sozaino.com/webp/home_022.webp",
+    "id": 623,
+    "text": "📸 素材紹介\n\nフィッシング用タックル、銀色スピナーと釣り針\n💡 使用例：「釣り初心者がまず揃えるべき基本タックル、正解はこれだった」\n\nシルバーメタリックのスピナーと釣り針が中心のフィッシング道具写真。光沢感のある金属質な仕上がりが、釣りの実用性と機能美を同時に表現。釣り関連の記事やレビューサイトで、道具の説明や比較コンテンツに直結する素材。\n\n無料でDLできます\n→ https://sozaino.com/download?id=623\n\n#釣り道具 #フィッシング #素材配布",
+    "imageUrl": "https://sozaino.com/webp/outdoor_081.webp",
     "schedule": {
-      "jstHour": 22,
+      "jstHour": 20,
       "jstMinute": 0,
-      "utcHour": 13,
+      "utcHour": 11,
       "utcMinute": 0,
-      "cron": "0 13 * * *",
-      "label": "22:00 JST"
+      "cron": "0 11 * * *",
+      "label": "20:00 JST"
     }
   }
 ]
