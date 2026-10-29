@@ -1,9 +1,9 @@
 [
   {
     "type": "material",
-    "id": 451,
-    "text": "📸 素材紹介\n\nモダンな部屋に設置されたコードレス掃除機\n💡 使用例：「忙しい朝でも5分で完了。コードレス掃除機が変えた私の毎日のルーティン」\n\n白を基調とした家電製品を、明るいモダンルームに配置した写真。ガラス張りの棚やミニマルな家具に調和する、洗練された掃除機の存在感を引き出しています。清潔感とスタイリッシュさを同時に表現。\n\n無料でDLできます\n→ https://sozaino.com/download?id=451\n\n#掃除機 #インテリア #清潔 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/home_080.webp",
+    "id": 901,
+    "text": "🗓️ 10月・秋の素材\n\n「収穫の秋」の季節にぴったりな素材を紹介します。\n\n【デスクで仕事をするビジネスマンのイラスト】\n生産性向上やタイムマネジメントに関する動画やコース紹介。落ち着いた配色とシンプルなデザインで、ビジネス研修や自己啓発コンテンツの信頼感を高められます。に使えます。\n\n→ https://sozaino.com/download?id=901\n\n#背景透過 #ビジネス #仕事 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_276.webp",
     "schedule": {
       "jstHour": 10,
       "jstMinute": 0,
@@ -15,44 +15,44 @@
   },
   {
     "type": "material",
-    "id": 532,
-    "text": "🎨 ハロウィンの10月🎃\n\n【床を清掃するロボット掃除機の接写】\nロボット掃除機が床面を清掃している接写ショット。機器の動作状況がリアルに伝わり、スマートホームや自動化技術を扱うコンテンツに適しています。モダンな家電製品の実際の使用風景を表現できます。\n📌 IoT・AI技術の進化を扱うテックブログやWebメディアの解説記事で、先端技術の実用例を示すビジュアルとして有効です。プロダクト紹介にも適しています。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=532\n\n#掃除機 #掃除 #清掃 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/home_083.webp",
+    "id": 248,
+    "text": "🗓️ 10月・秋の素材\n\n「ハロウィン」の季節にぴったりな素材を紹介します。\n\n【ふわふわのパウンドケーキを切った断面】\n焼き菓子の作り方解説動画に使えます。\n\n→ https://sozaino.com/download?id=248\n\n#パウンドケーキ #焼き菓子 #断面 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_102.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-007",
-    "text": "📝 収穫の秋本番に合わせて\n\nAI生成画像の著作権は大丈夫？ブログで使う前に知っておきたい現在地（2026年5月時点）\n\nAI生成画像の著作権で気をつけるべきポイントを、文化庁の見解をベースに「学習段階」「利用段階」の2フェーズで整理します。\n\n詳しくはこちら\n→ https://sozaino.com/column/ai-image-copyright.html\n\n#デザイン #素材活用 #ソザイノ",
+    "id": "col-001",
+    "text": "📖 ソザイノ コラム\n\nAI生成素材のブログ活用術。選び方・使い方・注意点をまとめて解説\n\nAI生成画像をブログやSNSで活用するための実践的な使い方を解説。素材の選び方、アイキャッチへの組み込み方、利用時の注意点まで、ブログ運営者目線でまとめます。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/ai-material-howto.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 17,
+      "jstHour": 19,
       "jstMinute": 0,
-      "utcHour": 8,
+      "utcHour": 10,
       "utcMinute": 0,
-      "cron": "0 8 * * *",
-      "label": "17:00 JST"
+      "cron": "0 10 * * *",
+      "label": "19:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 434,
-    "text": "✨ 【無料素材】紫外線対策グッズを集めた夏の必需品セット\n\n▸ 紫外線対策・スキンケアの情報ブログ。日焼け止めの種類や使い分けを紹介する記事のアイキャッチとして最適。白を基調とした清潔感のある配置で信頼感を獲得できます。\n▸ 季節トレンド・ファッション関連の動画。夏のおしゃれと健康管理を両立させるテーマの動画に使用すると、視聴者の関心を引きやすくなります。\n\n日焼け止めクリーム、UVカット帽子、サングラス、アームカバーなど夏の紫外線対策アイテムが整理された構成。爽やかな白やライトブルーの背景に、各製品が機能的に配置され、季節感とケア意識の高さを同時に表現しています。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=434\n\n#フリー素材 #ソザイノ #紫外線対策 #日焼け止め",
-    "imageUrl": "https://sozaino.com/webp/beauty_012.webp",
+    "id": 806,
+    "text": "🗓️ 10月・秋の素材\n\n「ハロウィン」の季節にぴったりな素材を紹介します。\n\n【感謝する女性ビジネスパーソン】\n人材育成やキャリア開発関連の動画サムネイル。謙虚な姿勢が企業研修や自己啓発コンテンツの信頼感を演出できます。に使えます。\n\n→ https://sozaino.com/download?id=806\n\n#ビジネス #女性 #イラスト #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_62.webp",
     "schedule": {
-      "jstHour": 21,
+      "jstHour": 22,
       "jstMinute": 0,
-      "utcHour": 12,
+      "utcHour": 13,
       "utcMinute": 0,
-      "cron": "0 12 * * *",
-      "label": "21:00 JST"
+      "cron": "0 13 * * *",
+      "label": "22:00 JST"
     }
   }
 ]
