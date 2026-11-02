@@ -1,23 +1,23 @@
 [
   {
     "type": "material",
-    "id": 496,
-    "text": "✨ 【無料素材】日用品とトイレットペーパーの整理整頓フラットレイ\n\n▸ ライフスタイルブログやYouTubeの『家の中の必需品紹介』動画に最適。白を基調とした清潔感のある構図が、ミニマリストや整理整頓好きの視聴者の共感を呼び、シェア率向上が期待できます。\n▸ 生活用品やストック管理に関する記事のアイキャッチとして活用。日常で使う消耗品を上から見た構図が、家計管理や買い物リストの参考記事との親和性が高く、クリック数増加につながります。\n\n日常的な生活用品がシンプルに配置されたフラットレイ。トイレットペーパーと洗面用品が白やニュートラルトーンで統一されており、スッキリとした整理された空間を表現。ミニマルなライフスタイルや片付けのビジュアルに適した構成。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=496\n\n#フリー素材 #ソザイノ #フラットレイ #日用雑貨 #生活用品",
-    "imageUrl": "https://sozaino.com/webp/home_047.webp",
+    "id": 110,
+    "text": "📸 素材紹介\n\n大容量モバイルバッテリーのUSB接続イメージ\n💡 使用例：「持ち運びに便利な大容量モバイルバッテリーの活用術」\n\nモバイルバッテリーとUSBケーブルの接続状態を捉えたイメージ。現代的で機能的な雰囲気を演出し、スマートフォンやタブレット関連の記事、ガジェットレビューサイト、テクノロジー企画の視覚的サポートに活用できます。\n\n無料でDLできます\n→ https://sozaino.com/download?id=110\n\n#ガジェット #テクノロジー #素材配布",
+    "imageUrl": "https://sozaino.com/webp/home_001.webp",
     "schedule": {
-      "jstHour": 8,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 23,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 23 * * *",
-      "label": "08:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 60,
-    "text": "🎨 七五三の季節\n\n【喜びに満ちた女性のポートレートイラスト】\n驚きと喜びが混在した表情の女性を描いたイラスト。目が大きく開き、口角が上がった生き生きとした顔つきが特徴。背景透過なので、ブログのアイキャッチやSNS投稿で他の要素と組み合わせやすく、ポジティブな雰囲気を演出できます。\n📌 美容・メイク関連ブログに最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=60\n\n#驚き #びっくり #感情表現 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/person_028.webp",
+    "id": 160,
+    "text": "📸 素材紹介\n\n洗濯物を干す女性のポートレート\n💡 使用例：「毎日の洗濯を楽しく快適に過ごすコツ」\n\n洗濯物を干す作業に従事する女性を捉えたポートレート。自然な日光の下での日常シーンで、爽やかで清潔感のある色合いが特徴。家事ブログや生活関連のコンテンツに使用すると、親しみやすく実生活に根ざした印象を与えます。\n\n無料でDLできます\n→ https://sozaino.com/download?id=160\n\n#洗濯 #爽やか #女性 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/person_111.webp",
     "schedule": {
       "jstHour": 12,
       "jstMinute": 0,
@@ -29,30 +29,30 @@
   },
   {
     "type": "column",
-    "id": "col-003",
-    "text": "📖 ソザイノ コラム\n\nSNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表\n\nX・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/sns-image-size-guide.html\n\n#フリー素材 #ブログ運営",
+    "id": "col-004",
+    "text": "📝 紅葉が見頃の11月🍁に合わせて\n\nWebP素材がSEOに効く理由。ページ速度・Core Web Vitals・検索順位への影響を解説\n\nWebP形式の画像がSEOに与える影響を解説。ページ読み込み速度の改善からCore Web Vitalsのスコアアップ、検索順位への効果まで、ブログ運営者が知っておきたい知識をまとめます。\n\n詳しくはこちら\n→ https://sozaino.com/column/webp-seo-effect.html\n\n#デザイン #素材活用 #ソザイノ",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 17,
+      "jstHour": 18,
       "jstMinute": 0,
-      "utcHour": 8,
+      "utcHour": 9,
       "utcMinute": 0,
-      "cron": "0 8 * * *",
-      "label": "17:00 JST"
+      "cron": "0 9 * * *",
+      "label": "18:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 715,
-    "text": "🗓️ 11月・秋の素材\n\n「七五三」の季節にぴったりな素材を紹介します。\n\n【夕日に照らされた一本道の風景】\n旅行やドライブスポット紹介の動画サムネイルとして活用。自然豊かな田舎風景と黄金色の光が視聴者の冒険心を刺激し、再生数向上に貢献します。に使えます。\n\n→ https://sozaino.com/download?id=715\n\n#風景 #自然 #希望 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/nature_041.webp",
+    "id": 873,
+    "text": "🗓️ 11月・秋の素材\n\n「紅葉」の季節にぴったりな素材を紹介します。\n\n【スマホで不用品を出品して、売れたのを喜ぶ男性】\n住宅ローンや資産運用に関する動画のサムネイル。営業マンの笑顔が親しみやすく、視聴者のクリック率向上が期待できます。に使えます。\n\n→ https://sozaino.com/download?id=873\n\n#ショッピング #フリマ #男性 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_246.webp",
     "schedule": {
-      "jstHour": 22,
+      "jstHour": 20,
       "jstMinute": 0,
-      "utcHour": 13,
+      "utcHour": 11,
       "utcMinute": 0,
-      "cron": "0 13 * * *",
-      "label": "22:00 JST"
+      "cron": "0 11 * * *",
+      "label": "20:00 JST"
     }
   }
 ]
