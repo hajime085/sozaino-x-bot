@@ -1,51 +1,51 @@
 [
   {
     "type": "material",
-    "id": 110,
-    "text": "📸 素材紹介\n\n大容量モバイルバッテリーのUSB接続イメージ\n💡 使用例：「持ち運びに便利な大容量モバイルバッテリーの活用術」\n\nモバイルバッテリーとUSBケーブルの接続状態を捉えたイメージ。現代的で機能的な雰囲気を演出し、スマートフォンやタブレット関連の記事、ガジェットレビューサイト、テクノロジー企画の視覚的サポートに活用できます。\n\n無料でDLできます\n→ https://sozaino.com/download?id=110\n\n#ガジェット #テクノロジー #素材配布",
-    "imageUrl": "https://sozaino.com/webp/home_001.webp",
+    "id": 76,
+    "text": "🎨 秋も深まる11月\n\n【自宅でヨガをする女性のストレッチ風景】\nリビングでヨガマットの上に座り、前屈ストレッチをする女性の実撮影です。自然光が柔らかく当たり、清潔感のある室内環境を背景としています。初心者向けのホームフィットネス記事やウェルネスブログに即戦力となるカットです。背景透過版なので、異なるレイアウトへの組み込みも容易です。\n📌 ヨガ・ピラティスの初心者ガイドに最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=76\n\n#ヨガ #フィットネス #ホームエクササイズ #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/person_042.webp",
     "schedule": {
-      "jstHour": 10,
+      "jstHour": 9,
       "jstMinute": 0,
-      "utcHour": 1,
+      "utcHour": 0,
       "utcMinute": 0,
-      "cron": "0 1 * * *",
-      "label": "10:00 JST"
+      "cron": "0 0 * * *",
+      "label": "09:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 160,
-    "text": "📸 素材紹介\n\n洗濯物を干す女性のポートレート\n💡 使用例：「毎日の洗濯を楽しく快適に過ごすコツ」\n\n洗濯物を干す作業に従事する女性を捉えたポートレート。自然な日光の下での日常シーンで、爽やかで清潔感のある色合いが特徴。家事ブログや生活関連のコンテンツに使用すると、親しみやすく実生活に根ざした印象を与えます。\n\n無料でDLできます\n→ https://sozaino.com/download?id=160\n\n#洗濯 #爽やか #女性 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/person_111.webp",
+    "id": 61,
+    "text": "✨ 【無料素材】驚きと喜びの表情をした黒髪女性のイラスト\n\n▸ 感情や反応に関する記事\n▸ ビューティー・メイク関連コンテンツ\n\n驚きで目が見開き、口を開けた黒髪女性のイラスト。背景透過なので、ブログやSNS投稿のアクセント要素として使いやすい。感情表現が明確で、ポップなトーンの記事に合わせやすい一枚です。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=61\n\n#フリー素材 #ソザイノ #驚き #びっくり #感情表現",
+    "imageUrl": "https://sozaino.com/webp/person_030.webp",
     "schedule": {
-      "jstHour": 12,
+      "jstHour": 13,
       "jstMinute": 0,
-      "utcHour": 3,
+      "utcHour": 4,
       "utcMinute": 0,
-      "cron": "0 3 * * *",
-      "label": "12:00 JST"
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-004",
-    "text": "📝 紅葉が見頃の11月🍁に合わせて\n\nWebP素材がSEOに効く理由。ページ速度・Core Web Vitals・検索順位への影響を解説\n\nWebP形式の画像がSEOに与える影響を解説。ページ読み込み速度の改善からCore Web Vitalsのスコアアップ、検索順位への効果まで、ブログ運営者が知っておきたい知識をまとめます。\n\n詳しくはこちら\n→ https://sozaino.com/column/webp-seo-effect.html\n\n#デザイン #素材活用 #ソザイノ",
+    "id": "col-005",
+    "text": "📖 ソザイノ コラム\n\nブログ用フリー素材の選び方。失敗しないための5つの確認ポイント\n\nブログのアイキャッチや挿入画像に使うフリー素材を選ぶときの5つの確認ポイントを解説。商用利用・画質・ファイル形式・ライセンスの読み方まで、初心者でも迷わない選び方をまとめます。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/free-material-selection-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 18,
+      "jstHour": 19,
       "jstMinute": 0,
-      "utcHour": 9,
+      "utcHour": 10,
       "utcMinute": 0,
-      "cron": "0 9 * * *",
-      "label": "18:00 JST"
+      "cron": "0 10 * * *",
+      "label": "19:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 873,
-    "text": "🗓️ 11月・秋の素材\n\n「紅葉」の季節にぴったりな素材を紹介します。\n\n【スマホで不用品を出品して、売れたのを喜ぶ男性】\n住宅ローンや資産運用に関する動画のサムネイル。営業マンの笑顔が親しみやすく、視聴者のクリック率向上が期待できます。に使えます。\n\n→ https://sozaino.com/download?id=873\n\n#ショッピング #フリマ #男性 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/character_246.webp",
+    "id": 265,
+    "text": "🗓️ 11月・秋の素材\n\n「紅葉」の季節にぴったりな素材を紹介します。\n\n【フランスパンのスライスと断面図の食材写真】\nフランス料理・ヨーロッパ文化紹介に使えます。\n\n→ https://sozaino.com/download?id=265\n\n#フランスパン #パン #食材 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_119.webp",
     "schedule": {
       "jstHour": 20,
       "jstMinute": 0,
