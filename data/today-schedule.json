@@ -1,9 +1,9 @@
 [
   {
     "type": "material",
-    "id": 548,
-    "text": "📸 素材紹介\n\n爽やかな青空と白い雲のイラスト背景\n💡 使用例：「心が軽くなる、白い雲と青空のある毎日」\n\n澄み渡った青を基調とした背景で、白い雲が浮かぶイラスト表現。穏やかで明るい雰囲気を演出でき、ポジティブなイメージが必要なコンテンツに適しています。季節を限定しない汎用的な空のビジュアルです。\n\n無料でDLできます\n→ https://sozaino.com/download?id=548\n\n#空 #雲 #青空 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/backgrounds_003.webp",
+    "id": 660,
+    "text": "📸 素材紹介\n\nカラフルなルアーとワーム釣り用品の全体図\n💡 使用例：「釣果が劇的に変わる！カラーと形状で選ぶ最強ルアーの組み合わせ術」\n\n多彩なルアーとワームが俯瞰で配置された釣具の一覧図。赤・黄・青・緑など複数の色彩が揃うことで、釣り初心者向けの道具説明や釣具店のカタログ的な用途に適した構成。実用的かつ視認性の高いレイアウト。\n\n無料でDLできます\n→ https://sozaino.com/download?id=660\n\n#釣り #ルアー #釣具 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/outdoor_108.webp",
     "schedule": {
       "jstHour": 10,
       "jstMinute": 0,
@@ -15,22 +15,22 @@
   },
   {
     "type": "material",
-    "id": 480,
-    "text": "🎨 七五三の季節\n\n【段ボール箱から取り出される洗剤や消毒液】\n段ボール箱から立ち上がる洗剤ボトルや消毒液を撮影した実写的構図。日用品の配送シーンを視覚的に表現し、ネットショッピングの利便性や家庭への配達の瞬間をリアルに演出。白背景との組み合わせで清潔感が際立つ。\n📌 家事・生活用品の選び方や比較レビューブログの素材として活用可能。清潔感と日常生活の実感を同時に表現できます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=480\n\n#配送 #段ボール箱 #洗剤 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/home_049.webp",
+    "id": 111,
+    "text": "🗓️ 11月・秋の素材\n\n「七五三」の季節にぴったりな素材を紹介します。\n\n【複数ポート搭載のモバイルバッテリーの製品写真】\nガジェット・tech製品のレビュー記事に使えます。\n\n→ https://sozaino.com/download?id=111\n\n#ガジェット #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/home_002.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-006",
-    "text": "📝 秋も深まる11月に合わせて\n\nブログのアイキャッチ画像サイズ、正解はこれ。用途別の推奨サイズと選び方\n\nWordPress・はてなブログ・noteなど主要プラットフォーム別の推奨サイズを整理。SNSシェア時に画像が切れないためのポイントも解説します。\n\n詳しくはこちら\n→ https://sozaino.com/column/eyecatch-size-guide.html\n\n#デザイン #素材活用 #ソザイノ",
+    "id": "col-007",
+    "text": "📖 ソザイノ コラム\n\nAI生成画像の著作権は大丈夫？ブログで使う前に知っておきたい現在地（2026年5月時点）\n\nAI生成画像の著作権で気をつけるべきポイントを、文化庁の見解をベースに「学習段階」「利用段階」の2フェーズで整理します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/ai-image-copyright.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
       "jstHour": 18,
@@ -43,16 +43,16 @@
   },
   {
     "type": "material",
-    "id": 841,
-    "text": "✨ 【無料素材】中華食堂の麻婆豆腐（辛め）\n\n▸ 中華料理のレシピブログやYouTube動画のアイキャッチ。本格的な麻婆豆腐の作り方解説記事で、食欲をそそる湯気感と辛そうな色合いが視聴者の興味を引き出します。\n▸ グルメサイトや飲食店の紹介記事。絶品麻婆豆腐を提供するお店の推薦記事で、高級感のある盛り付けが店舗の質感をアピールできます。\n\n赤と白のコントラストが強い麻婆豆腐のイラストです。辛さを表現する炎のような色合いと、湯気の描写で熱々の料理感を演出。背景透過対応で、ブログ記事や料理サイトの装飾素材として直接配置できます。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=841\n\n#フリー素材 #ソザイノ #麻婆豆腐 #中華料理 #豆腐",
-    "imageUrl": "https://sozaino.com/webp/character_a166.webp",
+    "id": 45,
+    "text": "📸 素材紹介\n\n病院の廊下で笑顔の若い男性医師\n💡 使用例：「信頼できる医師が教える健康管理のコツ」\n\n病院の廊下を背景に、清潔感のある白衣姿の若い男性医師が親しみやすい笑顔で立っています。背景透過処理済みなので、医療系ウェブサイトやブログの信頼感を演出するパーツとして直接配置でき、医院紹介やスタッフ紹介ページに最適です。\n\n無料でDLできます\n→ https://sozaino.com/download?id=45\n\n#男性 #背景透過 #医師 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/person_002.webp",
     "schedule": {
-      "jstHour": 21,
+      "jstHour": 22,
       "jstMinute": 0,
-      "utcHour": 12,
+      "utcHour": 13,
       "utcMinute": 0,
-      "cron": "0 12 * * *",
-      "label": "21:00 JST"
+      "cron": "0 13 * * *",
+      "label": "22:00 JST"
     }
   }
 ]
