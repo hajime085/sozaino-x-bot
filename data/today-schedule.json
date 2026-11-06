@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 660,
-    "text": "📸 素材紹介\n\nカラフルなルアーとワーム釣り用品の全体図\n💡 使用例：「釣果が劇的に変わる！カラーと形状で選ぶ最強ルアーの組み合わせ術」\n\n多彩なルアーとワームが俯瞰で配置された釣具の一覧図。赤・黄・青・緑など複数の色彩が揃うことで、釣り初心者向けの道具説明や釣具店のカタログ的な用途に適した構成。実用的かつ視認性の高いレイアウト。\n\n無料でDLできます\n→ https://sozaino.com/download?id=660\n\n#釣り #ルアー #釣具 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/outdoor_108.webp",
+    "id": 272,
+    "text": "🗓️ 11月・秋の素材\n\n「紅葉」の季節にぴったりな素材を紹介します。\n\n【焼きたてのレーズンパウンドケーキ】\nお菓子・スイーツレシピブログに使えます。\n\n→ https://sozaino.com/download?id=272\n\n#お菓子 #パウンドケーキ #レーズン #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_128.webp",
     "schedule": {
-      "jstHour": 10,
+      "jstHour": 9,
       "jstMinute": 0,
-      "utcHour": 1,
+      "utcHour": 0,
       "utcMinute": 0,
-      "cron": "0 1 * * *",
-      "label": "10:00 JST"
+      "cron": "0 0 * * *",
+      "label": "09:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 111,
-    "text": "🗓️ 11月・秋の素材\n\n「七五三」の季節にぴったりな素材を紹介します。\n\n【複数ポート搭載のモバイルバッテリーの製品写真】\nガジェット・tech製品のレビュー記事に使えます。\n\n→ https://sozaino.com/download?id=111\n\n#ガジェット #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/home_002.webp",
+    "id": 276,
+    "text": "🎨 紅葉が見頃の11月🍁\n\n【サンドイッチの美しい盛り付け・ホームメイドカフェスタイル】\n丁寧に仕上げたサンドイッチを主役に据えた、落ち着いた食卓風景。自家製ならではの素朴な温かみと、洗練された盛り付けが共存する一枚。カフェ空間でのランチシーンやフード関連の記事に活躍できます。\n📌 カフェ・軽食レシピブログに最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=276\n\n#サンドイッチ #ホームメイド #食卓 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_133.webp",
     "schedule": {
-      "jstHour": 12,
+      "jstHour": 13,
       "jstMinute": 0,
-      "utcHour": 3,
+      "utcHour": 4,
       "utcMinute": 0,
-      "cron": "0 3 * * *",
-      "label": "12:00 JST"
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-007",
-    "text": "📖 ソザイノ コラム\n\nAI生成画像の著作権は大丈夫？ブログで使う前に知っておきたい現在地（2026年5月時点）\n\nAI生成画像の著作権で気をつけるべきポイントを、文化庁の見解をベースに「学習段階」「利用段階」の2フェーズで整理します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/ai-image-copyright.html\n\n#フリー素材 #ブログ運営",
+    "id": "col-002",
+    "text": "📝 秋も深まる11月に合わせて\n\nフリー素材の商用利用、実は注意が必要なケースとは？確認すべき3つのポイント\n\n「商用利用OK」のフリー素材でも注意が必要なケースがあります。利用規約の読み方、NGになりやすいパターン、安全に使うための確認ポイントを解説します。\n\n詳しくはこちら\n→ https://sozaino.com/column/commercial-use-guide.html\n\n#デザイン #素材活用 #ソザイノ",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 18,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 9,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 9 * * *",
-      "label": "18:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 45,
-    "text": "📸 素材紹介\n\n病院の廊下で笑顔の若い男性医師\n💡 使用例：「信頼できる医師が教える健康管理のコツ」\n\n病院の廊下を背景に、清潔感のある白衣姿の若い男性医師が親しみやすい笑顔で立っています。背景透過処理済みなので、医療系ウェブサイトやブログの信頼感を演出するパーツとして直接配置でき、医院紹介やスタッフ紹介ページに最適です。\n\n無料でDLできます\n→ https://sozaino.com/download?id=45\n\n#男性 #背景透過 #医師 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/person_002.webp",
+    "id": 381,
+    "text": "✨ 【無料素材】スマートフォンを自転車に取り付けて走行する若い男性イラスト\n\n▸ スマートフォンアプリやデジタルサービスの紹介記事のアイキャッチとして最適。都市生活者のライフスタイルを表現でき、テック系ブログやアプリ紹介動画の視認性を高めます。\n▸ キャッシュレス決済やオンラインショッピングの解説記事に活用。現代的な日常風景が信頼感を与え、金融リテラシーやDX関連コンテンツの説得力を強化できます。\n\nアニメ調のタッチで描かれた、スマートフォンを自転車に装着して走行する若い男性。爽やかで動的な雰囲気が特徴。背景透過により、ブログやスライド資料への組み込みが容易で、デジタル生活やモビリティ関連のテーマに適合します。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=381\n\n#フリー素材 #ソザイノ #スマートフォン #アニメ風 #デジタル",
+    "imageUrl": "https://sozaino.com/webp/blog_036.webp",
     "schedule": {
-      "jstHour": 22,
+      "jstHour": 21,
       "jstMinute": 0,
-      "utcHour": 13,
+      "utcHour": 12,
       "utcMinute": 0,
-      "cron": "0 13 * * *",
-      "label": "22:00 JST"
+      "cron": "0 12 * * *",
+      "label": "21:00 JST"
     }
   }
 ]
