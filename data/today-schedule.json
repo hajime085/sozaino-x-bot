@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 828,
-    "text": "✨ 【無料素材】疲れた表情の女性会社員の寝起きイラスト\n\n▸ 仕事のストレスや疲労に関する記事のアイキャッチとして活用。働き方改革やメンタルヘルスについてのブログ記事に最適で、読者の共感を呼びやすいです。\n▸ 職場環境やキャリア形成に関する動画のサムネイルとして使用。女性の働き方や職業人生についての解説動画との相性が良く、クリック率向上が期待できます。\n\n朝の寝起き直後の疲弊した表情を捉えたビジネスウーマンのキャラクター。暗めの配色と下向きの視線が、睡眠不足や業務ストレスの状態を的確に表現。職場の日常的な疲労感を視覚化した感情表現イラストです。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=828\n\n#フリー素材 #ソザイノ #疲労 #ビジネスウーマン #会社員",
-    "imageUrl": "https://sozaino.com/webp/character_72.webp",
+    "id": 224,
+    "text": "🎨 秋も深まる11月\n\n【素朴な風合いの焼きたてパン3個】\n焼きたての温もりが感じられる3個のパンを捉えた一枚。素朴な焼き色と粉がまぶされた表面質感が、家庭でのベーキング風景を演出。クリーム色から濃い茶色へのグラデーション焼き色が、自然で親しみやすい雰囲気を作り出しています。\n📌 ホームベーキング初心者向けガイドに最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=224\n\n#パン #焼き菓子 #ベーキング #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_078.webp",
     "schedule": {
-      "jstHour": 9,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 0,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 0 * * *",
-      "label": "09:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 789,
-    "text": "✨ 【無料素材】敬礼する警察官のイラスト\n\n▸ 交通安全や防犯啓発記事のアイキャッチ。親しみやすいタッチで、子どもから大人まで幅広い層に安心感を与え、コンテンツへのクリック率向上が期待できます。\n▸ 警察採用試験や公務員試験の情報サイト。親切で誠実なイメージを演出し、受験者の信頼感を高めるのに効果的です。\n\n制帽を被り敬礼する警察官を描いたイラスト。紺と白を基調とした制服で信頼感と秩序を表現。正面向きの姿勢と端正な描線により、公共サービスの真摯さが伝わるデザイン。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=789\n\n#フリー素材 #ソザイノ #イラスト",
-    "imageUrl": "https://sozaino.com/webp/character_45.webp",
+    "id": 1062,
+    "text": "🗓️ 11月・秋の素材\n\n「収穫祭」の季節にぴったりな素材を紹介します。\n\n【時間に追われるビジネスマンのイメージ】\n仕事効率化や生産性向上をテーマにした動画のサムネイル。砂時計とコンパスの象徴的な配置が時間と目標の重要性を直感的に伝え、クリック誘導効果が期待できます。に使えます。\n\n→ https://sozaino.com/download?id=1062\n\n#時間管理 #ビジネス #締切 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/blog_194.webp",
     "schedule": {
-      "jstHour": 12,
+      "jstHour": 13,
       "jstMinute": 0,
-      "utcHour": 3,
+      "utcHour": 4,
       "utcMinute": 0,
-      "cron": "0 3 * * *",
-      "label": "12:00 JST"
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-003",
-    "text": "📝 七五三の季節に合わせて\n\nSNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表\n\nX・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。\n\n詳しくはこちら\n→ https://sozaino.com/column/sns-image-size-guide.html\n\n#デザイン #素材活用 #ソザイノ",
+    "id": "col-001",
+    "text": "📖 ソザイノ コラム\n\nAI生成素材のブログ活用術。選び方・使い方・注意点をまとめて解説\n\nAI生成画像をブログやSNSで活用するための実践的な使い方を解説。素材の選び方、アイキャッチへの組み込み方、利用時の注意点まで、ブログ運営者目線でまとめます。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/ai-material-howto.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 19,
+      "jstHour": 18,
       "jstMinute": 0,
-      "utcHour": 10,
+      "utcHour": 9,
       "utcMinute": 0,
-      "cron": "0 10 * * *",
-      "label": "19:00 JST"
+      "cron": "0 9 * * *",
+      "label": "18:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 309,
-    "text": "📸 素材紹介\n\n夏の日差しの中のサンケアと帽子のフラットレイ\n💡 使用例：「この夏、海やプール以外でも必携。毎日使いたくなるおしゃれなUVケアコスメ厳選5選」\n\n白やベージュを基調とした明るい背景に、日焼け止めクリーム、サンスクリーン製品、つば広の帽子が配置されたレイアウト。夏の紫外線対策をテーマにした爽やかで清潔感のある構成で、美容・ウェルネス関連の記事やSNS投稿に適しています。\n\n無料でDLできます\n→ https://sozaino.com/download?id=309\n\n#フラットレイ #美容 #UVケア #素材配布",
-    "imageUrl": "https://sozaino.com/webp/beauty_01.webp",
+    "id": 490,
+    "text": "📸 素材紹介\n\n単3形アルカリ電池の商品イメージ写真\n💡 使用例：「これで停電対策も万全！家庭に必須な電池の備蓄方法とは」\n\n赤と黒のストライプデザインが目印の単3形アルカリ電池を、クリーンな背景に配置した商品撮影。日常的な生活必需品の信頼感を表現しており、家電製品の説明記事や生活用品カタログに適している。\n\n無料でDLできます\n→ https://sozaino.com/download?id=490\n\n#電池 #生活用品 #商品撮影 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/home_068.webp",
     "schedule": {
-      "jstHour": 20,
+      "jstHour": 21,
       "jstMinute": 0,
-      "utcHour": 11,
+      "utcHour": 12,
       "utcMinute": 0,
-      "cron": "0 11 * * *",
-      "label": "20:00 JST"
+      "cron": "0 12 * * *",
+      "label": "21:00 JST"
     }
   }
 ]
