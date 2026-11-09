@@ -1,9 +1,9 @@
 [
   {
     "type": "material",
-    "id": 224,
-    "text": "🎨 秋も深まる11月\n\n【素朴な風合いの焼きたてパン3個】\n焼きたての温もりが感じられる3個のパンを捉えた一枚。素朴な焼き色と粉がまぶされた表面質感が、家庭でのベーキング風景を演出。クリーム色から濃い茶色へのグラデーション焼き色が、自然で親しみやすい雰囲気を作り出しています。\n📌 ホームベーキング初心者向けガイドに最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=224\n\n#パン #焼き菓子 #ベーキング #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/food_078.webp",
+    "id": 1007,
+    "text": "🗓️ 11月・秋の素材\n\n「七五三」の季節にぴったりな素材を紹介します。\n\n【赤いポストのイラスト素材】\n子ども向けの教育コンテンツや習い事紹介サイトのアイコン素材として。優しい3D表現が親しみやすく、クリック率の向上が期待できます。に使えます。\n\n→ https://sozaino.com/download?id=1007\n\n#ポスト #郵便 #赤 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character382.webp",
     "schedule": {
       "jstHour": 10,
       "jstMinute": 0,
@@ -15,44 +15,44 @@
   },
   {
     "type": "material",
-    "id": 1062,
-    "text": "🗓️ 11月・秋の素材\n\n「収穫祭」の季節にぴったりな素材を紹介します。\n\n【時間に追われるビジネスマンのイメージ】\n仕事効率化や生産性向上をテーマにした動画のサムネイル。砂時計とコンパスの象徴的な配置が時間と目標の重要性を直感的に伝え、クリック誘導効果が期待できます。に使えます。\n\n→ https://sozaino.com/download?id=1062\n\n#時間管理 #ビジネス #締切 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/blog_194.webp",
+    "id": 762,
+    "text": "✨ 【無料素材】目を閉じてお辞儀する男性のイラスト\n\n▸ メンタルヘルスやマインドフルネスに関するブログ記事のアイキャッチ。落ち着いた表情が瞑想や心の安定についての記事内容を視覚的に伝え、読者の関心を引きやすいです。\n▸ 子ども向けの教育動画や学習支援サイトの素材。シンプルで親しみやすいキャラクターが、集中力や心身の健康について学ぶコンテンツに最適です。\n\n目を閉じて丁寧にお辞儀する男性を描いたイラスト。柔らかな線描と優しい色合いで、誠実さと落ち着きを表現しています。ブログのお詫び文や感謝の挨拶コーナー、ビジネスマナーの解説など、真摯な姿勢が必要なシーンで活躍します。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=762\n\n#フリー素材 #ソザイノ #男性 #リラックス #かわいい",
+    "imageUrl": "https://sozaino.com/webp/character_002.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-001",
-    "text": "📖 ソザイノ コラム\n\nAI生成素材のブログ活用術。選び方・使い方・注意点をまとめて解説\n\nAI生成画像をブログやSNSで活用するための実践的な使い方を解説。素材の選び方、アイキャッチへの組み込み方、利用時の注意点まで、ブログ運営者目線でまとめます。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/ai-material-howto.html\n\n#フリー素材 #ブログ運営",
+    "id": "col-008",
+    "text": "📝 秋も深まる11月に合わせて\n\nWebP形式とは？PNG・JPEGとの違いと、ブログで使う5つのメリット\n\nWebPの特徴、PNG・JPEGとの違い、ブログ運営者が知っておきたい導入メリットと注意点を実例ベースで解説します。\n\n詳しくはこちら\n→ https://sozaino.com/column/webp-guide.html\n\n#デザイン #素材活用 #ソザイノ",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 18,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 9,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 9 * * *",
-      "label": "18:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 490,
-    "text": "📸 素材紹介\n\n単3形アルカリ電池の商品イメージ写真\n💡 使用例：「これで停電対策も万全！家庭に必須な電池の備蓄方法とは」\n\n赤と黒のストライプデザインが目印の単3形アルカリ電池を、クリーンな背景に配置した商品撮影。日常的な生活必需品の信頼感を表現しており、家電製品の説明記事や生活用品カタログに適している。\n\n無料でDLできます\n→ https://sozaino.com/download?id=490\n\n#電池 #生活用品 #商品撮影 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/home_068.webp",
+    "id": 27,
+    "text": "🗓️ 11月・秋の素材\n\n「七五三」の季節にぴったりな素材を紹介します。\n\n【白いシャツを着た女性がお辞儀をしている】\nメンタルヘルス・ストレス対策ガイドに使えます。\n\n→ https://sozaino.com/download?id=27\n\n#女性 #白シャツ #お辞儀 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/person_093.webp",
     "schedule": {
-      "jstHour": 21,
+      "jstHour": 20,
       "jstMinute": 0,
-      "utcHour": 12,
+      "utcHour": 11,
       "utcMinute": 0,
-      "cron": "0 12 * * *",
-      "label": "21:00 JST"
+      "cron": "0 11 * * *",
+      "label": "20:00 JST"
     }
   }
 ]
