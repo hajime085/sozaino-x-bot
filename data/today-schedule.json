@@ -1,58 +1,58 @@
 [
   {
     "type": "material",
-    "id": 794,
-    "text": "✨ 【無料素材】歯科医師が教える正しい歯磨き方法\n\n▸ 歯磨き粉やオーラルケア商品の紹介ブログ。親切な歯科医のキャラクターが信頼感を与え、商品の信頼性向上に効果的です。\n▸ 歯科医院のホームページやブログ。患者教育コンテンツや予防歯科の啓発動画のアイキャッチに最適で、親しみやすいトーンで情報発信できます。\n\n歯科医師のキャラクターが歯磨き指導をしているシーン。医療の専門性を感じさせる落ち着いた配色で、親しみやすいイラストタッチ。健康情報を扱うブログやサイトで、信頼感を持たせながら読者に正確な知識を伝える用途に適しています。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=794\n\n#フリー素材 #ソザイノ #健康 #医療 #イラスト",
-    "imageUrl": "https://sozaino.com/webp/character_50.webp",
+    "id": 493,
+    "text": "📸 素材紹介\n\n洗剤とトイレットペーパーの生活用品ストック\n💡 使用例：「忙しい主婦必見！賢い日用品ストック管理で家計を月3,000円節約する方法」\n\n洗剤ボトルとトイレットペーパーロールを組み合わせた日用品の静物写真。清潔感のある白やクリーム色を基調に、パステルトーンの容器が配置されている。家事の日常を表現した落ち着きのある構図で、生活感を素直に伝えるビジュアル。\n\n無料でDLできます\n→ https://sozaino.com/download?id=493\n\n#生活用品 #洗剤 #トイレットペーパー #素材配布",
+    "imageUrl": "https://sozaino.com/webp/home_091.webp",
     "schedule": {
-      "jstHour": 8,
+      "jstHour": 9,
       "jstMinute": 0,
-      "utcHour": 23,
+      "utcHour": 0,
       "utcMinute": 0,
-      "cron": "0 23 * * *",
-      "label": "08:00 JST"
+      "cron": "0 0 * * *",
+      "label": "09:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 1069,
-    "text": "✨ 【無料素材】太陽のアイコン｜赤いシンプルイラスト\n\n▸ 天気予報や気象情報に関するブログ記事のアイキャッチ。晴天時の天気情報を視覚的に分かりやすく伝え、読者の目を引きます。\n▸ 健康・ウェルネス関連の動画や記事。紫外線対策や日焼け止めの重要性を説く際に、太陽の存在を強調できます。\n\n赤色で統一されたシンプルな太陽アイコンです。背景が透過されており、ブログ記事やサムネイル、動画内の装飾要素として幅広く活用できます。暖かみのある色合いが視認性を高めます。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=1069\n\n#フリー素材 #ソザイノ #太陽 #アイコン #シンプル",
-    "imageUrl": "https://sozaino.com/webp/blog_202.webp",
+    "id": 198,
+    "text": "🗓️ 11月・秋の素材\n\n「紅葉」の季節にぴったりな素材を紹介します。\n\n【木製テーブルの上に置かれたクッキー】\nカフェ・グルメ紹介に使えます。\n\n→ https://sozaino.com/download?id=198\n\n#お菓子 #焼き菓子 #レシピ #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/food_046.webp",
     "schedule": {
-      "jstHour": 12,
+      "jstHour": 13,
       "jstMinute": 0,
-      "utcHour": 3,
+      "utcHour": 4,
       "utcMinute": 0,
-      "cron": "0 3 * * *",
-      "label": "12:00 JST"
+      "cron": "0 4 * * *",
+      "label": "13:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-006",
-    "text": "📝 秋も深まる11月に合わせて\n\nブログのアイキャッチ画像サイズ、正解はこれ。用途別の推奨サイズと選び方\n\nWordPress・はてなブログ・noteなど主要プラットフォーム別の推奨サイズを整理。SNSシェア時に画像が切れないためのポイントも解説します。\n\n詳しくはこちら\n→ https://sozaino.com/column/eyecatch-size-guide.html\n\n#デザイン #素材活用 #ソザイノ",
+    "id": "col-008",
+    "text": "📖 ソザイノ コラム\n\nWebP形式とは？PNG・JPEGとの違いと、ブログで使う5つのメリット\n\nWebPの特徴、PNG・JPEGとの違い、ブログ運営者が知っておきたい導入メリットと注意点を実例ベースで解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/webp-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 19,
+      "jstHour": 18,
       "jstMinute": 0,
-      "utcHour": 10,
+      "utcHour": 9,
       "utcMinute": 0,
-      "cron": "0 10 * * *",
-      "label": "19:00 JST"
+      "cron": "0 9 * * *",
+      "label": "18:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 669,
-    "text": "📸 素材紹介\n\nコーヒー豆を挽く手作業の風景\n💡 使用例：「忙しい朝だからこそ。ハンドグラインダーで作る特別なコーヒータイム」\n\n野外でコーヒー豆を手作業で挽く様子を捉えた一枚。自然な光と手の動きが織り成す、時間をかけた丁寧な作業風景です。アウトドアの環境下でコーヒーを楽しむライフスタイルの温かみと、アナログな工程の価値を視覚的に表現しています。\n\n無料でDLできます\n→ https://sozaino.com/download?id=669\n\n#コーヒー #コーヒー豆 #ライフスタイル #素材配布",
-    "imageUrl": "https://sozaino.com/webp/outdoor_115.webp",
+    "id": 466,
+    "text": "🗓️ 11月・秋の素材\n\n「収穫祭」の季節にぴったりな素材を紹介します。\n\n【キッチン引き出しの瓶詰め整理収納術】\n賃貸住宅や小さなキッチンでの収納工夫を紹介するInstagram投稿やPinterest記事。美しく統一された収納例として、フォロワーからの「いいね」と保存数の増加が見込めます。に使えます。\n\n→ https://sozaino.com/download?id=466\n\n#収納 #キッチン #整理整頓 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/home_074.webp",
     "schedule": {
-      "jstHour": 22,
+      "jstHour": 21,
       "jstMinute": 0,
-      "utcHour": 13,
+      "utcHour": 12,
       "utcMinute": 0,
-      "cron": "0 13 * * *",
-      "label": "22:00 JST"
+      "cron": "0 12 * * *",
+      "label": "21:00 JST"
     }
   }
 ]
