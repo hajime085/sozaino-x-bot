@@ -1,51 +1,51 @@
 [
   {
     "type": "material",
-    "id": 493,
-    "text": "📸 素材紹介\n\n洗剤とトイレットペーパーの生活用品ストック\n💡 使用例：「忙しい主婦必見！賢い日用品ストック管理で家計を月3,000円節約する方法」\n\n洗剤ボトルとトイレットペーパーロールを組み合わせた日用品の静物写真。清潔感のある白やクリーム色を基調に、パステルトーンの容器が配置されている。家事の日常を表現した落ち着きのある構図で、生活感を素直に伝えるビジュアル。\n\n無料でDLできます\n→ https://sozaino.com/download?id=493\n\n#生活用品 #洗剤 #トイレットペーパー #素材配布",
-    "imageUrl": "https://sozaino.com/webp/home_091.webp",
+    "id": 874,
+    "text": "📸 素材紹介\n\nスマートフォンを持つビジネスマンのイラスト\n💡 使用例：「移動中も営業もOK。スマートフォンで完結する業務管理アプリTop5」\n\nスマートフォンを操作するビジネスマンを描いたイラスト。背景が透過されているため、ブログやスライド、Webページへの直接配置が可能。ミニマルな色使いで現代的な労働シーンを表現し、デジタルツール活用やモバイル業務の文脈に即座にマッチします。\n\n無料でDLできます\n→ https://sozaino.com/download?id=874\n\n#ビジネス #スマートフォン #男性 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/character_247.webp",
     "schedule": {
-      "jstHour": 9,
+      "jstHour": 8,
       "jstMinute": 0,
-      "utcHour": 0,
+      "utcHour": 23,
       "utcMinute": 0,
-      "cron": "0 0 * * *",
-      "label": "09:00 JST"
+      "cron": "0 23 * * *",
+      "label": "08:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 198,
-    "text": "🗓️ 11月・秋の素材\n\n「紅葉」の季節にぴったりな素材を紹介します。\n\n【木製テーブルの上に置かれたクッキー】\nカフェ・グルメ紹介に使えます。\n\n→ https://sozaino.com/download?id=198\n\n#お菓子 #焼き菓子 #レシピ #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/food_046.webp",
+    "id": 738,
+    "text": "🎨 秋も深まる11月\n\n【青空に浮かぶ白い雲の爽やかな風景】\n深い青と純白のコントラストが心地よい、開放感あふれる空の風景です。ふっくらとした雲が浮かぶ様子は、晴天時のリラックス感や希望感を演出します。ウェブサイトのヘッダーやバナー背景として、明るく前向きなトーンを与えたい場合に適しています。\n📌 天気予報や季節特集の動画サムネイルに活用できます。シンプルで見やすい構図が、天候情報の信頼感と透明性を演出します。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=738\n\n#青空 #雲 #風景 #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/nature_064.webp",
     "schedule": {
-      "jstHour": 13,
+      "jstHour": 12,
       "jstMinute": 0,
-      "utcHour": 4,
+      "utcHour": 3,
       "utcMinute": 0,
-      "cron": "0 4 * * *",
-      "label": "13:00 JST"
+      "cron": "0 3 * * *",
+      "label": "12:00 JST"
     }
   },
   {
     "type": "column",
-    "id": "col-008",
-    "text": "📖 ソザイノ コラム\n\nWebP形式とは？PNG・JPEGとの違いと、ブログで使う5つのメリット\n\nWebPの特徴、PNG・JPEGとの違い、ブログ運営者が知っておきたい導入メリットと注意点を実例ベースで解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/webp-guide.html\n\n#フリー素材 #ブログ運営",
+    "id": "col-003",
+    "text": "💡 デザインのヒント\n\nSNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表\n\nX・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。\n\n→ https://sozaino.com/column/sns-image-size-guide.html",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 18,
+      "jstHour": 19,
       "jstMinute": 0,
-      "utcHour": 9,
+      "utcHour": 10,
       "utcMinute": 0,
-      "cron": "0 9 * * *",
-      "label": "18:00 JST"
+      "cron": "0 10 * * *",
+      "label": "19:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 466,
-    "text": "🗓️ 11月・秋の素材\n\n「収穫祭」の季節にぴったりな素材を紹介します。\n\n【キッチン引き出しの瓶詰め整理収納術】\n賃貸住宅や小さなキッチンでの収納工夫を紹介するInstagram投稿やPinterest記事。美しく統一された収納例として、フォロワーからの「いいね」と保存数の増加が見込めます。に使えます。\n\n→ https://sozaino.com/download?id=466\n\n#収納 #キッチン #整理整頓 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/home_074.webp",
+    "id": 83,
+    "text": "📸 素材紹介\n\n元気に指をさす笑顔の女性ポートレート\n💡 使用例：「これが正解！あなたに合った選択肢を見つけよう」\n\n指差しポーズで積極的な姿勢を見せる女性のポートレート。明るい表情と動的なジェスチャーが信頼感と親近感を同時に生み出します。背景透過なので、企業サイトやバナー、プレゼン資料など様々なレイアウトに直接配置でき、周囲の色に合わせやすい仕様です。\n\n無料でDLできます\n→ https://sozaino.com/download?id=83\n\n#ポートレート #女性 #笑顔 #素材配布",
+    "imageUrl": "https://sozaino.com/webp/person_053.webp",
     "schedule": {
       "jstHour": 21,
       "jstMinute": 0,
