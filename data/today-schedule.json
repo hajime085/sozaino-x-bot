@@ -1,23 +1,23 @@
 [
   {
     "type": "material",
-    "id": 267,
-    "text": "✨ 【無料素材】レーズンが入ったパウンドケーキのスタイリング写真\n\n▸ お菓子・レシピブログ\n▸ 焼き菓子の作り方動画\n\nレーズンが散在したパウンドケーキをスタイリングで撮影。焼き色の温かみのある茶系統と、黒紫色のレーズンのコントラストが特徴。素朴で親しみやすい手作り感と、丁寧な焼き菓子のイメージが伝わる落ち着いた一枚。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=267\n\n#フリー素材 #ソザイノ #パウンドケーキ #焼き菓子 #レーズン",
-    "imageUrl": "https://sozaino.com/webp/food_122.webp",
+    "id": 1039,
+    "text": "📸 素材紹介\n\nスキンケアクリームを手に取る女性\n💡 使用例：「毎日のスキンケアルーティン｜プロが教える正しいクリームの塗り方」\n\nスキンケアクリームを手に取る女性の様子を捉えた素材です。美容やコスメ関連のブログ記事、SNS投稿、動画のサムネイルなど、幅広いコンテンツに活用できます。商品紹介やスキンケア情報発信に最適です。\n\n無料でDLできます\n→ https://sozaino.com/download?id=1039\n\n#スキンケア #美容 #クリーム #素材配布",
+    "imageUrl": "https://sozaino.com/webp/beauty_45.webp",
     "schedule": {
-      "jstHour": 9,
+      "jstHour": 10,
       "jstMinute": 0,
-      "utcHour": 0,
+      "utcHour": 1,
       "utcMinute": 0,
-      "cron": "0 0 * * *",
-      "label": "09:00 JST"
+      "cron": "0 1 * * *",
+      "label": "10:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 201,
-    "text": "📸 素材紹介\n\n手作りの小さなレーズン入り焼きパンb\n💡 使用例：「おやつタイムを彩る、簡単お手軽焼き菓子」\n\nホームメイドの温かみが感じられる焼きたてのレーズンパン。素朴な茶褐色の表面とふっくらした形状が、手作りの丁寧さを表現しています。ベーカリーや料理ブログ、朝食紹介など日常的なコンテンツに馴染みやすい雰囲気。\n\n無料でDLできます\n→ https://sozaino.com/download?id=201\n\n#パン #手作り #焼き菓子 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/food_049.webp",
+    "id": 170,
+    "text": "✨ 【無料素材】森の中の清涼水：自然の中に置かれたペットボトル\n\n▸ 健康・ダイエット情報サイト\n▸ 環境問題・エコロジー啓発\n\n森林の緑を背景にした透明なペットボトルが配置された構図。自然光が水を通して反射し、清涼感と純粋さを視覚化しています。アウトドア・健康飲料・環境配慮をテーマとするプロジェクトに適した配色です。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=170\n\n#フリー素材 #ソザイノ #ペットボトル #水 #自然",
+    "imageUrl": "https://sozaino.com/webp/food_019.webp",
     "schedule": {
       "jstHour": 13,
       "jstMinute": 0,
@@ -29,30 +29,30 @@
   },
   {
     "type": "column",
-    "id": "col-002",
-    "text": "💡 デザインのヒント\n\nフリー素材の商用利用、実は注意が必要なケースとは？確認すべき3つのポイント\n\n「商用利用OK」のフリー素材でも注意が必要なケースがあります。利用規約の読み方、NGになりやすいパターン、安全に使うための確認ポイントを解説します。\n\n→ https://sozaino.com/column/commercial-use-guide.html",
+    "id": "col-005",
+    "text": "📖 ソザイノ コラム\n\nブログ用フリー素材の選び方。失敗しないための5つの確認ポイント\n\nブログのアイキャッチや挿入画像に使うフリー素材を選ぶときの5つの確認ポイントを解説。商用利用・画質・ファイル形式・ライセンスの読み方まで、初心者でも迷わない選び方をまとめます。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/free-material-selection-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 19,
+      "jstHour": 18,
       "jstMinute": 0,
-      "utcHour": 10,
+      "utcHour": 9,
       "utcMinute": 0,
-      "cron": "0 10 * * *",
-      "label": "19:00 JST"
+      "cron": "0 9 * * *",
+      "label": "18:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 791,
-    "text": "📸 素材紹介\n\n焼きたてパンを持つ笑顔のパン職人\n💡 使用例：「焼きたてパンの香りに思わず吸い寄せられる。パン好きなら絶対知るべき専門店5選」\n\n焼き色の付いたパンを手に笑顔を見せる職人のキャラクター。温かみのある色合いと親しみやすい表情で、ベーカリーサイトやパン関連の記事、焼き菓子の広告などに即座に使用できます。職人の誠実さとパン作りの楽しさが伝わる一枚。\n\n無料でDLできます\n→ https://sozaino.com/download?id=791\n\n#ベーカリー #職人 #食べ物 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/character_47.webp",
+    "id": 753,
+    "text": "🎨 秋も深まる11月\n\n【ビジネスマンのOKサインポーズ】\n爽やかな色合いの背景に、自信に満ちた表情でOKサインを示すビジネスマンが描かれています。親指と人差し指で作った円形のジェスチャーが、承認・完了・成功といったポジティブなメッセージを直感的に伝えます。企画提案や達成報告のビジュアルに適した構図。\n📌 求人広告や企業紹介ページの素材。若い社員の活躍イメージを演出し、求職者からの応募率向上が期待できます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=753\n\n#ビジネスマン #笑顔 #OKサイン #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_007.webp",
     "schedule": {
-      "jstHour": 22,
+      "jstHour": 20,
       "jstMinute": 0,
-      "utcHour": 13,
+      "utcHour": 11,
       "utcMinute": 0,
-      "cron": "0 13 * * *",
-      "label": "22:00 JST"
+      "cron": "0 11 * * *",
+      "label": "20:00 JST"
     }
   }
 ]
