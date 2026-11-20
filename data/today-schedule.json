@@ -1,9 +1,9 @@
 [
   {
     "type": "material",
-    "id": 843,
-    "text": "📸 素材紹介\n\n具材たっぷり春巻きのイラスト\n💡 使用例：「見た目も味も大満足。パーティーやおもてなしに最適な春巻きの作り方」\n\n揚げたての春巻きを温かみのある色合いで描いたイラスト。黄金色の外皮、野菜の緑や赤が詰まった断面が見える構図で、食欲をそそる雰囲気を表現。背景透過により、メニューやブログ、飲食店のプロモーション素材として汎用性が高い。\n\n無料でDLできます\n→ https://sozaino.com/download?id=843\n\n#春巻き #揚げ物 #中華料理 #素材配布",
-    "imageUrl": "https://sozaino.com/webp/character_a168.webp",
+    "id": 431,
+    "text": "🎨 秋も深まる11月\n\n【スキンケア・美容商品とタオルの清潔感あふれるフラットレイ】\n化粧水やクリーム、タオルを白い背景に配置したフラットレイ。清潔感と余白を大切にした構成で、スキンケアブランドやボディケア製品のプロモーションに適した落ち着いた配色。日中の光を感じさせる明るい雰囲気が特徴。\n📌 スキンケアルーティンや美容ケア方法を紹介するブログ記事のアイキャッチに最適。清潔感のあるミニマルな構図が、プロフェッショナルで信頼感のあるイメージを演出します。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=431\n\n#スキンケア #美容 #コスメ #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/beauty_013.webp",
     "schedule": {
       "jstHour": 8,
       "jstMinute": 0,
@@ -15,9 +15,9 @@
   },
   {
     "type": "material",
-    "id": 36,
-    "text": "🗓️ 11月・秋の素材\n\n「収穫祭」の季節にぴったりな素材を紹介します。\n\n【オフィスでプレゼンをする笑顔のビジネスマン】\n営業・セールス手法の解説記事に使えます。\n\n→ https://sozaino.com/download?id=36\n\n#男性 #スーツ #お辞儀 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/person_101.webp",
+    "id": 780,
+    "text": "🎨 秋も深まる11月\n\n【ペンキを塗る職人さんのイラスト】\nペンキ缶を持ち、壁に塗装作業を進める職人の姿を描いたイラスト。実務的で親しみやすい雰囲気を持ち、DIY関連の記事や施工サービス紹介、建築・工事関連のコンテンツに活用できます。職人の動きや真摯な作業姿勢が伝わる構図。\n📌 リフォーム・塗装業者のホームページやブログ記事のアイキャッチに最適。親しみやすいキャラクターが信頼感を与え、サービス紹介記事のクリック率向上が期待できます。に最適\n\n✅ 無料・商用OK・WebP形式\n→ https://sozaino.com/download?id=780\n\n#職人 #DIY #イラスト #フリー素材 #ソザイノ",
+    "imageUrl": "https://sozaino.com/webp/character_36.webp",
     "schedule": {
       "jstHour": 13,
       "jstMinute": 0,
@@ -29,23 +29,23 @@
   },
   {
     "type": "column",
-    "id": "col-008",
-    "text": "💡 デザインのヒント\n\nWebP形式とは？PNG・JPEGとの違いと、ブログで使う5つのメリット\n\nWebPの特徴、PNG・JPEGとの違い、ブログ運営者が知っておきたい導入メリットと注意点を実例ベースで解説します。\n\n→ https://sozaino.com/column/webp-guide.html",
+    "id": "col-003",
+    "text": "📖 ソザイノ コラム\n\nSNS投稿の画像サイズ完全ガイド。X・Instagram・LINE・Facebook対応表\n\nX・Instagram・LINE・Facebookそれぞれの推奨画像サイズを一覧で整理。SNS投稿で画像が切れたり粗くなったりしないための設定ポイントを解説します。\n\nブログ・動画制作に役立つ情報を発信中\n→ https://sozaino.com/column/sns-image-size-guide.html\n\n#フリー素材 #ブログ運営",
     "imageUrl": null,
     "schedule": {
-      "jstHour": 19,
+      "jstHour": 17,
       "jstMinute": 0,
-      "utcHour": 10,
+      "utcHour": 8,
       "utcMinute": 0,
-      "cron": "0 10 * * *",
-      "label": "19:00 JST"
+      "cron": "0 8 * * *",
+      "label": "17:00 JST"
     }
   },
   {
     "type": "material",
-    "id": 57,
-    "text": "🗓️ 11月・秋の素材\n\n「紅葉」の季節にぴったりな素材を紹介します。\n\n【驚きと衝撃を表現する男性のジェスチャー】\n感情豊かなリアクション動画やブログに使えます。\n\n→ https://sozaino.com/download?id=57\n\n#驚き #びっくり #感情表現 #フリー素材 #ソザイノ",
-    "imageUrl": "https://sozaino.com/webp/person_023.webp",
+    "id": 396,
+    "text": "✨ 【無料素材】爽やかなペットボトルの水\n\n▸ 健康・ダイエット関連のブログ記事やYouTube動画のアイキャッチ。清潔感のある爽やかな雰囲気が「毎日の水分補給の大切さ」や「デトックス方法」といったコンテンツの信頼性を高めます。\n▸ 飲料商品のレビューサイトやECサイト。ペットボトル水の比較記事やおすすめ商品紹介に最適で、商品の透明感と品質をビジュアルで表現できます。\n\n透明感のあるペットボトルに入った水が、清潔感と新鮮さを表現しています。爽やかな光の当たり方で、飲料・健康関連の記事やランディングページの視認性を高めます。シンプルで信頼感のある雰囲気が特徴です。\n\nWebP形式 / 商用利用可\n→ https://sozaino.com/download?id=396\n\n#フリー素材 #ソザイノ #ペットボトル #水 #飲料",
+    "imageUrl": "https://sozaino.com/webp/blog_081.webp",
     "schedule": {
       "jstHour": 20,
       "jstMinute": 0,
